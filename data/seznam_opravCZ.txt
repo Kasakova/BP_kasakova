@@ -1,0 +1,309 @@
+Je úspěch totéž co popularita?	Tu	3,2368(bylo Tu),2916,4618
+Tatínkové, kde jste?	Td	723,3328,5448
+Kdopak má tu čest být prvním detektivním autorem?	Td	1132,1851(bylo Td),3295,5415
+A co budete dělat dál?	Td 1332,3859,5979
+Sám jste zařídil dva góly, jak jste viděl obě situace?	Td	1352,3263,5383
+
+A co dnes uvidíte?	Td	5190
+A co dál?	Td	5211
+A pokud ano, tak kdy?	Td 2148
+Co budeš dělat?	Tu
+Co chceš?	Tu
+Co děláš?	Tu
+Co je to epitaf?	Tu
+Co jsem říkal?	Tu
+Co jsi říkal?	Tu
+Co jsi říkala?	Tu
+Co jste říkal?	Tu
+Co to máš?	Tu
+Co to říkal?	Tu
+Co to říká?	Tu
+Co říkal?	Tu
+Co říkáte?	Tu
+Co říkáš?	Tu
+Jak je možné, že počítačům stačí jedničky a nuly?	Tu
+Je vůbec možné hubnout půl kila den co den?	Td
+Kam jede autobusová linka číslo dvacet?	Tu
+Kdy se bude opravovat rychlostní silnice R devět?	Tu
+Klaus tlačí, kam ustoupí Zeman?	Tu
+Musel být ten spor řešen přes média?	Td
+Nakolik je hodnocení zahraničních investorů pro nás důležité?	Tu
+O co vlastně jde Klausovi?	Td
+O co vlastně jde Klausovi?	Tu
+Podvádí někdo úspěšně podvádí v daňovém přiznání?	Tu
+S jakými pocity odjížděl?	Td
+S jakými pocity odjížděl?	Tu
+S čím tam koncertujete?	Td
+S čím tam koncertujete?	Tu
+Sám jste zařídil dva góly, jak jste viděl obě situace?	Tu
+Tahám se snad já po republice jako ňákej vandrák?	Td
+Zejtra, co zejtra?	Td
+proč jsou vlastně Češi v Rakousku nejméně populární ze všech sousedů?	Td
+
+
+
+A co Kubiš s Gabčíkem?	Td
+A co Maďaři v Rumunsku?	Td
+A co dlužníci?	Td
+A co hygiena?	Td
+A co investoři?	Td
+A co já?	Tu
+A co konkurs?	Td
+A co lidovci?	Td
+A co on?	Tu
+A co osobnosti takzvané křižné?	Td
+A co ostatní čeští básníci?	Td
+A co poslední branka?	Td
+A co rychlé pomrkávání?	Td
+A co samotné stránky pracovních úřadů?	Td
+A co sestry Krejčovy?	Td
+A co sponzoring?	Td
+A co ta praktická žurnalistika?	Td
+A co teď?	Tu
+A co ti chudáci, kteří pro samou práci nemají čas se pořádně zviditelnit vždyť zviditelňování se je samo o sobě práce na plný úvazek?	Td
+A co ty?	Tu
+A co třeba využít Kukova citu pro gólové situace?	Td
+A co v energetice?	Td
+A co všechny ty ženy ve vašem životě, o nichž denně slyšíme?	Td
+A co české banky?	Td
+A co?	Tu
+A další kauzy?	Tu
+A dnes?	Tu
+A dál?	Tu
+A etničtí Albánci?	Tu
+A humor italský?	Tu
+A hvězdy, jichž se celý mediální kolotoč týká?	Tu
+A jaderné elektrárny?	Tu
+A jak?	Tu
+A jeho recept na dlouhověkost Žlutého psa?	Tu
+A jejich ideové zdůvodnění?	Tu
+A jestli mě znervózňoval?	Tu
+A já?	Tu
+A kdo?	Tu
+A kdy?	Tu
+A kdybyste měla jmenovat alespoň některé své favority?	Tu
+A když sociální demokraté své sliby nesplní?	Tu
+A multimédia, nosiče spojující text, zvuk a obraz?	Tu
+A pak?	Tu
+A postoj církve?	Tu
+A potom?	Tu
+A poučení profesionální?	Tu
+A pronájmy státní půdy zemědělcům?	Tu
+A pátá možnost?	Tu
+A případná ztráta svrchovanosti?	Tu
+A svěřit libreto Jiřímu Suchému?	Tu
+A tady?	Tu
+A teď?	Tu
+A tohle?	Tu
+A ty?	Tu
+A vy jste?	Tu
+A vy?	Tu
+A výsledek?	Tu
+A že je tady míň hvězd?	Tu
+A?	Tu
+Ale Vašku, když odejdu?	Tu
+Ale co auta?	Td
+Ale co jejich méně osvícení kolegové, kteří se rádi odposlouchávají a udávají dokonce navzájem?	Td
+Ale co kdyby zeď zbourali běloši?	Td
+Ale co když je zřejmé, že čas člověka je sečten?	Td
+Ale co když oni omezují moji demokracii?	Td
+Ale co těch sedmdesát devět dalších?	Td
+Ale co?	Tu
+Ale proč?	Tu
+Ale třicet halířů za Grebeníčka?	Tu
+Ale u ředitele?	Tu
+Ano nebo ne?	Tu
+Ano, nebo ne?	Tu
+Ano?	Tu
+Asi dvacet, pětadvacet?	Tu
+Bláhové sny dobrodruha?	Tu
+Chtějí pikantnosti, tak proč jim je nedopřát?	Tu
+Co dodat?	Tu
+Co dál?	Tu
+Co je?	Tu
+Co já vím?	Tu
+Co já?	Tu
+Co s tím?	Tu
+Co teď?	Tu
+Co to?	Tu
+Co ty?	Tu
+Co tě nepálí, nehas?	Tu
+Co vy?	Tu
+Co?	Tu
+Copak jsem grafoman?	Td	xxx	Copak jsem mezulán?	Tu
+Dekonstruktivismus na jevišti, spojený s jakýmsi tajemným symbolismem?	Tu
+Do knihy s názvem Kdo zabil Václava Klause?	Tu
+Dobré?	Tu
+Dobrý, ne?	Tu
+Dobrý?	Tu
+Dobře?	Tu
+Dva, pět, devětadvacet?	Tu
+Důvod jeho přesvědčení?	Tu
+Důvod?	Tu
+Evropa zdrojem všech problémů?	Tu
+Fakt jo?	Tu
+Fakt, jo?	Tu
+Fakt?	Tu
+Hokejisté jsou skvělí, a co komentátoři?	Td
+Horník bez šachty?	Tu
+Hotovo?	Tu
+Jak by k tomu přišel chudák exhibicionista?	Td
+Jak je?	Tu
+Jak přišel k miliardám, když vydělával měsíčně jen tři tisíce?	Tu
+Jak se má?	Tu
+Jak to je?	Tu
+Jak to šlo?	Tu
+Jak to, chlapče?	Td
+Jak to?	Tu
+Jak vypadá?	Td
+Jak začala?	Td
+Jak?	Tu
+Jakou?	Tu
+Jaká?	Tu
+Jaké?	Tu
+Jaký?	Tu
+Jasné?	Tu
+Jasný?	Tu
+Jenže jak, když mu chybí dva základní kameny?	Td
+Ještě něco?	Tu
+Ještě?	Tu
+Jo?	Tu
+Já?	Tu
+Jít do diplomacie?	Tu
+K zviditelnění autorů?	Tu
+K čemu to všechno?	Tu
+Kam jdeš?	Tu
+Kam?	Tu
+Kde je?	Tu
+Kde jsi?	Tu
+Kde jsou?	Tu
+Kde jste?	Tu
+Kde to je?	Tu
+Kde?	Tu
+Kdes byl?	Tu
+Kdeže se takové góly učí?	Tu
+Kdo to byl?	Tu
+Kdo?	Tu
+Kdy?	Tu
+Když jsme přesvědčili děti, jak by mohli odmítat rodiče?	Tu
+Když nebude v pořádku, jak sestavit Jágrův útok?	Tu
+Koho?	Tu
+Kolik?	Tu
+Kometa, letadlo a člověk?	Tu
+Komu?	Tu
+Konec dobré myšlenky?	Tu
+Konec dobrý, všechno dobré?	Tu
+Konec fáze vlády sebevrahů?	Tu
+Konec s experimenty?	Tu
+Konec státních intendantur?	Tu
+Konflikt v Evropě?	Tu
+Které?	Tu
+Kvóty pro východní Němce?	Tu
+Ljuba Hermannová budoucnosti?	Tu
+Mami?	Tu
+Marka, libra, frank?	Tu
+Mně?	Tu
+Muž bez nedostatků?	Tu
+My?	Tu
+Mě?	Tu
+Na co?	Tu
+Například?	Tu
+Ne?	Tu
+Nebo co?	Tu
+Nebo jo?	Tu
+Nebo mutovaní Euročeši?	Tu
+Nebo ne?	Tu
+Nebo u oštěpů?	Tu
+Nebo workoholika, který téměř oslepl u počítače?	Tu
+Nebo útěk ze Západu?	Tu
+Nebo Číně, rodící se nové supervelmoci?	Tu
+Nemorálnost, alibismus, hnus a zvrácenost?	Tu
+Nic?	Tu
+No a co?	Tu
+No a?	Tu
+No co?	Tu
+No?	Tu
+Nová éra jaderného odstrašování?	Tu
+Nový typ humanismu?	Tu
+Nu a lidovci?	Tu
+Nylon a hedvábí?	Tu
+Nájemní vrazi a neonacisté?	Tu
+OK?	Tu
+Od koho?	Tu
+Odkud jsi?	Tu
+Odkud?	Tu
+Opravdu?	Tu
+Opustí plzeňské Plzeň?	Tu
+Očekával bych, že s příslušnou omluvou?	Tu
+Proč?	Tu
+První a druhou světovou válkou, například?	Tu
+Právě tady, pět minut před dvanáctou?	Tu
+Recept na úspěch?	Tu
+S čím začít?	Td
+S čím?	Tu
+Snad geniální dílo trenérů?	Tu
+Soud v nedohlednu?	Tu
+Splácení dluhů Markíze?	Tu
+Sportovně bych si vůbec nepolepšil, a finančně?	Tu
+Staří to už nějak doklepou, ale co mládež?	Td
+Surovost z nezbytí?	Tu
+Tady, v Osvětimi?	Tu
+Tady?	Tu
+Tak co?	Tu
+Tak ještě jednou, proč?	Td
+Tak tedy favorit šampionátu?	Tu
+Tak víte co?	Tu
+Tak víš co?	Tu
+Tak?	Tu
+Takhle?	Tu
+Taky?	Tu
+Také rozvrat, konfrontaci, návrat ke kapitalismu?	Tu
+Takže Grégrův plán je mrtev, ať žije plán Mertlíkův?	Tu
+Takže co?	Tu
+Teď?	Tu
+To je co?	Tu
+Tohle?	Tu
+Ty chalupy, ten klášter, ty sklárny?	Tu
+Ty?	Tu
+Ukaž?	Tu
+Umoudří se lidé, či naopak dojde k nejhoršímu?	Tu
+Upíři v řadách policie?	Tu
+Určitě?	Tu
+Už zase?	Tu
+Už?	Tu
+V pohodě?	Tu
+V pořádku?	Tu
+V roli památkářů?	Tu
+V čem?	Tu
+Vaše záliby?	Tu
+Ve zdravotnictví, v kultuře, ve školství?	Tu
+Viď?	Tu
+Vy?	Tu
+Všechno?	Tu
+Vůbec?	Tu
+Z hlouby srdce?	Tu
+Z čeho?	Tu
+Za pár minut?	Tu
+Za ty honoráře?	Tu
+Zabere se do hry, ale co jeho blízcí?	Td
+Zase?	Tu
+Zemědělce, zahrádkáře nebo snad důchodce?	Tu
+Zlato?	Tu
+Způsob řešení kriminality?	Tu
+Zrada klíčových akcionářů?	Tu
+Ztráta paměti, nezájem?	Tu
+Úcta k soukromí?	Tu
+Úder bez rizika?	Tu
+Útok na předsedu?	Tu
+Čeho?	Tu
+Či všechno dohromady?	Tu
+Čím?	Tu
+
+
+
+
+
+
+
+
+Jste nervózní, nedůtkliví či trpíte depresí?	Tu	1108
