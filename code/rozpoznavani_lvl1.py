@@ -1,3 +1,5 @@
+import pandas as pd
+
 def load_config(config):
     with open(config, encoding="utf-8") as cfg:
         td_list = cfg.readlines()
@@ -5,7 +7,6 @@ def load_config(config):
     for word in td_list:
         word = word.lower()
         word = word.strip()
-        print(word)
         td_list[i] = word
         i += 1
     return td_list
@@ -21,18 +22,38 @@ def normalizace(veta):
     veta = veta.replace("  ", " ")
     return veta
 
+# #vyuziva substring
+# def rozpoznani(veta,config):
+#     veta = normalizace(veta)  # kdyby nahodou
+#     td = config
+#     tone = 'Tu'
+#     for word in td:
+#         if word in veta:
+#             tone = 'Td'
+#     return tone
 
-def rozpoznani(veta):
+# kontroluje po slovech
+def rozpoznani(veta,config):
     veta = normalizace(veta)  # kdyby nahodou
-    td = load_config('config.txt')
+    td = config
     tone = 'Tu'
-    for word in td:
-        if word in veta:
-            tone = 'Td'
+    veta = veta.split()
+    for ref in td:
+        for word in veta:
+            if word == ref:
+                tone = 'Td'
     return tone
 
-
-print(rozpoznani('Jak se máš?'))
+# # jen prvni slovo
+# def rozpoznani(veta,config):
+#     veta = normalizace(veta)  # kdyby nahodou
+#     td = config
+#     tone = 'Tu'
+#     veta = veta.split()
+#     for ref in td:
+#         if veta[0] == ref:
+#             tone = 'Td'
+#     return tone
 
 
 def rozpoznani_souboru(file):
@@ -49,8 +70,36 @@ def rozpoznani_souboru(file):
             line.pop()
 
             ' '.join(line)
+            line = line[0]
             line = normalizace(line)
             vety.append(line)
     for veta in vety:
-        tone = rozpoznani(veta)
+        tone = rozpoznani(veta,load_config('config.txt'))
         rozp.append(tone)
+    return vety,rozp, anotace
+
+
+vety,rozp, anotace = rozpoznani_souboru('CZ_testing.txt')
+# vety,rozp, anotace = rozpoznani_souboru('EN_testing.txt')
+
+def vyhodnoceni(vety, rozp, anotace):
+    count=0
+    if len(rozp) == len(anotace):
+        for i in range(len(rozp)):
+            if rozp[i] == anotace[i]:
+                count += 1
+            else:
+                print(vety[i] + '\t' + anotace[i])
+    else:
+        print('Neco je spatne')
+    print('Accuracy: ' + str(100*count/len(rozp)) + ' %')
+
+
+vyhodnoceni(vety, rozp, anotace)
+
+
+confusion_matrix = pd.crosstab(anotace, rozp, rownames=['Actual'], colnames=['Predicted'])
+print(confusion_matrix)
+
+
+

@@ -1,6 +1,6 @@
 Kolik kilogramů se tedy dá reálně zhubnout za měsíc?	Td
 Z čeho tak usuzujete?	Td
-Je úspěch totéž co popularita?	Td
+Je úspěch totéž co popularita?	Tu
 Podle jakých kritérií však lze objektivně určit bohatství či chudobu země a lidí, kteří v ní žijí?	Td
 Co tomu však předcházelo?	Td
 V čem myslíte, že je Škoda dobrá?	Td
@@ -258,7 +258,7 @@ Co udělají v severních Čechách s dalšími tisíci nezaměstnaných, až za
 Jak chtějí získat příjmy k pokrytí všech výdajů?	Td
 Ale co když oni omezují moji demokracii?	Td
 Proč padá hodně gólů v závěrečných minutách a v nastaveném čase?	Td
-Musel být ten spor řešen přes média?	Td
+Musel být ten spor řešen přes média?	Tu
 Co je zajímavého v oblíbené rekreační obci Pražanů?	Td
 A kdo může za stav ducha ostrostřelce a astrologa Baudyše?	Td
 Jak orchestr naplnil vaše očekávání?	Td
@@ -436,7 +436,7 @@ Jak by k tomu přišel chudák exhibicionista?	Td
 Jak to děláte, že Váš zpěv působí tak přirozeně a pódiové vystupování tolik spontánně?	Td
 Jaký pocit zatím máte ze svého zámořského angažmá?	Td
 Koho to zajímá, když trhy stoupají?	Td
-Tahám se snad já po republice jako ňákej vandrák?	Td
+Tahám se snad já po republice jako ňákej vandrák?	Tu
 A co o Grulichovu působení na vnitru říká lidovec Cyril Svoboda?	Td
 Který z velkých pohybů lze pak brát vážně?	Td
 O co opírám svá tvrzení?	Td
@@ -503,7 +503,7 @@ Kdo odpovídá za neúspěšnou činnost organizace?	Td
 Proč Hanka podváděl a falšoval?	Td
 Jak žije normální Kubánec?	Td
 Proč trpíme existenci ztrátových podniků, v nichž ředitelé a možná i dělníci berou velké peníze?	Td
-Je vůbec možné hubnout půl kila den co den?	Td
+Je vůbec možné hubnout půl kila den co den?	Tu
 Kdo začne první?	Td
 Jak se shánějí na film básnickou sbírku?	Td
 Čím jsou si natolik příbuzné, že se nakonec ocitly ve stejné ohrádce?	Td
@@ -1054,7 +1054,7 @@ Byl jste sebekritický, když jste vzal post ministra?	Tu
 Půjdou za Železným?	Tu
 Je to horší?	Tu
 Že při jejich koncertech školou povinné dívenky omdlévají, strhávají si oblečení a sanitky mají poplach?	Tu
-Umoudří se lidé, či naopak dojde k nejhoršímu?	Tu
+Umoudří se lidé, či naopak dojde k nejhoršímu?	Td
 Měl jste spolubydlícího?	Tu
 Jde o léčbu?	Tu
 Partyzán má uzdu?	Tu
@@ -1129,7 +1129,7 @@ Budeme mít novou vládu?	Tu
 Je toto území podobné spíš pevnosti?	Tu
 Není to trochu tvrdé?	Tu
 Je to vůbec osobnost?	Tu
-Kdopak má tu čest být prvním detektivním autorem?	Tu
+Kdopak má tu čest být prvním detektivním autorem?	Td
 Mám vůbec šanci?	Tu
 Financují drogy dálnici?	Tu
 Musí každý vztah zákonitě zkrachovat?	Tu
@@ -1329,7 +1329,7 @@ Je zločin ničit si zdraví drogou?	Tu
 Tys mi lhal?	Tu
 Mají se američtí Češi přimlouvat za někoho, kdo se jich zříká?	Tu
 Máme k tomu chuť?	Tu
-A co budete dělat dál?	Tu
+A co budete dělat dál?	Td
 Měl nějaké výhody bývalý ministr, když byl ve vazbě?	Tu
 Je otevřenější?	Tu
 Chcete vysílat celoplošně?	Tu
@@ -1349,7 +1349,7 @@ Zvolí Václava Klause?	Tu
 Je možné žádat o přídavky na děti?	Tu
 Daří se to?	Tu
 Věděl pan Rychetský, že hrajeme hokej?	Tu
-Sám jste zařídil dva góly, jak jste viděl obě situace?	Tu
+Sám jste zařídil dva góly, jak jste viděl obě situace?	Td
 Roste irské hvězdě svatozář?	Tu
 Myslíte si, že by se české banky měly jasně rozdělit na banky investiční a klasické komerční banky?	Tu
 Pošlou je do Temelína?	Tu
@@ -1827,7 +1827,7 @@ Jaké jsou možnosti léčby?	Td
 A jak byste dopadl?	Td
 A co české banky?	Td
 Už jste si někdy dal vlastní gól?	Tu
-O co vlastně jde Klausovi?	Tu
+O co vlastně jde Klausovi?	Td
 Ale rozuměls tomu Klausovi?	Tu
 Baví vás jezdit autem?	Tu
 K zviditelnění autorů?	Tu
@@ -1996,7 +1996,7 @@ O kom mluvíš?	Td
 Oni to chtěj koupit, a od pana Kouckého?	Tu
 A jaká bude výše výkupného, zprostředkovateli?	Td
 Bude z toho moudrý?	Tu
-Nakolik je hodnocení zahraničních investorů pro nás důležité?	Tu
+Nakolik je hodnocení zahraničních investorů pro nás důležité?	Td
 Nemáte pocit, že jde o střet zájmů?	Tu
 Lze doprivatizaci po volbách zastavit nebo zbrzdit?	Tu
 Znamená to, že ještě neskončila etapa vlády sebevrahů?	Tu
@@ -2045,7 +2045,7 @@ Ale homosexualita je, aspoň trošku, nenormální, ne?	Tu
 Stabilizuje reforma politickou scénu?	Tu
 Je pro vás konkurentkou, kolegyní nebo vzorem?	Tu
 A jak na ni mnozí lidé reagují?	Td
-Zabere se do hry, ale co jeho blízcí?	Td
+Zabere se do hry, ale co jeho blízcí?	Tu
 A co ta praktická žurnalistika?	Td
 A nakonec, jak se s paralaxou vyrovnat?	Td
 Skutečně chcete dosáhnout toho, aby prezident odstoupil?	Tu
@@ -2167,7 +2167,7 @@ To si tedy myslíte, daňoví poplatníci, neřku-li občané?	Tu
 Přihlédl ministr k vašim argumentům?	Tu
 Jsou vůbec schopny nějaké užší, rozumné spolupráce?	Tu
 Může být mobil odposloucháván?	Tu
-Klaus tlačí, kam ustoupí Zeman?	Tu
+Klaus tlačí, kam ustoupí Zeman?	Td
 Tak už tomu rozumíš, Eliško?	Tu
 Co bylo nejdůležitější, co nejtěžší?	Td
 Zpochybňuje někdo církev, protože se zdiskreditovala?	Tu
@@ -2210,7 +2210,7 @@ Víte co, paničko?	Tu
 Máte představu, kdy by mohly padnout první rozsudky?	Tu
 Blíží se k šedesátce?	Tu
 Žoldnéř na penzi?	Tu
-S čím tam koncertujete?	Tu
+S čím tam koncertujete?	Td
 Chybí vám příležitost?	Tu
 Zachrání Srbsko monarchie?	Tu
 Ljuba Hermannová budoucnosti?	Tu
@@ -2403,7 +2403,7 @@ Způsob řešení kriminality?	Tu
 Což máme tak krátkou paměť?	Tu
 Teď už je vše v pořádku?	Tu
 Rozhodl jste se být režisérem?	Tu
-S jakými pocity odjížděl?	Tu
+S jakými pocity odjížděl?	Td
 Splácí své dluhy?	Tu
 Václav Žák, Praha, kniha Zlaté časy?	Tu
 Za pár minut?	Tu
@@ -2424,7 +2424,7 @@ Kam jdeš, co povídáš?	Td
 Byl to zázrak?	Tu
 Z čeho se poučit?	Td
 Vstanou noví suveréni?	Tu
-Tak ještě jednou, proč?	Td
+Tak ještě jednou, proč?	Tu
 Na jak dlouho?	Td
 Počkejte, vy něco kupujete?	Tu
 S jakým poselstvím?	Td
@@ -2463,7 +2463,7 @@ A vy se, pane kolego, divíte?	Tu
 A co lidovci?	Td
 Cožpak jste byl bezmocný?	Tu
 Teď už to neplatí?	Tu
-Zejtra, co zejtra?	Td
+Zejtra, co zejtra?	Tu
 Má smysl se nad tím rozčilovat?	Tu
 Chceš být politik?	Tu
 Rozhodl francouzský šarm?	Tu
@@ -2733,7 +2733,7 @@ Proč přišla výzva k zahájení smírčího řízení v sobotu, kdy byl Milo�
 Kolik zvedaných figur za tu krátkou dobu v tréninku absolvovali?	Td
 Kdy se rozhodujete, kam míč pošlete?	Td
 Proč jsou vlastně Češi v Rakousku tak nepopulární?	Td
-proč jsou vlastně Češi v Rakousku nejméně populární ze všech sousedů?	Td
+Proč jsou vlastně Češi v Rakousku nejméně populární ze všech sousedů?	Td
 Proti čemu chce mladý režisér revoltovat?	Td
 Jaký je vztah mezi morálkou a uměním?	Td
 Jaký je vztah mezi etikou a estetikou?	Td
@@ -2771,7 +2771,7 @@ Kde je ale hranice, za niž už nepůjdete?	Td
 Co uděláte, pokud tak opravdu učiní?	Td
 Jak orchestr naplnil vaše očekávání?	Td
 A proč spor vůbec vznikl?	Td
-Musel být ten spor řešen přes média?	Td
+Musel být ten spor řešen přes média?	Tu
 Jak se hodláte postavit k současným trendům elektronické hudby, z nichž nyní čerpá i řada vašich vrstevníků?	Td
 A čím bude v budoucnosti?	Td
 Co radíte spotřebitelům?	Td
@@ -2838,7 +2838,7 @@ Kdo asi mohl být tím, kdo uplácel?	Td
 Kdy je film francouzský?	Td
 Proč brečíš?	Td
 Kdy bude trh s elektřinou?	Td
-Tahám se snad já po republice jako ňákej vandrák?	Td
+Tahám se snad já po republice jako ňákej vandrák?	Tu
 Kdo vás učil psát písničky?	Td
 Co tím chtěl Rychetský říci?	Td
 S čím tam koncertujete?	Td
@@ -2913,7 +2913,7 @@ K čemu by jí bylo, kdybych řekl ano?	Td
 Kdo zaplatil členské příspěvky?	Td
 Proč jste použil tak drsné vyjádření?	Td
 Kde to šlo hůř?	Td
-Je úspěch totéž co popularita?	Td
+Je úspěch totéž co popularita?	Tu
 Komu patří vesmír?	Td
 Co dál s vládou?	Td
 Co na nich zlepšovat?	Td
@@ -3129,7 +3129,7 @@ Jak funguje vyhledávací server?	Td
 Kdo jsou ti, s nimiž moderátor sympatizoval?	Td
 Proč však vyčerpávající utkání neukončí?	Td
 Co jim naordinuje?	Td
-Je vůbec možné hubnout půl kila den co den?	Td
+Je vůbec možné hubnout půl kila den co den?	Tu
 Jak žije normální Kubánec?	Td
 Jak se o nich dozvídáte?	Td
 Jaká rizika s sebou nese srdeční arytmie, jejíž výskyt včera všechny vyděsil?	Td
@@ -3260,7 +3260,7 @@ Uvažujete, že byste někdy natočil další autorskou desku pro děti?	Tu
 Můžete tyto informace potvrdit?	Tu
 Byl počet jeho potomků snahou znovu neosiřet?	Tu
 Dokážete si osobně představit, že dojednáváte novou vládu s Václavem Klausem?	Tu
-Sám jste zařídil dva góly, jak jste viděl obě situace?	Tu
+Sám jste zařídil dva góly, jak jste viděl obě situace?	Td
 Existuje ale něco, co stále přetrvává?	Tu
 Hraje to znovu do rukou Srbů?	Tu
 Je to dobře?	Tu
@@ -3292,7 +3292,7 @@ Vyřeší spor zóna odpovědnosti?	Tu
 Nemělo by se počkat na konec diskuse?	Tu
 Je to úspěch?	Tu
 Udrží výrobci nových technologií pro vzdušné války ceny svých výrobků na přijatelné úrovni?	Tu
-Kdopak má tu čest být prvním detektivním autorem?	Tu
+Kdopak má tu čest být prvním detektivním autorem?	Td
 Přátelil jste se s Václavem Junkem?	Tu
 Může se tady člověk uživit jako sólista?	Tu
 Pracují s lepšími výsledky než profesionální firmy a nic za svoji práci nechtějí?	Tu
@@ -3383,7 +3383,7 @@ Jste křehká?	Tu
 Má oblíbený park zaniknout na úkor obřího supermarketu?	Tu
 Mimochodem, cítíte se manažerem?	Tu
 Podpořil František Halas vydání vaší první básnické sbírky?	Tu
-Umoudří se lidé, či naopak dojde k nejhoršímu?	Tu
+Umoudří se lidé, či naopak dojde k nejhoršímu?	Td
 Mohl byste charakterizovat ten časopis?	Tu
 Dá se říct, že dobrý brankář musí být slyšet?	Tu
 Budu mít záznam, když špatně zaparkuji?	Tu
@@ -3856,7 +3856,7 @@ Bylo to záměrné?	Tu
 Zašli autoři příliš daleko?	Tu
 Bude rozhodovat nejvyšší nabídka, jak se obává Skaunic s Bontonem?	Tu
 Vy s tím souhlasíte?	Tu
-A co budete dělat dál?	Tu
+A co budete dělat dál?	Td
 Hrozí nám odliv mozků?	Tu
 Upozorňoval materiál na jeho protizákonné aktivity?	Tu
 Je něco, o čem si netroufnete vtipkovat?	Tu
@@ -3949,7 +3949,7 @@ Platím řádně daně z každého lůžka, hotel prosperuje a já bych ho měl 
 Lze říci, že po vašem předchůdci zbyla spousta problémů?	Tu
 To chceme?	Tu
 Uživí vás?	Tu
-Podvádí někdo úspěšně podvádí v daňovém přiznání?	Tu
+Podvádí někdo úspěšně v daňovém přiznání?	Tu
 Chytí se na lep?	Tu
 Ptáte se, nakolik budou významné?	Tu
 Je investiční fond fondem?	Tu
@@ -4435,7 +4435,7 @@ Proč přišla výzva k zahájení smírčího řízení v sobotu, kdy byl Milo�
 Kolik zvedaných figur za tu krátkou dobu v tréninku absolvovali?	Td
 Kdy se rozhodujete, kam míč pošlete?	Td
 Proč jsou vlastně Češi v Rakousku tak nepopulární?	Td
-proč jsou vlastně Češi v Rakousku nejméně populární ze všech sousedů?	Td
+Proč jsou vlastně Češi v Rakousku nejméně populární ze všech sousedů?	Td
 Proti čemu chce mladý režisér revoltovat?	Td
 Jaký je vztah mezi morálkou a uměním?	Td
 Jaký je vztah mezi etikou a estetikou?	Td
@@ -4473,7 +4473,7 @@ Kde je ale hranice, za niž už nepůjdete?	Td
 Co uděláte, pokud tak opravdu učiní?	Td
 Jak orchestr naplnil vaše očekávání?	Td
 A proč spor vůbec vznikl?	Td
-Musel být ten spor řešen přes média?	Td
+Musel být ten spor řešen přes média?	Tu
 Jak se hodláte postavit k současným trendům elektronické hudby, z nichž nyní čerpá i řada vašich vrstevníků?	Td
 A čím bude v budoucnosti?	Td
 Co radíte spotřebitelům?	Td
@@ -4540,7 +4540,7 @@ Kdo asi mohl být tím, kdo uplácel?	Td
 Kdy je film francouzský?	Td
 Proč brečíš?	Td
 Kdy bude trh s elektřinou?	Td
-Tahám se snad já po republice jako ňákej vandrák?	Td
+Tahám se snad já po republice jako ňákej vandrák?	Tu
 Kdo vás učil psát písničky?	Td
 Co tím chtěl Rychetský říci?	Td
 S čím tam koncertujete?	Td
@@ -4615,7 +4615,7 @@ K čemu by jí bylo, kdybych řekl ano?	Td
 Kdo zaplatil členské příspěvky?	Td
 Proč jste použil tak drsné vyjádření?	Td
 Kde to šlo hůř?	Td
-Je úspěch totéž co popularita?	Td
+Je úspěch totéž co popularita?	Tu
 Komu patří vesmír?	Td
 Co dál s vládou?	Td
 Co na nich zlepšovat?	Td
@@ -4831,7 +4831,7 @@ Jak funguje vyhledávací server?	Td
 Kdo jsou ti, s nimiž moderátor sympatizoval?	Td
 Proč však vyčerpávající utkání neukončí?	Td
 Co jim naordinuje?	Td
-Je vůbec možné hubnout půl kila den co den?	Td
+Je vůbec možné hubnout půl kila den co den?	Tu
 Jak žije normální Kubánec?	Td
 Jak se o nich dozvídáte?	Td
 Jaká rizika s sebou nese srdeční arytmie, jejíž výskyt včera všechny vyděsil?	Td
@@ -4883,7 +4883,7 @@ Přijdeš v pět?	Tu
 Bylo jich šest?	Tu
 Divadlo začíná v sedm?	Tu
 Sejdeme se v osm?	Tu
-Kdy se bude opravovat rychlostní silnice R devět?	Tu
+Kdy se bude opravovat rychlostní silnice R devět?	Td
 Už bylo deset?	Tu
 Polykáš třešně po třech?	Tu
 Půjdeš se všemi třemi?	Tu
@@ -4901,7 +4901,7 @@ Vystačím s tisícem?	Tu
 Máte jich přesně sto?	Tu
 To si troufáš jít do restaurace jen s pěti sty?	Tu
 Vejde se nás sem patnáct?	Tu
-Kam jede autobusová linka číslo dvacet?	Tu
+Kam jede autobusová linka číslo dvacet?	Td
 Cítíš se stará ve čtyřiceti?	Tu
 Budeš pracovat do šedesáti?	Tu
 Rohlík stojí korunu padesát?	Tu
@@ -4928,7 +4928,7 @@ Přiblížili jste se až k pěti stům?	Tu
 Nechybí ti tady jedna nula?	Tu
 Budeme se zabývat nulami?	Tu
 Neztratilas tady nulu?	Tu
-Jak je možné, že počítačům stačí jedničky a nuly?	Tu
+Jak je možné, že počítačům stačí jedničky a nuly?	Td
 Musíme se bavit o nulách?	Tu
 Víš, jaký je můj vztah k nulám?	Tu
 Dokážete snížit výdaje o jedenáct miliard?	Tu
@@ -5380,7 +5380,7 @@ Uvažujete, že byste někdy natočil další autorskou desku pro děti?	Tu
 Můžete tyto informace potvrdit?	Tu
 Byl počet jeho potomků snahou znovu neosiřet?	Tu
 Dokážete si osobně představit, že dojednáváte novou vládu s Václavem Klausem?	Tu
-Sám jste zařídil dva góly, jak jste viděl obě situace?	Tu
+Sám jste zařídil dva góly, jak jste viděl obě situace?	Td
 Existuje ale něco, co stále přetrvává?	Tu
 Hraje to znovu do rukou Srbů?	Tu
 Je to dobře?	Tu
@@ -5412,7 +5412,7 @@ Vyřeší spor zóna odpovědnosti?	Tu
 Nemělo by se počkat na konec diskuse?	Tu
 Je to úspěch?	Tu
 Udrží výrobci nových technologií pro vzdušné války ceny svých výrobků na přijatelné úrovni?	Tu
-Kdopak má tu čest být prvním detektivním autorem?	Tu
+Kdopak má tu čest být prvním detektivním autorem?	Td
 Přátelil jste se s Václavem Junkem?	Tu
 Může se tady člověk uživit jako sólista?	Tu
 Pracují s lepšími výsledky než profesionální firmy a nic za svoji práci nechtějí?	Tu
@@ -5503,7 +5503,7 @@ Jste křehká?	Tu
 Má oblíbený park zaniknout na úkor obřího supermarketu?	Tu
 Mimochodem, cítíte se manažerem?	Tu
 Podpořil František Halas vydání vaší první básnické sbírky?	Tu
-Umoudří se lidé, či naopak dojde k nejhoršímu?	Tu
+Umoudří se lidé, či naopak dojde k nejhoršímu?	Td
 Mohl byste charakterizovat ten časopis?	Tu
 Dá se říct, že dobrý brankář musí být slyšet?	Tu
 Budu mít záznam, když špatně zaparkuji?	Tu
@@ -5976,7 +5976,7 @@ Bylo to záměrné?	Tu
 Zašli autoři příliš daleko?	Tu
 Bude rozhodovat nejvyšší nabídka, jak se obává Skaunic s Bontonem?	Tu
 Vy s tím souhlasíte?	Tu
-A co budete dělat dál?	Tu
+A co budete dělat dál?	Td
 Hrozí nám odliv mozků?	Tu
 Upozorňoval materiál na jeho protizákonné aktivity?	Tu
 Je něco, o čem si netroufnete vtipkovat?	Tu
@@ -6069,7 +6069,7 @@ Platím řádně daně z každého lůžka, hotel prosperuje a já bych ho měl 
 Lze říci, že po vašem předchůdci zbyla spousta problémů?	Tu
 To chceme?	Tu
 Uživí vás?	Tu
-Podvádí někdo úspěšně podvádí v daňovém přiznání?	Tu
+Podvádí někdo úspěšně v daňovém přiznání?	Tu
 Chytí se na lep?	Tu
 Ptáte se, nakolik budou významné?	Tu
 Je investiční fond fondem?	Tu

@@ -1,0 +1,54 @@
+Actually, why not?	Td -> Tu
+And as for those glasses that make him look like a myopic bullfrog?	Td -> Tu
+And what about him?	Td -> Tu
+And what about you?	Td -> Tu
+And?	Td -> Tu
+But if you could invent a robot that serves cocktails, could you not invent a robot that would make a superior bedmate?	Td -> Tu
+By what right?	Td -> Tu
+Can you comment on that?	Td -> Tu
+Could random, purposeless evolution really have transformed biotic ooze into Beethoven?	Td -> Tu
+Did Thorpe go to see any one in Churchill?	Td -> Tu
+Do you ever have dreams? Td -> Tu
+Do you have any discounts?	Td -> Tu
+Do you have any small change on you?	Td -> Tu
+Do you require any qualifications?	Td -> Tu
+Do you think all people who drink alcohol are neglectful parents or alcoholic?	Td -> Tu
+Does anyone care about it?	Td -> Tu
+Got a problem with that?	Td -> Tu
+He was just bursting with joy, joy over what?	Td -> Tu
+How about a swim?	Tu
+How about going to the theatre?	Td -> Tu
+How come?	Td -> Tu
+How far?	Td -> Tu
+How much is this city map?	Tu
+How to remove stains from the tablecloth?	Tu -> Td
+If not now, when?	Td -> Tu
+In retrospect, despite your bellyaching about multilateralism and weapons of mass destruction, can you bring yourself to admit Iraq is better off without Saddam Hussein?	Td -> Tu
+Is there a department store near here?	Td -> Tu
+Is this a stopover flight?	Td -> Tu
+Now have you got anything to say against me, Mr Philip?	Td -> Tu
+Or have they already devised one?	Td -> Tu
+Or is it mixing sexual perversity with political exhibitionism?	Td -> Tu
+Pardon me?	Td -> Tu
+Should I leave or not?	Tu -> Td
+So what?	Td -> Tu
+Such as?	Td -> Tu
+They show us how ugly we can be, how poisonous and ill, so we may recoil and say, Whoa, you know what?	Td -> Tu
+What about a swim?	Td -> Tu
+What did you say?	Tu -> Td
+What is included in the price?	Tu -> Td
+What stamp do I need for the Czech Republic?	Tu -> Td
+When do I have to return the car?	Tu -> Td
+When was the church built?	Tu -> Td
+Where can we arrange a sightseeing tour?	Tu -> Td
+Which architect designed it?	Tu -> Td
+Which counter is for posting parcels?	Tu -> Td
+Would you be satisfied with that one hundredth part of me?	Td -> Tu
+You didn't go there, did you?	Td -> Tu
+
+
+
+
+
+
+

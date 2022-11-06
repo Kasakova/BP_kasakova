@@ -1,18 +1,18 @@
 from itertools import islice
 
 
-def split_50_50(file, even, odd):
-    with open(file) as f1, open(even, 'w') as f2:
-        for line in islice(f1, 0, None, 2):
-            f2.write(line)
-    with open(file) as f1, open(odd, 'w') as f2:
-        for line in islice(f1, 1, None, 2):
-            f2.write(line)
-
-
-def split_75_25(file, training, testing ):
-    split_50_50(file, training, 'odds.txt')
-    split_50_50('odds.txt', training,testing)
+# def split_50_50(file, even, odd):
+#     with open(file) as f1, open(even, 'w') as f2:
+#         for line in islice(f1, 0, None, 2):
+#             f2.write(line)
+#     with open(file) as f1, open(odd, 'w') as f2:
+#         for line in islice(f1, 1, None, 2):
+#             f2.write(line)
+#
+#
+# def split_75_25(file, training, testing ):
+#     split_50_50(file, training, 'odds.txt')
+#     split_50_50('odds.txt', training,testing)
 
 
 def petina(file, training, testing):
@@ -29,4 +29,4 @@ def petina(file, training, testing):
 
 petina("sortedEN_erased.txt", "EN_training.txt", "EN_testing.txt")
 petina("sortedCZ_erased.txt", "CZ_training.txt", "CZ_testing.txt")
-petina("sortedDE_erased.txt", "DE_training.txt", "DE_testing.txt")
+# petina("sortedDE_erased.txt", "DE_training.txt", "DE_testing.txt")

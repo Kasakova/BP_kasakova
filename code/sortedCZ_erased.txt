@@ -6,7 +6,7 @@ A celodenní náplň?	Tu
 A cena jachty?	Tu
 A co Kubiš s Gabčíkem?	Td
 A co Maďaři v Rumunsku?	Td
-A co budete dělat dál?	Tu
+A co budete dělat dál?	Td
 A co budou platit po mé smrti?	Td
 A co by na to řekl fotbalový komentátor?	Td
 A co by si pomyslel pavouk?	Td
@@ -768,7 +768,7 @@ Jak hodnotíte činnost Koženého v Ázerbájdžánu?	Td
 Jak je možné, že jich banka poskytla takové množství?	Td
 Jak je možné, že jsou ještě nyní vysíláni do zahraničí a jmenováni do vysokých ministerských funkcí?	Td
 Jak je možné, že jste jako ministr o ničem nevěděl?	Td
-Jak je možné, že počítačům stačí jedničky a nuly?	Tu
+Jak je možné, že počítačům stačí jedničky a nuly?	Td
 Jak je možné, že uprchlíci jsou převáženi v armádních vozech?	Td
 Jak je tedy možné, že životně důležité dodávky proudu pro místní obyvatele nefungují?	Td
 Jak je to možné?	Td
@@ -1104,10 +1104,9 @@ Je však rozumná?	Tu
 Je všechno v pořádku?	Tu
 Je vůbec ctností?	Tu
 Je vůbec legitimní otázka, zda je to moc či málo?	Tu
-Je vůbec možné hubnout půl kila den co den?	Td
+Je vůbec možné hubnout půl kila den co den?	Tu
 Je zde referendum, které ohrožuje naše mocenské ambice?	Tu
 Je zločin ničit si zdraví drogou?	Tu
-Je úspěch totéž co popularita?	Td
 Je úspěch totéž co popularita?	Tu
 Je šance, že se tam situace brzy uklidní?	Tu
 Jedete?	Tu
@@ -1214,7 +1213,7 @@ Kam až vedou kořeny muziky, kterou hrajete?	Td
 Kam bychom přišli, kdybychom měli být prospěšní každému klientovi?	Td
 Kam jdeš, co povídáš?	Td
 Kam jdeš?	Tu
-Kam jede autobusová linka číslo dvacet?	Tu
+Kam jede autobusová linka číslo dvacet?	Td
 Kam má namířeno?	Td
 Kam míří?	Td
 Kam půjdu?	Td
@@ -1323,7 +1322,6 @@ Kdo, jak a proč musel odejít?	Td
 Kdo, nebo co je ona nebeská síť?	Td
 Kdo?	Tu
 Kdopak má tu čest být prvním detektivním autorem?	Td
-Kdopak má tu čest být prvním detektivním autorem?	Tu
 Kdy bude metro konečně bez různých kreseb čmáralů?	Td
 Kdy bude referendum?	Td
 Kdy bude trh s elektřinou?	Td
@@ -1337,7 +1335,7 @@ Kdy konkrétně se objevují první signály, že by katolíci a protestanti moh
 Kdy musí být daň z příjmu zaplacena?	Td
 Kdy nás budou odškodňovat?	Td
 Kdy počítáte, že bude podepsána?	Td
-Kdy se bude opravovat rychlostní silnice R devět?	Tu
+Kdy se bude opravovat rychlostní silnice R devět?	Td
 Kdy se rozhodujete, kam míč pošlete?	Td
 Kdy už konečně najdou hokejoví funkcionáři takový model světového šampionátu, který by zajistil dramatický průběh a hodnotné zápasy?	Td
 Kdy vaši řidiči kuřáci začnou dodržovat zákaz kouření za jízdy?	Td
@@ -1351,7 +1349,7 @@ Když jsme přesvědčili děti, jak by mohli odmítat rodiče?	Tu
 Když nebude v pořádku, jak sestavit Jágrův útok?	Tu
 Když už jsem to nakousl, postačí vyměnit jen ministra?	Tu
 Když všichni píšou, kdo bude číst?	Td
-Klaus tlačí, kam ustoupí Zeman?	Tu
+Klaus tlačí, kam ustoupí Zeman?	Td
 Koho by v tomto všeobecně xenofobním ovzduší napadlo, že je především zapotřebí vsadit na cizí investory?	Td
 Koho dnes zajímá, co si já myslím o dadaismu v literatuře?	Td
 Koho to zajímá, když trhy stoupají?	Td
@@ -1489,7 +1487,7 @@ Mrzí ho, že přišel o sedmý zápas s nulou?	Tu
 Mrzí to zkušeného obránce?	Tu
 Mrzí vás to?	Tu
 Musel Lysý podat ruku generálovi?	Tu
-Musel být ten spor řešen přes média?	Td
+Musel být ten spor řešen přes média?	Tu
 Musí každý vztah zákonitě zkrachovat?	Tu
 Musím doplatit zbývající rozdíl?	Tu
 Musíme se bavit o nulách?	Tu
@@ -1693,7 +1691,7 @@ Na kom bude závislá?	Td
 Na které zápasy a branky v této sezóně budete nejvíc vzpomínat?	Td
 Na slovo vzatí profesionálové?	Tu
 Na tohle malé divadélko?	Tu
-Nakolik je hodnocení zahraničních investorů pro nás důležité?	Tu
+Nakolik je hodnocení zahraničních investorů pro nás důležité?	Td
 Napoleon útočí ze záhrobí?	Tu
 Napomohl tomu právě Jágr, s nímž klub udělal výbornou zkušenost?	Tu
 Napíšeš to tam, když to řeknu?	Tu
@@ -1842,7 +1840,6 @@ O co jde ve válce, v níž jedním z hlavních cílů je neutrpět žádné ztr
 O co konkrétně?	Td
 O co opírám svá tvrzení?	Td
 O co vlastně jde Klausovi?	Td
-O co vlastně jde Klausovi?	Tu
 O co šlo?	Td
 O kom mluvíš?	Td
 O čem byla vaše reportáž?	Td
@@ -1915,7 +1912,6 @@ Pod křídla Chemapolu?	Tu
 Podepíšete?	Tu
 Podle jakých kritérií však lze objektivně určit bohatství či chudobu země a lidí, kteří v ní žijí?	Td
 Podpořil František Halas vydání vaší první básnické sbírky?	Tu
-Podvádí někdo úspěšně podvádí v daňovém přiznání?	Tu
 Podvádí někdo úspěšně v daňovém přiznání?	Tu
 Pokud tedy ministerstvo vyhlásí veřejnou soutěž na telekomunikace, tak se přihlásíte?	Tu
 Pokud více než polovina jablek pochází z dovozu, není to pro vás dostatečný důvod k zavedení kvót?	Tu
@@ -2137,7 +2133,6 @@ S jakou výbavou a názory půjdou naši politici do těchto rozhodnutí?	Td
 S jakým poselstvím?	Td
 S jakým výsledkem?	Td
 S jakými pocity odjížděl?	Td
-S jakými pocity odjížděl?	Tu
 S kým bydlíte v apartmá?	Td
 S kým chtějí vládnout?	Td
 S kým si nejlépe rozumíte ze spoluhráčů?	Td
@@ -2146,7 +2141,6 @@ S kým?	Tu
 S čím by asi vyrukoval, kdyby nás obsadili Číňané?	Td
 S čím máme začít?	Td
 S čím tam koncertujete?	Td
-S čím tam koncertujete?	Tu
 S čím vy ji, páni, spojujete?	Td
 S čím začít?	Td
 S čím?	Tu
@@ -2208,14 +2202,14 @@ Stát má radit bankám, komu mají půjčovat?	Tu
 Stává se často, že doporučujete do funkcí ministerské úředníky?	Tu
 Střádáš miliardu k miliardě?	Tu
 Surovost z nezbytí?	Tu
-Sám jste zařídil dva góly, jak jste viděl obě situace?	Tu
+Sám jste zařídil dva góly, jak jste viděl obě situace?	Td
 Súdánská továrna na aspirin, pamatujete?	Tu
 Tady, v Osvětimi?	Tu
 Tady?	Tu
-Tahám se snad já po republice jako ňákej vandrák?	Td
+Tahám se snad já po republice jako ňákej vandrák?	Tu
 Tak Vašík chodí na procházky?	Tu
 Tak co?	Tu
-Tak ještě jednou, proč?	Td
+Tak ještě jednou, proč?	Tu
 Tak jinak, kolik medailí očekáváte?	Td
 Tak kdo chce být milionářem?	Td
 Tak tedy favorit šampionátu?	Tu
@@ -2310,7 +2304,7 @@ Uděluje své rady?	Tu
 Uděláme tiskovku?	Tu
 Ujíždí nám vlak?	Tu
 Ukaž?	Tu
-Umoudří se lidé, či naopak dojde k nejhoršímu?	Tu
+Umoudří se lidé, či naopak dojde k nejhoršímu?	Td
 Umírá papež?	Tu
 Umíte do novin napsat, že si člověk povzdechne?	Tu
 Umíte řídit kolektiv?	Tu
@@ -2504,7 +2498,7 @@ Z čeho?	Tu
 Za jakých podmínek?	Td
 Za pár minut?	Tu
 Za ty honoráře?	Tu
-Zabere se do hry, ale co jeho blízcí?	Td
+Zabere se do hry, ale co jeho blízcí?	Tu
 Zabiješ se?	Tu
 Zachrání Srbsko monarchie?	Tu
 Zajímá tě hmyz?	Tu
@@ -2528,7 +2522,7 @@ Zbourají už postavené?	Tu
 Zbylo vůbec něco z legendy?	Tu
 Zdá se vám to spravedlivé?	Tu
 Zdědí syn hraběcí titul?	Tu
-Zejtra, co zejtra?	Td
+Zejtra, co zejtra?	Tu
 Zemědělce, zahrádkáře nebo snad důchodce?	Tu
 Zeptal se inspektor žertem, co tím chcete říci?	Tu
 Zkouší Klaus, kam až Zeman ustoupí?	Tu
@@ -2570,7 +2564,6 @@ Zůstane ve své funkci například Soňa Pivoňková?	Tu
 Zůstane čtyřkoalice čtyřkoalicí?	Tu
 Zůstávají tedy katolíky, budou rehabilitováni?	Tu
 Zůstáváš u kytary?	Tu
-proč jsou vlastně Češi v Rakousku nejméně populární ze všech sousedů?	Td
 Á, to bys bral, protirevolucionáři, co?	Tu
 Éra Václava Klause jednou skončí, nelákalo by vás ho nahradit?	Tu
 Úcta k soukromí?	Tu

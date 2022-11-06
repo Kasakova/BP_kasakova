@@ -1,0 +1,21 @@
+A co budete dělat dál?	Tu -> Td
+Copak jsem grafoman?	Td -> Tu
+Jak je možné, že počítačům stačí jedničky a nuly?	Tu-> Td
+Je vůbec možné hubnout půl kila den co den?	Td -> Tu
+Je úspěch totéž co popularita?	Td -> Tu
+Kam jede autobusová linka číslo dvacet?	Tu -> Td
+Kdopak má tu čest být prvním detektivním autorem?	Tu -> Td
+Kdy se bude opravovat rychlostní silnice R devět?	Tu -> Td
+Klaus tlačí, kam ustoupí Zeman?	Tu -> Td
+Musel být ten spor řešen přes média?	Td -> Tu
+Nakolik je hodnocení zahraničních investorů pro nás důležité?	Tu -> Td
+O co vlastně jde Klausovi?	Tu -> Td
+Podvádí někdo úspěšně podvádí v daňovém přiznání? -> Podvádí někdo úspěšně v daňovém přiznání? 
+S jakými pocity odjížděl?	Tu -> Td
+S čím tam koncertujete?	Tu -> Td
+Sám jste zařídil dva góly, jak jste viděl obě situace?	Tu -> Td
+Tahám se snad já po republice jako ňákej vandrák?	Td -> Tu
+Tak ještě jednou, proč?	Td  -> Tu
+Umoudří se lidé, či naopak dojde k nejhoršímu?	Tu -> Td
+Zabere se do hry, ale co jeho blízcí?	Td -> Tu
+Zejtra, co zejtra?	Td -> Tu

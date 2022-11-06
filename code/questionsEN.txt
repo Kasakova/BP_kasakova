@@ -2,7 +2,7 @@ But how are you going to do it?	Td
 But who was Eileen's double?	Td
 Could the incident have anything to do with Jeanne and Pierre?	Tu
 Did I possess too much vitality?	Tu
-Did Thorpe go to see any one in Churchill?	Td
+Did Thorpe go to see any one in Churchill?	Tu
 Does the old boy often go off at half-cock that way?	Tu
 Don't you see I hate you?	Tu
 Don't you see, I'm chewing this thing in two?	Tu
@@ -12,7 +12,7 @@ Do you know that you are shaking my confidence in you?	Td
 Do you value your hide?	Tu
 Dunham, can your boy go along with Jesse?	Tu
 Have you ever earned dollar by your own labour?	Td
-He was just bursting with joy, joy over what?	Td
+He was just bursting with joy, joy over what?	Tu
 How can you manage all alone, Mr Young?	Td
 How could he explain his possession of the sketch?	Td
 How could I answer the question on the spur of the moment?	Td
@@ -21,9 +21,9 @@ How in hell did he know it was you in the dark?	Td
 How much was it?	Td
 How old are you, daddy?	Td
 How old are you, mother?	Td
-Now have you got anything to say against me, Mr Philip?	Td
+Now have you got anything to say against me, Mr Philip?	Tu
 Now just what do you want to know?	Td
-Or have they already devised one?	Td
+Or have they already devised one?	Tu
 Shall I carry you?	Tu
 What do you mean by this outrageous conduct?	Td
 What if Jeanne failed him?	Td
@@ -36,7 +36,7 @@ Why not like any railroad station or ferry depot?	Td
 Why should a fellow throw up the sponge after the first round?	Td
 Why, the average review is more nauseating than cod liver oil?	Td
 Will we ever forget it?	Tu
-Would you be satisfied with that one hundredth part of me?	Td
+Would you be satisfied with that one hundredth part of me?	Tu
 Are you waiting for me?	Tu
 How are you doing?	Td
 How is it going?	Td
@@ -61,7 +61,7 @@ I beg your pardon?	Tu
 Sorry?	Tu
 Can you repeat it?	Tu
 Come again?	Tu
-What did you say?	Tu
+What did you say?	Td
 Can you explain it to me?	Tu
 What does it mean?	Td
 Can you describe it in more detail?	Tu
@@ -126,7 +126,7 @@ What is your name?	Td
 How do I get there?	Td
 How often do you go there?	Td
 Do you know how to do it?	Tu
-How come?	Td
+How come?	Tu
 What's the exchange rate?	Td
 Whose fault is it?	Td
 Whose child is it?	Td
@@ -163,7 +163,7 @@ At what time?	Td
 How many stops is it from here?	Td
 How old are you?	Td
 How much older is he?	Td
-What's the date?	Td
+What's the date?	T
 Why did you do that?	Td
 Why me of all people?	Td
 Will you be free tomorrow?	Tu
@@ -242,7 +242,7 @@ How many miles are included in the price?	Td
 Is the gas included in the price?	Tu
 May I leave the state with the car?	Tu
 Can I leave the car at another branch?	Tu
-When do I have to return the car?	Tu
+When do I have to return the car?	Td
 Are you free?	Tu
 Can you open the trunk?	Tu
 How much do you charge per kilometer?	Td
@@ -289,7 +289,7 @@ Can I board the plane now?	Tu
 Where can I reclaim my luggage?	Td
 Are there any vacancies for today?	Tu
 Is it a direct flight?	Tu
-Is this a stopover flight?	Td
+Is this a stopover flight?	Tu
 What time does my plane take off?	Td
 How much is the cancellation fee?	Td
 Can I use the ticket for the next flight?	Tu
@@ -345,7 +345,7 @@ Which bus number do I take to get there?	Td
 What is the next stop?	Td
 Where is the nearest accommodation facility?	Td
 Do you require a deposit?	Tu
-Is this amount efundable?	Tu
+Is this amount refundable?	Tu
 Do you charge reservation fees?	Tu
 How long in advance can I cancel the reservation without charge?	Td
 Do you charge a cancellation fee?	Tu
@@ -428,7 +428,7 @@ What's the temperature at one thousand metres?	Td
 Is it frosty here at night?	Tu
 Do you organize trips?	Tu
 How much is such a trip?	Td
-What is included in the price?	Tu
+What is included in the price?	Td
 Is a guide included in the price?	Tu
 How many miles is it?	Td
 How long does the hike take?	Td
@@ -456,10 +456,10 @@ What should we definitely see?	Td
 Which local sights do you recommend?	Td
 Is there a place with a view of the city?	Tu
 How long does the tour take?	Td
-When was the church built?	Tu
+When was the church built?	Td
 Is there a park near here?	Tu
 Can we visit the city museum?	Tu
-Which architect designed it?	Tu
+Which architect designed it?	Td
 Can we take a look inside?	Tu
 Can I take pictures here?	Tu
 Could we stay here a little while and take a look around?	Tu
@@ -468,10 +468,10 @@ Is there an admission charge?	Tu
 Where can I get the tickets?	Td
 Do you offer group discounts?	Tu
 Do you sell stamps?	Tu
-What stamp do I need for the Czech Republic?	Tu
+What stamp do I need for the Czech Republic?	Td
 Where is the nearest mailbox?	Tu
 Are there public toilets near here?	Tu
-Where can we arrange a sightseeing tour?	Tu
+Where can we arrange a sightseeing tour?	Td
 How much is the ticket?	Td
 How long does the sightseeing tour take?	Td
 What does the tour include?	Td
@@ -672,8 +672,8 @@ What's the score?	Td
 Who's leading?	Td
 Who scored?	Td
 Where is the nearest hypermarket?	Td
-Is there a department store near here?	Td
-Do you have any discounts?	Td
+Is there a department store near here?	Tu
+Do you have any discounts?	Tu
 Is this one reduced too?	Tu
 Can you show me how it works?	Tu
 Can I have a look?	Tu
@@ -719,7 +719,7 @@ Is it memory card included?	Tu
 Do you repair digital cameras?	Tu
 Can I try it on?	Tu
 Where's the fitting room?	Td
-Which counter is for posting parcels?	Tu
+Which counter is for posting parcels?	Td
 Can you stop?	Tu
 Can I use your phone?	Tu
 How do we get to the Czech embassy?	Td
@@ -848,7 +848,7 @@ What's my holiday entitlement?	Tu
 Could I take unpaid leave?	Tu
 How much does it pay?	Td
 What exactly would the job involve?	Td
-Do you require any qualifications?	Td
+Do you require any qualifications?	Tu
 When could I start?	Td
 Could somebody show me what exactly I should do?	Tu
 When can you come for an interview?	Td
@@ -900,13 +900,13 @@ Can you please resend it?	Tu
 Do you have another e-mail address?	Tu
 Can you please forward my e-mail to him?	Tu
 And now what?	Td
-And what about you?	Td
-So what?	Td
-And?	Td
+And what about you?	Tu
+So what?	Tu
+And?	Tu
 Who cares?	Td
 Do you want me to call him?	Tu
 Do you have enough money to buy it?	Tu
-Actually, why not?	Td
+Actually, why not?	Tu
 OK?	Tu
 All right?	Tu
 Really?	Tu
@@ -1005,7 +1005,7 @@ What all is missing?	Td
 Why are you laughing?	Td
 Why should you go there?	Td
 It's crazy, isn't it?	Tu
-You didn't go there, did you?	Td
+You didn't go there, did you?	Tu
 You wouldn't lend it to me, would you?	Tu
 Clever, huh?	Tu
 What's worrying you?	Td
@@ -1039,7 +1039,7 @@ And then what?	Td
 And what happened then?	Td
 How does it go on?	Td
 To what extent?	Td
-How far?	Td
+How far?	Tu
 How far is it to Cairo?	Td
 Who's next on the list?	Td
 Will there be more attacks?	Tu
@@ -1088,7 +1088,7 @@ How long is it?	Td
 How long does the film last?	Td
 How much do I owe you?	Td
 What are you doing tonight?	Td
-How about going to the theatre?	Td
+How about going to the theatre?	Tu
 When do you go to work?	Td
 What's got into you?	Td
 What's come over you?	Td
@@ -1269,7 +1269,7 @@ Who is at fault?	Td
 Halt! Who goes there?	Td
 Do you know who you are talking to?	Tu
 When do we meet?	Td
-If not now, when?	Td
+If not now, when?	Tu
 When did it happen?	Td
 When will they come?	Td
 When are they coming?	Td
@@ -1416,7 +1416,7 @@ Who did you last call?	Td
 Who told you this nonsense?	Td
 Will you come to meet me at the station?	Tu
 And what about, let's say, the Japanese?	Td
-Such as?	Td
+Such as?	Tu
 Who ordered you to do this?	Td
 When do you start?	Td
 Who taught you that?	Td
@@ -1430,7 +1430,7 @@ What's your opinion of that?	Td
 Where else if not here?	Td
 You won't stay here long, will you?	Tu
 Let's go, shall we?	Tu
-Should I leave or not?	Tu
+Should I leave or not?	Td
 Isn't that so?	Tu
 What is the risk of infection?	Td
 Do you need anything else?	Tu
@@ -1504,7 +1504,7 @@ Did you report it?	Tu
 Can I talk to you for a minute?	Tu
 Have you ever been robbed?	Tu
 Is it him?	Tu
-And what about him?	Td
+And what about him?	Tu
 Can you see him yet?	Tu
 What are your feelings for him?	Td
 Have you heard of them?	Tu
@@ -1618,7 +1618,7 @@ May I ask you for something?	Tu
 Will you dance with me?	Tu
 Do you work with a computer?	Tu
 Am I right?	Tu
-By what right?	Td
+By what right?	Tu
 But who is Miss Right?	Td
 Are you shitting me?	Tu
 Is it for me?	Tu
@@ -1636,7 +1636,7 @@ Sorry, what was your name again?	Td
 Can you forgive me?	Tu
 Have I missed anything?	Tu
 Can I ask you a favour?	Tu
-Pardon me?	Td
+Pardon me?	Tu
 Would you help me, please?	Tu
 May I have this dance?	Tu
 Who benefits from it?	Td
@@ -1722,7 +1722,7 @@ Who told you this?	Td
 What could you say to that?	Td
 Well, what can I say to that?	Td
 What will people say?	Td
-Can you comment on that?	Td
+Can you comment on that?	Tu
 How much did they charge for it?	Td
 Can you drive?	Tu
 Who was driving?	Td
@@ -1830,8 +1830,8 @@ Where is the draught coming from?	Td
 Well, then?	Td
 That much?	Tu
 What else can he do?	Td
-How about a swim?	Td
-What about a swim?	Td
+How about a swim?	Tu
+What about a swim?	Tu
 How about some beer?	Td
 Fancy a beer?	Tu
 Why not give her a call?	Td
@@ -1877,7 +1877,7 @@ Why didn't they invite you?	Td
 How many times a week do you meet?	Td
 How much is it per week?	Td
 How does it concern them?	Td
-Do you have any small change on you?	Td
+Do you have any small change on you?	Tu
 What's the purpose of your visit?	Td
 Who taught you to drive?	Td
 What shall we do about it?	Td
@@ -1914,7 +1914,7 @@ At what time?	Td
 Do you mind if I open the window?	Tu
 What's wrong with it?	Td
 What bothers you about it?	Td
-Got a problem with that?	Td
+Got a problem with that?	Tu
 What's bothering you?	Td
 What are you cooking?	Td
 Is it boiling yet?	Tu
@@ -2050,7 +2050,7 @@ What shall we start with?	Td
 Are you computer literate?	Tu
 Would you be interested?	Tu
 What are you interested in?	Td
-Does anyone care about it?	Td
+Does anyone care about it?	Tu
 Can you arrange tickets for us?	Tu
 Shall we go out tonight?	Tu
 Who started that fire?	Td
@@ -2072,7 +2072,7 @@ Will you lead us there?	Tu
 May I use your phone?	Tu
 Can you call him to the phone?	Tu
 Have you closed the window?	Tu
-How to remove stains from the tablecloth?	Tu
+How to remove stains from the tablecloth?	Td
 How much money do you have left?	Td
 What else can I do?	Td
 How much more work do you have to do?	Td
@@ -2080,7 +2080,7 @@ What about the left over food?	Td
 Do you live far from here?	Tu
 Do you come from far away?	Tu
 What did you dream about?	Td
-Do you ever have dreams?	Td
+Do you ever have dreams?	Tu
 Is it me or is it cold?	Td
 What don't you like about it?	Td
 Are you healthy?	Tu
@@ -2154,7 +2154,7 @@ How can I handle a crazy in-law in this situation?	Td
 Why did it take you two weeks to throw out that bozo who declared himself mayor of Baghdad?	Td
 What about the Peripatetic Patriot Act of 2003?	Td
 What can I do to reverse the crystallization?	Td
-Could random, purposeless evolution really have transformed biotic ooze into Beethoven?	Td
+Could random, purposeless evolution really have transformed biotic ooze into Beethoven?	Tu
 Or, to put it more bluntly, will whites vote for black candidates?	Tu
 What, then, does prime time insinuate about the currently blazing issue of sexual harassment?	Td
 Was there ever a more malignant and extraordinary hallucination?	Tu
@@ -2162,7 +2162,7 @@ Why, they asked, would she be interested in something so old-fashioned and uncre
 Were city officials guilty of callousness or nonfeasance?	Tu
 What is the origin of the name and what is the correct pronunciation?	Td
 How about leading a canoe or kayak trip to an uninhabited island?	Td
-The more relevant question is whither are we drifting as people, as a culture, as inhabitants of a planet we are blithely destroying?	Td
+The more relevant question is whether are we drifting as people, as a culture, as inhabitants of a planet we are blithely destroying?	Td
 But more importantly, what the hell business is it of yours what I do for recreation?	Td
 We are in a depression, and we are supposed to ooh and ah as destructive machines of death do acrobatics above the Bay?	Tu
 Can you give me some advice on preliminary business precautions for overseas negotiations?	Tu
@@ -2196,7 +2196,7 @@ Why did the referee not confer with the timekeeper until he had already made his
 Four division winners and the runner-ups in each division?	Tu
 Is he the comet with the flattop haircut?	Tu
 But how about Sno-Cat skiing, a weekend clinic, or an overnight excursion?	Td
-And as for those glasses that make him look like a myopic bullfrog?	Td
+And as for those glasses that make him look like a myopic bullfrog?	Tu
 Could a player violently assault a male administrator and win reinstatement?	Tu
 What kind of moron management changes a perfectly nice uniform after back-to-back world championships?	Td
 Why would you ever want to give someone a practice rep on anything?	Td
@@ -2216,7 +2216,7 @@ Now, you do have to purchase seven nights at various hotels participating in the
 Is it ever appropriate for a grandmother to expect payment to baby-sit her grandchildren?	Tu
 How can I lessen my load without cracking her fragile personality?	Td
 Why are liberals so tongue-tied in exposing this contradiction?	Td
-But if you could invent a robot that serves cocktails, could you not invent a robot that would make a superior bedmate?	Td
+But if you could invent a robot that serves cocktails, could you not invent a robot that would make a superior bedmate?	Tu
 How should I report someone burning trash or a bonfire?	Td
 Or what if Romney pulled open a panel in his chest revealing that he is, in fact, an android?	Td
 And I thought, what if the werewolf can smell evil?	Td
@@ -2307,9 +2307,9 @@ How do we fairly allocate compensation for past collective sins against a bygone
 Why would they hold animus toward the agency charged with collecting taxes from their hard-fought earnings?	Td
 How many times can we hear someone claim to be awesome before we start questioning that awesomeness ourselves?	Td
 When was the last time a campus official violated this fealty to leftist orthodoxy?	Td
-Do you think all people who drink alcohol are neglectful parents or alcoholic?	Td
+Do you think all people who drink alcohol are neglectful parents or alcoholic?	Tu
 Can an old no-no word define a media genre?	Tu
-Or is it mixing sexual perversity with political exhibitionism?	Td
+Or is it mixing sexual perversity with political exhibitionism?	Tu
 But for crying out loud, who would want to own camouflage shower curtains, toothbrush holder, soap dish, lotion dispenser, bath rug and waste basket?	Td
 But even though the concurrence of England, and Austria, and Germany, could be obtained, what would it signify, if Russia still remained recusant?	Td
 I liked the idea of traveling so spontaneously, but without reservations, would I end up in a fleabag, or worse, with no room at all?	Td
@@ -2329,7 +2329,7 @@ Is it a travelog of Italy, England, Switzerland, Russia and Germany?	Tu
 Rinse the green beans, marinate the eggplant, handle those Parmesan cups carefully, will ya?	Tu
 So how will playing in high school, college, or even youth football leagues affect brain development?	Td
 After all, what good is a cookout burger, hot dogs or backyard barbecue fest without some good, crunchy pickles?	Td
-In retrospect, despite your bellyaching about multilateralism and weapons of mass destruction, can you bring yourself to admit Iraq is better off without Saddam Hussein?	Td
+In retrospect, despite your bellyaching about multilateralism and weapons of mass destruction, can you bring yourself to admit Iraq is better off without Saddam Hussein?	Tu
 And how will the director and cinematographer, two willful personalities, resolve their differences?	Td
 If Anderson is guilty, how did a man of undisputed intelligence, with influential friends, display such recklessness?	Td
 But how can this utterly disproportionate, seemingly indiscriminate carnage be anything but counterproductive?	Td
@@ -2337,7 +2337,7 @@ Will gobsmacked be a nonce word, passing through the language, soon to be forgot
 And if so, are you pigheaded, delusional, or just plain nuts?	Td
 Are shelters benevolent oases of hope, or dangerous filthy pits of bureaucratic cruelty?	Td
 Otherwise, why was her beauty undiminished on those occasions when she looked puffy or drugged or chubby or haggard or silly or exhausted?	Td
-They show us how ugly we can be, how poisonous and ill, so we may recoil and say, Whoa, you know what?	Td
+They show us how ugly we can be, how poisonous and ill, so we may recoil and say, Whoa, you know what?	Tu
 Gorbachev ask to visit the Hoover Institution of War, Peace and Revolution, only to jilt the conservative research institute?	Tu
 What if an avatar blew the lid off, I dunno, troll abuse, using confidential sources?	Td
 Where is our liberty lager, our patriotic Pilsner, our red, white and blue stripe?	Td

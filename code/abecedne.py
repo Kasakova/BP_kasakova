@@ -7,9 +7,9 @@ def sort_alphabetically(file1, file2):
             f.write(line)
 
 
-sort_alphabetically('questionsCZ.txt', 'sortedCZ.txt')
-sort_alphabetically('questionsEN.txt', 'sortedEN.txt')
-sort_alphabetically('questionsDE.txt', 'sortedDE.txt')
+# sort_alphabetically('questionsCZ.txt', 'sortedCZ.txt')
+# sort_alphabetically('questionsEN.txt', 'sortedEN.txt')
+# sort_alphabetically('questionsDE.txt', 'sortedDE.txt')
 
 
 def erase_duplicates(file1, file2):
@@ -25,6 +25,6 @@ def erase_duplicates(file1, file2):
             prev_sentence = sentence[0]
 
 
-erase_duplicates('sortedCZ.txt', 'sortedCZ_erased.txt')
-erase_duplicates('sortedEN.txt', 'sortedEN_erased.txt')
-erase_duplicates('sortedDE.txt', 'sortedDE_erased.txt')
+erase_duplicates('questionsCZ.txt', 'sortedCZ_erased.txt')
+erase_duplicates('questionsEN.txt', 'sortedEN_erased.txt')
+erase_duplicates('questionsDE.txt', 'sortedDE_erased.txt')
