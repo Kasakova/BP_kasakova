@@ -1,0 +1,60 @@
+Ab wann, weis denn wer, was eventuelle Flugzeugentführer vorhaben?	Tu -> Td
+Eher kooperativ oder wetteifernd?	Tu -> Td
+Enthebung oder Sorgepflicht?	Tu -> Td
+Entschuldigen Sie bitte, wo ist hier der nächste?	Tu -> Td
+Espresso, Filterkaffee oder doch lieber löslicher Kaffee?	Tu -> Td
+Ferienkolonie oder Gefangenenlager?	Tu -> Td
+Hören Sie zu Hause auch Opernmusik, oder gibt es nach Feierabend gar kein Kontrastprogramm?	Tu -> Td
+Im wievielten Monat ist sie schwanger?	Tu -> Td
+Immer gleich losschimpfen, oder wie?	Tu -> Td
+Moment mal, wer ist das?	Tu -> Td
+Möchtest du lieber klein oder groß?	Tu -> Td
+Nee klar, wer vermutet schon Böses in einem unschuldigen Marmorkuchen?	Tu -> Td
+Nur so aus Neugier: wie heißt denn Maschinenbauingenieur auf Altdeutsch, oder zumindest auf Hochdeutsch?	Tu -> Td
+Sind die Billionen US-amerikanisch oder mathematisch?	Tu -> Td
+So wie wenn 3 mal schwarz kam, muss einmal rot kommen beim Roulette?	Td -> Tu
+Soll ich dich irgendwohin fahren?	Td -> Tu
+Soll man Öl vergessen, oder stecken in dem Rohstoff noch ungeahnte Chancen und Entwicklungsmöglichkeiten?	Tu -> Td
+Unbeantwortet oder unbeantwortbar?	Tu -> Td
+Und auf was muss man nach wie vor achten, um im Urlaub nicht unnötig Geld zu vertelefonieren?	Tu -> Td
+Und du, was ist mit dir?	Tu -> Td
+Und wenn ihr Euch so aufregt, wieso schaut ihr euch Popstars an oder lest Artikel darüber?	Tu -> Td
+Und wieso stellst du ne gegenfrage?	Tu -> Td
+Uralter Kaffee, wer will das noch wissen?	Tu -> Td
+Vögeln, Ficken, Bumsen - woher kommt das eigentlich?	Tu -> Td
+Wann, wenn nicht jetzt?	Tu -> Td
+War ihre Ausweglosigkeit real oder das Produkt einer inneren, vielleicht sogar psychotischen, Entwicklung?	Tu -> Td
+Was, denkst du, motiviert Leute dazu, für dein Magazin ihren Penis oder ihre Vagina zu fotografieren?	Tu -> Td
+Warum, glaubst du, mögen die Leute so sinnentleerte Sprüche?	Tu -> Td
+Wenn ja, wie kommt der Geist Jesu in die Textilie?	Tu -> Td
+Wieso gibt man es z. B. nicht auf, Leute zu jagen, die Autos abfackeln?	Tu -> Td
+Wieso haben nur Experten, Justizbeamte oder Psychiater Schuld an solchen traurigen Fällen?	Tu -> Td
+Wieso müssen sich die SBB im Zug jetzt auch noch als Kuppler betätigen?	Tu -> Td
+Wieso sind in en Moscheen der Türkei hier die türkischen Nationalflaggen?	Tu -> Td
+Wieso soll ich für Wahlpropaganda der SPÖ 16 Euro zahlen?	Tu -> Td
+Wieso solltest du hingehen?	Tu -> Td
+Wieso stehen Sie zur Ausrottung von Bären, Wölfen, Luchsen oder Indianern?	Tu -> Td
+Wieso wird also ein Buch über hochdeutsche Ausdrücke junger Leute aus Deutschland hier angepriesen?	Tu -> Td
+Wieviele arbeiten im Importgeschäft?	Tu -> Td
+Wievielmal am Tag soll ich das nehmen?	Tu -> Td
+Wievielmal bist du mit dem Flugzeug geflogen?	Tu -> Td
+Wievielmal habt ihr euch getroffen?	Tu -> Td
+Wievielmal muss ich das noch sagen?	Tu -> Td
+Wievielter ist er eingekommen?	Tu -> Td
+Wievieltes Bier trinkst du schon?	Tu -> Td
+Wofür interessieren Sie sich?	Tu -> Td
+Wofür soll Ihre Schmährede gut sein?	Tu -> Td
+Woraus besteht Königswasser?	Tu -> Td
+Woraus ist das hergestellt?	Tu -> Td
+Worum geht es dort?	Tu -> Td
+Worum geht es?	Tu -> Td
+Worum genau geht es bei dieser Arbeit?	Tu -> Td
+Wovor fürchtest du dich?	Tu -> Td
+Wovor hast du Angst?	Tu -> Td
+Wozu dann noch vielleicht vorweg Ängste schüren, wenn das Horoskop etwas Negatives aufzeigt?	Tu -> Td
+Überschüssige Pfunde abzubauen kann gesundheitliche Vorteile bieten, doch welche Diät bringt den größten Erfolg?	Tu -> Td
+
+Willst du Kaffee oder Tee<V1>?	Tu -> Willst du Kaffee oder Tee?	Tu
+Er hat es mir gegeben. <s.endash> Wirklich?	Tu -> Wirklich?	Tu
+Wie geht es deiner <Tu>Alten?	Td -> Wie geht es deiner Alten?
+Wo sind sie? <s.endash> Na ja, wo sind sie eigentlich?	Td -> Na ja, wo sind sie eigentlich?

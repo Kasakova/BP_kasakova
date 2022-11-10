@@ -11,6 +11,17 @@ def sort_alphabetically(file1, file2):
 # sort_alphabetically('questionsEN.txt', 'sortedEN.txt')
 # sort_alphabetically('questionsDE.txt', 'sortedDE.txt')
 
+def erase_divnou_notaci(file1, file2):
+    with open(file1, encoding="utf-8") as f1:
+        file_text = f1.readlines()
+    with open(file2, 'w', encoding="utf-8") as f2:
+        for line in file_text:
+            if "(." in line:
+                line = line.replace("(.", "")
+                line = line.replace(")", "")
+            f2.write(line)
+
+erase_divnou_notaci('questionsDE_s_notaci.txt', 'questionsDE.txt')
 
 def erase_duplicates(file1, file2):
     with open(file1, encoding="utf-8") as file:

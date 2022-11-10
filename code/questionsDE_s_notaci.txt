@@ -45,7 +45,7 @@ Können Sie kurz warten?	Tu
 Kann ich es leihen?	Tu
 Darf ich mit?	Tu
 Holen Sie mich ab?	Tu
-Können Sie es für mich herausfinden?	Tu
+Können Sie es (.für mich) herausfinden?	Tu
 Was kann ich für Sie tun?	Td
 Können Sie mich hinbringen?	Tu
 Wollen Sie vielleicht…?	Tu
@@ -73,7 +73,7 @@ Von wem wissen Sie es?	Td
 Was ist los?	Td
 Was ist passiert?	Td
 Was ist das?	Td
-Was machen wir jetzt?	Td
+Was machen wir (.jetzt)?	Td
 Was suchen Sie?	Td
 Was wünschen Sie?	Td
 Was brauchen Sie?	Td
@@ -122,7 +122,7 @@ Wie viele Jahre ist er älter?	Td
 Der Wievielte ist heute?	Tu
 Warum hast du das getan?	Td
 Warum gerade ich?	Td
-Werden Sie morgen Zeit haben?	Tu
+Werden Sie (.morgen) Zeit haben?	Tu
 Wann treffen wir uns?	Td
 Um wie viel Uhr sind Sie da?	Td
 Wann sind Sie zurück?	Td
@@ -135,7 +135,7 @@ Geht die Uhr genau?	Tu
 Welche Farbe hat es?	Td
 Welche ist Ihre Lieblingsfarbe?	Td
 Wie groß ist es?	Td
-Entschuldigen Sie bitte, wo ist hier der nächste…?	Td
+Entschuldigen Sie bitte, wo ist hier (.der nächste)…?	Td
 Fahren wir richtig nach…?	Tu
 Wie weit ist es von hier?	Td
 Ist es weit von hier?	Tu
@@ -214,7 +214,7 @@ Können wir an einigen örtlichen Sehenswürdigkeiten vorbeifahren?	Tu
 Wie viel kostet eine Warteminute?	Td
 Können Sie hier kurz warten?	Tu
 Können Sie mich hier in einer Stunde abholen?	Tu
-Können Sie mir mit dem Gepäck nach oben helfen?	Tu
+Können Sie mir mit dem Gepäck (.nach oben) helfen?	Tu
 Wie viel macht das?	Td
 Ist das nicht zu viel?	Tu
 Wo ist der nächste Bahnhof?	Td
@@ -246,7 +246,7 @@ Können Sie mir Bescheid sagen, wenn wir da sind?	Tu
 Wo sind wir? Wie heißt die Haltestelle?	Td
 Was ist die nächste Haltestelle?	Td
 Wie komme ich zum Flughafen?	Td
-Wie lange dauert die Fahrt zum Flughafen mit einem Taxi?	Td
+Wie lange dauert die Fahrt zum Flughafen (.mit einem Taxi)?	Td
 Wie lange vor dem Abflug soll ich am Flughafen sein?	Td
 Wo ist der Check-in-Schalter?	Td
 Darf ich es mit an Bord nehmen?	Tu
@@ -307,7 +307,7 @@ Wie viel kostet die Fahrkarte für einen Erwachsenen?	Td
 Wo soll ich die Fahrkarte entwerten?	Td
 Ist das ein Umsteigefahrschein?	Tu
 Wann soll ich aussteigen?	Td
-Womit soll ich dann weiterfahren?	Td
+Womit soll ich (.dann) weiterfahren?	Td
 Wie heißt die Haltestelle?	Td
 Können Sie mir bitte sagen, wann ich aussteigen soll?	Tu
 Gibt es hier irgendwo einen Fahrkartenautomaten?	Tu
@@ -318,7 +318,7 @@ Haben Sie freie Zimmer in der Zeit von…?	Tu
 Ist eine Vorauszahlung nötig?	Tu
 Bekommt man den Betrag zurück?	Tu
 Berechnen Sie eine Reservierungsgebühr?	Tu
-Bis wann kann ich meine Buchung kostenlos stornieren?	Td
+Bis wann kann ich meine Buchung (.kostenlos) stornieren?	Td
 Wird eine Stornogebühr berechnet?	Tu
 Wie kann ich Ihnen noch helfen?	Td
 Haben Sie Zimmer frei?	Tu
@@ -397,7 +397,7 @@ Kann ich mit der Karte bezahlen?	Tu
 Wie wird das Wetter?	Td
 Wie ist die Vorhersage für heute?	Td
 Wie lange soll es regnen?	Td
-Wie viel Grad sind es in 1000 Meter Höhe?	Td
+Wie viel Grad sind es (.in 1000 Meter Höhe)?	Td
 Friert es hier nachts?	Tu
 Organisieren Sie Ausflüge?	Tu
 Wie viel kostet so ein Ausflug?	Td
@@ -430,7 +430,7 @@ Wo kann ich einen Stadtplan bekommen?	Td
 Wie viel kostet dieser Stadtplan?	Td
 Können Sie uns durch die Stadt führen?	Tu
 Was sollten wir unbedingt sehen?	Td
-Welche örtlichen Sehenswürdigkeiten können Sie uns zur Besichtigung empfehlen?	Td
+Welche örtlichen Sehenswürdigkeiten können Sie uns (.zur Besichtigung) empfehlen?	Td
 Gibt es hier einen Aussichtspunkt auf die Stadt?	Tu
 Wie lange dauert die Besichtigung?	Td
 Wann wurde die Kirche gebaut?	Td
@@ -530,7 +530,7 @@ Wie viel zahlt man für einen Jet-Ski?	Td
 Darf man hier oben ohne sonnen?	Tu
 Gibt es hier einen FKK-Strand?	Tu
 Hast du dich mit Sonnencreme eingekremt?	Tu
-Kannst du mir den Rücken mit Sonnencreme einkremen?	Tu
+Kannst du mir den Rücken (.mit Sonnencreme) einkremen?	Tu
 Darf man hier Muscheln sammeln?	Tu
 Gibt es hier eine Tauchschule?	Tu
 Wie viel wird es kosten?	Td
@@ -649,12 +649,12 @@ Wo ist hier die Kasse?	Td
 Können Sie mir bitte fünfzig Euro wechseln?	Tu
 Akzeptieren Sie diese Schecks?	Tu
 Können Sie mir bitte ein paar Euro leihen?	Tu
-Können Sie bitte die Rechnung überprüfen?	Tu
+Können Sie (.bitte) die Rechnung überprüfen?	Tu
 Wo bekomme ich die Mehrwertsteuer rückerstattet?	Td
 Wo ist der nächste Geldautomat?	Td
 Wechseln Sie tschechische Kronen?	Tu
 Berechnen Sie eine Gebühr?	Tu
-Wie viel Geld soll ich umtauschen?	Td
+Wie viel (.Geld) soll ich umtauschen?	Td
 Könnte ich bitte kleinere Scheine bekommen?	Tu
 Können Sie mir zwanzig Euro wechseln?	Tu
 Kann ich eine Quittung bekommen?	Tu
@@ -683,7 +683,7 @@ Wo ist der Paketschalter?	Td
 Was soll ich tun?	Td
 Können Sie bitte anhalten?	Tu
 Darf ich Ihr Telefon benutzen?	Tu
-Wo sind hier die Toiletten?	Td
+Wo sind (.hier) die Toiletten?	Td
 Wie kommen wir zu der tschechischen Botschaft?	Td
 Wie lange wollen Sie mich hier festhalten?	Td
 Kann ich es mir leihen?	Tu
@@ -706,7 +706,7 @@ Kann ich hier irgendwo einen anderen Wagen mieten?	Tu
 Können Sie mir einen Reifen wechseln?	Tu
 Können Sie es sich anschauen?	Tu
 Haben Sie diese Ersatzteile?	Tu
-Können Sie meinen Akku wieder aufladen?	Tu
+Können Sie meinen Akku (.wieder) aufladen?	Tu
 Was würde ein neuer Akku kosten?	Td
 Wie lange dauert die Reparatur?	Td
 Wie viel wird das ungefähr kosten?	Td
@@ -767,7 +767,7 @@ Wo ist der Schalter?	Td
 Wer hat das Licht angelassen?	Td
 Benutzen Sie Sparbirnen?	Tu
 Kannst du sie auswechseln?	Tu
-Welchen Sender magst du hören?	Td
+Welchen Sender magst du (.hören)?	Td
 Wollt ihr fernsehen?	Tu
 Kann ich den Fernseher einschalten?	Tu
 Was läuft abends im Fernsehen?	Td
@@ -813,7 +813,7 @@ Was sind Sie von Beruf?	Td
 Wie lange arbeiten Sie dort?	Td
 Um wie viel Uhr fängst du an zu arbeiten?	Td
 Arbeiten Sie in Schichten?	Tu
-Bekommt man hier die Überstunden bezahlt?	Tu
+Bekommt man (.hier) die Überstunden bezahlt?	Tu
 Wann gibt es Mittagspause?	Td
 Auf wie viele Tage Urlaub habe ich Anspruch?	Td
 Kann ich unbezahlten Urlaub nehmen?	Tu
@@ -876,7 +876,7 @@ Obwohl, warum nicht?	Td
 Ja?	Tu
 Bist du damit einverstanden?	Tu
 Wirklich?	Tu
-Ja bitte?	Tu
+Ja (.bitte)?	Tu
 So spät?	Tu
 Wann machst du Feierabend?	Td
 Was ist deine Lieblingsfarbe?	Td
@@ -917,7 +917,7 @@ Was ist?	Td
 Gibt es etwas Neues?	Tu
 Warst du schon mal da?	Tu
 Wer wird der nächste Präsident?	Td
-Hat es überhaupt Sinn?	Tu
+Hat es (.überhaupt) Sinn?	Tu
 Können Sie mir bitte den Weg zeigen?	Tu
 Wie lange fährt man in die Stadt?	Td
 Was empfindet ihr füreinander?	Td
@@ -936,7 +936,7 @@ Woraus ist das hergestellt?	Td
 Worüber lachst du?	Td
 Was werde ich alles brauchen?	Td
 Und was, wenn nicht?	Tu
-Was soll ich damit machen?	Td
+Was soll ich damit (.machen)?	Td
 Was lässt sich da machen?	Td
 Was für eine Frage ist das?	Td
 Was soll diese Frage?	Td
@@ -951,11 +951,11 @@ Das ist ja wahnsinnig, was?	Tu
 Du bist nicht hingegangen, nicht wahr?	Tu
 Klug, nicht wahr?	Tu
 Weißt du es nicht?	Tu
-Hast du denn davon noch nicht gehört?	Tu
+Hast du denn davon (.noch) nicht gehört?	Tu
 Ist das denn überhaupt möglich?	Tu
 Darf man es überhaupt?	Tu
 Was für ein Mensch ist er?	Td
-Wie bitte?	Tu
+Wie (.bitte)?	Tu
 Du hast was getan?	Tu
 Was ist ihm denn passiert?	Td
 Hast du ein wenig Zeit?	Tu
@@ -970,10 +970,10 @@ Und was weiter?	Td
 Und wie war das weiter?	Td
 Und wie geht es weiter?	Td
 Ist das weit von hier?	Tu
-Wer ist der Nächste auf der Liste?	Td
+Wer ist der Nächste (.auf der Liste)?	Td
 Kann ich noch einen bekommen?	Tu
 Gibt es noch weitere Angriffe?	Tu
-Haben Sie noch weitere Fragen?	Tu
+Haben Sie noch (.weitere) Fragen?	Tu
 Wer hat es dir gegeben?	Td
 Bist du bei ihr schon zum Schuss gekommen?	Tu
 Lässt es sich arrangieren?	Tu
@@ -1042,7 +1042,7 @@ Ist es Ihnen nicht heiß?	Tu
 Wer hat an meinem Computer herumgespielt?	Td
 Kannst du Klavier spielen?	Tu
 Für wen hältst du dich?	Td
-Verstehst du das?	Tu
+Verstehst du (.das)?	Tu
 Verstehst du den Sinn dieser Vorschrift?	Tu
 Hat er eine feste Beziehung?	Tu
 Wollt ihr, dass ich das mache?	Tu
@@ -1050,7 +1050,7 @@ Magst du mitkommen?	Tu
 Magst du nicht zum Abendessen kommen?	Tu
 Wollen wir wetten?	Tu
 Hättest du Lust zu kommen?	Tu
-Möchtest du gerne Fruchtsaft?	Tu
+Möchtest du (.gerne) Fruchtsaft?	Tu
 Hat's Ihnen geschmeckt?	Tu
 Schmeckt dir das Bier?	Tu
 Hätten Sie einen Moment Zeit für uns?	Tu
@@ -1097,7 +1097,7 @@ Woher weißt du das?	Td
 Wo hat er das her?	Td
 Wer anders?	Td
 Wem hast du das gegeben?	Td
-Von wem sprichst du da?	Td
+Von wem sprichst du (.da)?	Td
 Von wem hast du das?	Td
 Wer hat dir das gesagt?	Td
 Mit wem gehst du?	Td
@@ -1106,7 +1106,7 @@ Mit wem möchten Sie reden?	Td
 Für wen arbeitest du?	Td
 Für wen hältst du mich?	Td
 Wen interessiert das?	Td
-Wer ist daran schuld?	Td
+Wer ist (.daran) schuld?	Td
 Halt. Wer da?	Td
 Wissen Sie, mit wem Sie sprechen?	Tu
 Mit wem lebt er dort?	Td
@@ -1130,13 +1130,13 @@ Ab wie vielen Jahren?	Td
 Um wie viel Uhr machen die Geschäfte zu?	Td
 Wann fährt der Zug?	Td
 Um wie viel größer ist er?	Td
-Für wie viel Geld?	Td
+Für wie viel (.Geld)?	Td
 Wie groß bist du?	Td
 Wie viel wiegst du?	Td
 Bis wann arbeitest du?	Td
 Wievielter ist er eingekommen?	Td
 Wievieltes Bier trinkst du schon?	Td
-Im wievielten Monat ist sie schwanger?	Td
+Im wievielten Monat ist sie (.schwanger)?	Td
 Wievielmal muss ich das noch sagen?	Td
 Wievielmal habt ihr euch getroffen?	Td
 Wievielmal am Tag soll ich das nehmen?	Td
@@ -1151,7 +1151,7 @@ Welche Farbe möchten Sie?	Td
 Welcher von ihnen gehört dir?	Td
 Welchen nimmst du?	Td
 In welchem Jahr?	Td
-Aus welcher Hand denn?	Td
+Aus welcher Hand (.denn)?	Td
 Wer von euch kommt?	Td
 Welchen Weg nahm er?	Td
 Wie kommt man zum Bahnhof?	Td
@@ -1168,7 +1168,7 @@ Warum lügt er uns an?	Td
 Habe ich dich jemals belogen?	Tu
 Hat dir der Film gefallen?	Tu
 Wie würde es dir gefallen, wenn jemand…?	Td
-Hast du noch den Garantieschein?	Tu
+Hast du (.noch) den Garantieschein?	Tu
 Hast du die Karten gekauft?	Tu
 Kann man sich auf ihn verlassen?	Tu
 Möchtest du lieber klein oder groß?	Td
@@ -1198,7 +1198,7 @@ Was habe ich davon?	Td
 Hast du morgen frei?	Tu
 Was führst du im Schilde?	Td
 Hast du was mit ihm?	Tu
-Soll ich es machen?	Tu
+Soll ich (.es machen)?	Tu
 Wie sollte ich es wissen?	Td
 Was soll es sein?	Td
 Kannst du schweigen?	Tu
@@ -1217,7 +1217,7 @@ Ist das möglich?	Tu
 Ist denn das die Möglichkeit?	Tu
 Muss ich wirklich kommen?	Tu
 Ist das für uns?	Tu
-Was meinen Sie damit?	Td
+Was meinen Sie (.damit)?	Td
 Was meinst du?	Td
 Was meinen Sie damit?	Td
 Was genau meinst du?	Td
@@ -1299,8 +1299,8 @@ Kann man hier irgendwo in der Nähe essen?	Tu
 Gibt es dort irgendwo Toiletten?	Tu
 Gehört das jemandem?	Tu
 Rufst du mich mal an?	Tu
-Hast du so etwas schon einmal gesehen?	Tu
-Hast du das schon einmal probiert?	Tu
+Hast du so etwas schon (.ein)mal gesehen?	Tu
+Hast du das schon (.ein)mal probiert?	Tu
 Weiß es jemand von euch?	Tu
 Komme ich ungelegen?	Tu
 Willst du mich auf der Nase herumführen?	Tu
@@ -1315,7 +1315,7 @@ Haben Sie schon bestellt?	Tu
 Haben Sie einen Termin?	Tu
 Hast du etwas gefunden?	Tu
 Was seht ihr auf dem Bild?	Td
-Wird es sich langfristig bewähren?	Tu
+Wird es sich (.langfristig) bewähren?	Tu
 Störe ich?	Tu
 Was hast du anderes erwartet?	Td
 Was wird von mir erwartet?	Td
@@ -1335,7 +1335,7 @@ Hast du von ihnen gehört?	Tu
 Wirklich?	Tu
 Ist das schon repariert?	Tu
 Sie wollen uns schon verlassen?	Tu
-Und was ist mit den anderen Leuten?	Td
+Und was ist mit den anderen (.Leuten)?	Td
 Kannst du das Fenster öffnen?	Tu
 Können Sie es für mich nachprüfen?	Tu
 Und was dann?	Td
@@ -1408,7 +1408,7 @@ Kannst du auf meine Tasche aufpassen?	Tu
 Darf ich um Ihre Aufmerksamkeit bitten?	Tu
 Seid ihr eingeladen?	Tu
 Darf ich dich zum Mittagessen einladen?	Tu
-Darf ich Sie um einen Tanz bitten?	Tu
+Darf ich (.Sie um einen Tanz) bitten?	Tu
 Wann fängst du an zu arbeiten?	Td
 Was gibt Ihnen das Recht…?	Td
 Aber welche ist die Richtige?	Td
@@ -1427,7 +1427,7 @@ Entschuldigen Sie, darf ich das Fenster aufmachen?	Tu
 Entschuldigung, wie heißen Sie nochmal?	Td
 Kannst du es mir verzeihen?	Tu
 Habe ich etwas verpasst?	Tu
-Wie Bitte?	Tu
+(.Wie) Bitte?	Tu
 Würdest du mir bitte helfen?	Tu
 Darf ich bitten?	Tu
 Darf ich um Ruhe bitten?	Tu
@@ -1556,7 +1556,7 @@ Würden Sie mir einen Dienst erweisen?	Tu
 Hören Sie mich?	Tu
 Hörst du, was ich sage?	Tu
 In welche Richtung ist er gegangen?	Td
-Darf ich gehen?	Tu
+Darf ich (.gehen)?	Tu
 Dürfen wir rein?	Tu
 Darf man das?	Tu
 Was stinkt hier so?	Td
@@ -1590,7 +1590,7 @@ Ist was passiert?	Tu
 Was ist dir passiert?	Td
 Wie ist es passiert?	Td
 Was ist mit dem Fernseher passiert?	Td
-Wie ist der Stand des Spiels?	Td
+Wie ist der Stand (.des Spiels)?	Td
 Wie steht es?	Td
 Wo verbringen Sie den Urlaub?	Td
 Kannst du mit einem Schrotgewehr umgehen?	Tu
@@ -1674,7 +1674,7 @@ Wie viel kostet es pro Woche?	Td
 Was hat das mit ihnen zu tun?	Td
 Hast du Kleingeld dabei?	Tu
 Was ist das Ziel Ihres Besuches?	Td
-Hat das seinen Zweck erfüllt?	Tu
+Hat das (.seinen) Zweck erfüllt?	Tu
 Wer hat dir das Autofahren beigebracht?	Td
 Machst du das für mich?	Tu
 Was machen wir damit?	Td
@@ -1693,7 +1693,7 @@ Kann er lesen?	Tu
 Sprechen Sie Englisch?	Tu
 Kannst du es dir überhaupt vorstellen?	Tu
 Können Sie Deutsch?	Tu
-Was hast du vor zu tun?	Td
+Was hast du vor (.zu tun)?	Td
 Hast du das Auto gewaschen?	Tu
 Kannst du das tragen?	Tu
 Darf ich Sie darauf aufmerksam machen, dass…?	Tu
@@ -1706,7 +1706,7 @@ Hast du in deinem Zimmer Staub gewischt?	Tu
 Hast du je darüber nachgedacht, dich niederzulassen?	Tu
 Ist dir klar, dass…?	Tu
 Sehen wir uns jemals wieder?	Tu
-Warst du schon mal drinnen?	Tu
+Warst du (.schon mal) drinnen?	Tu
 Bist du schon damit fertig?	Tu
 Warst du schon mal dort?	Tu
 Ist es schon fünf?	Tu
@@ -1739,7 +1739,7 @@ Wohin führt dieser Weg?	Td
 Führt dieser Weg nach…?	Tu
 Was hat dich dazu veranlasst?	Td
 Wo denkst du hin?	Td
-Wie geht's Ihnen?	Td
+Wie geht's (.Ihnen)?	Td
 Wie ist es dir ergangen?	Td
 Wie war sie?	Td
 Führen Sie Aufzeichnungen über…?	Tu
@@ -1748,7 +1748,7 @@ Woran hängt es denn?	Td
 Woran liegt es?	Td
 Was kann man sich noch wünschen?	Td
 Was willst du noch mehr?	Td
-Siehst du es auch?	Tu
+Siehst du es (.auch)?	Tu
 Na, wie siehst du es?	Td
 Wie sehen Sie es?	Td
 Wie oft siehst du ihn?	Td
@@ -1773,12 +1773,12 @@ Hast du überhaupt eine Vorstellung davon, wie…?	Tu
 Hat sie überhaupt etwas gesagt?	Tu
 Was geht mich das überhaupt an?	Td
 Warst du dort überhaupt schon mal?	Tu
-Ist es dein freier Wille?	Tu
+Ist es dein (.freier) Wille?	Tu
 Ihr wisst das nicht?	Tu
 Kann ich mitgehen?	Tu
 Darf ich mitfahren?	Tu
 Wie ist das Wetter bei euch?	Td
-War das bei euch zu Hause?	Tu
+War das bei euch (.zu Hause)?	Tu
 Haben wir eine Wahl?	Tu
 Haben Sie schon gewählt?	Tu
 Woher kommen die Geräusche?	Td
@@ -1794,7 +1794,7 @@ Kommst du mit ihm klar?	Tu
 Könnten Sie ein bisschen deutlicher sein?	Tu
 Bist du schon fertig mit der Schule?	Tu
 Was redest du denn da?	Td
-Wollen wir nicht die Plätze tauschen?	Tu
+Wollen wir (.nicht) die Plätze tauschen?	Tu
 Wer ist darauf gekommen?	Td
 Wie kann ich es wiedergutmachen?	Td
 Wie sieht sie aus?	Td
@@ -1857,7 +1857,7 @@ Kommt es darauf an?	Tu
 Wem liegt daran?	Td
 Wer hat das Feuer gelegt?	Td
 Kannst du mir Geld vorstrecken?	Tu
-Hast du die Tür zugeschlossen?	Tu
+Hast du (.die Tür) zugeschlossen?	Tu
 Zahlen Sie bar oder mit Scheck?	Tu
 Wohin würden Sie diese Pflanze zuordnen?	Td
 Können Sie dafür sorgen, dass wir es bekommen?	Tu
@@ -1885,7 +1885,7 @@ Was hat dich aufgehalten?	Td
 Kannst du ihn kurz aufhalten?	Tu
 Wie lange bleibst du?	Td
 Hast du ihn danach gefragt?	Tu
-Ist es dir nicht zu kalt?	Tu
+Ist es dir nicht (.zu) kalt?	Tu
 Was hast du damit erreicht?	Td
 Wer hat dabei profitiert?	Td
 Was für ein Tag ist morgen?	Td
@@ -1897,7 +1897,7 @@ Was wird es ändern?	Td
 Was bedeutet das Wort?	Td
 Kennen Sie sich hier aus?	Tu
 Wie lange kennt ihr euch schon?	Td
-Kommt es dir nicht vertraut vor?	Tu
+Kommt es dir (.nicht) vertraut vor?	Tu
 Wie lautet das Gesetz?	Td
 Was ist denn das für eine Art?	Td
 Wer hat das verursacht?	Td
@@ -1925,7 +1925,7 @@ Verstehst du keinen Scherz?	Tu
 Leben Ihre Eltern noch?	Tu
 Wo lebst du denn?	Td
 Ist er am Leben?	Tu
-Sind Sie nicht durstig oder hungrig?	Tu
+Sind Sie (.nicht) durstig oder hungrig?	Tu
 Was fressen Katzen?	Td
 Wie viel frisst dein Wagen?	Td
 Was wurmt dich?	Td

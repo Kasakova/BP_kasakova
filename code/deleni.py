@@ -29,4 +29,4 @@ def petina(file, training, testing):
 
 petina("sortedEN_erased.txt", "EN_training.txt", "EN_testing.txt")
 petina("sortedCZ_erased.txt", "CZ_training.txt", "CZ_testing.txt")
-# petina("sortedDE_erased.txt", "DE_training.txt", "DE_testing.txt")
+petina("sortedDE_erased.txt", "DE_training.txt", "DE_testing.txt")

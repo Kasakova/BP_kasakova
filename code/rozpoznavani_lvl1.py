@@ -79,8 +79,9 @@ def rozpoznani_souboru(file):
     return vety,rozp, anotace
 
 
-vety,rozp, anotace = rozpoznani_souboru('CZ_testing.txt')
+# vety,rozp, anotace = rozpoznani_souboru('CZ_testing.txt')
 # vety,rozp, anotace = rozpoznani_souboru('EN_testing.txt')
+vety,rozp, anotace = rozpoznani_souboru('DE_testing.txt')
 
 def vyhodnoceni(vety, rozp, anotace):
     count=0

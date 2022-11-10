@@ -1,7 +1,6 @@
-(.Wie) Bitte?	Tu
 Ab ob Oma es wohl schätzen würde, wenn Opa auf einmal ihr wieder den Hengst machen würde?	Tu
 Ab wann ist man ein Lobbyist, wann ein einfacher Staatsbürger, mit dem Recht, seine Anliegen einzubringen?	Td
-Ab wann, weis denn wer, was eventuelle Flugzeugentführer vorhaben?	Tu
+Ab wann, weis denn wer, was eventuelle Flugzeugentführer vorhaben?	Td
 Ab welchem Alter können die Kinder…?	Td
 Ab wie viel Uhr?	Td
 Ab wie vielen Jahren?	Td
@@ -47,7 +46,7 @@ Auf welcher Seite stehst du?	Td
 Auf wie viele Tage Urlaub habe ich Anspruch?	Td
 Aus welchem Grund?	Td
 Aus welchen Gründen…?	Td
-Aus welcher Hand (.denn)?	Td
+Aus welcher Hand denn?	Td
 Ausgerechnet sie, deren Verbände jahrein, jahraus vom System profitieren?	Tu
 Auswinden, damit Du mehr Milch trinken kannst?	Tu
 Baskisch ist nicht indogermanisch?	Tu
@@ -58,9 +57,9 @@ Bei weiterer Überlegung doch lieber durchheizen?	Tu
 Beißen sie an?	Tu
 Beißt der Hund?	Tu
 Bekommen die dann auch Domains im lokalen Zeichensatz?	Tu
-Bekommt man (.hier) die Überstunden bezahlt?	Tu
 Bekommt man den Betrag zurück?	Tu
 Bekommt man den Vorschuss zurück?	Tu
+Bekommt man hier die Überstunden bezahlt?	Tu
 Benutzen Sie Sparbirnen?	Tu
 Benutzt jemand diesen Computer?	Tu
 Berechnen Sie eine Gebühr?	Tu
@@ -79,7 +78,7 @@ Bin ich ein böser Relativist, wenn ich so etwas schreibe?	Tu
 Bin ich jetzt so eine Art Strohwitwe?	Tu
 Bin ich nun kriminell, krank oder einfach nur schwächlich?	Tu
 Bis wann arbeitest du?	Td
-Bis wann kann ich meine Buchung (.kostenlos) stornieren?	Td
+Bis wann kann ich meine Buchung kostenlos stornieren?	Td
 Bis wann muss ich das Auto zurückgeben?	Td
 Bis wann soll es gemacht werden?	Td
 Bis wann sollen wir das Zimmer verlassen?	Td
@@ -131,8 +130,6 @@ Damit in See stechen, und auch noch bis nach Amerika hinüberfahren?	Tu
 Dann ist Ihr Vorschlag, auf Strafverfolgung bei Greisen zu verzichten, Ausdruck Ihrer Hochachtung vor dem Rechtsstaat?	Tu
 Darf die politisch korrekte Domina schwarze Kunden auspeitschen?	Tu
 Darf ein einjähriges Kind ins Planschbecken?	Tu
-Darf ich (.Sie um einen Tanz) bitten?	Tu
-Darf ich (.gehen)?	Tu
 Darf ich Ihnen eine Erfrischung anbieten?	Tu
 Darf ich Ihnen meine Frau vorstellen?	Tu
 Darf ich Ihnen noch einschenken?	Tu
@@ -141,6 +138,7 @@ Darf ich Ihren Pass sehen?	Tu
 Darf ich Sie darauf aufmerksam machen, dass…?	Tu
 Darf ich Sie kurz stören?	Tu
 Darf ich Sie kurz unterbrechen?	Tu
+Darf ich Sie um einen Tanz bitten?	Tu
 Darf ich Sie um etwas bitten?	Tu
 Darf ich auch mit?	Tu
 Darf ich bitten?	Tu
@@ -155,6 +153,7 @@ Darf ich es mir ansehen?	Tu
 Darf ich es mit an Bord nehmen?	Tu
 Darf ich etwas vorschlagen?	Tu
 Darf ich euch etwas zum Trinken anbieten?	Tu
+Darf ich gehen?	Tu
 Darf ich hier rauchen?	Tu
 Darf ich mal lateinisieren?	Tu
 Darf ich meinen Fang behalten?	Tu
@@ -221,7 +220,7 @@ Dürfen wir den Hintereingang benutzen?	Tu
 Dürfen wir noch hinein?	Tu
 Dürfen wir rein?	Tu
 Dürfen wir uns zu Ihnen setzen?	Tu
-Eher kooperativ oder wetteifernd?	Tu
+Eher kooperativ oder wetteifernd?	Td
 Eignet sich Dural auch?	Tu
 Ein Goldstück, zehn, tausend, eine Million oder vielleicht dein Leben?	Tu
 Ein Jahr nur Spielplatz, Windeln und Milchbrei?	Tu
@@ -237,11 +236,10 @@ Ein orientalisches Rauchzimmer, hier?	Tu
 Ein rechtes Parteibuch ohne Ahnung ist ja wohl mindestens so verabscheuungswürdig, oder nicht?	Tu
 Eine Fahrpreiserhöhung, während das Angebot des ÖPNV aufgrund von Baustellen schwächelt?	Tu
 Einverstanden?	Tu
-Enthebung oder Sorgepflicht?	Tu
-Entschuldigen Sie bitte, wo ist hier (.der nächste)…?	Tu
+Enthebung oder Sorgepflicht?	Td
+Entschuldigen Sie bitte, wo ist hier der nächste…?	Td
 Entschuldigen Sie, darf ich das Fenster aufmachen?	Tu
 Entschuldigung, wie heißen Sie nochmal?	Td
-Er hat es mir gegeben. <s.endash> Wirklich?	Tu
 Er hat uns erzählt, wie?	Tu
 Er war unter den Letzten, die?	Tu
 Erinnern Sie sich an mich?	Tu
@@ -254,13 +252,13 @@ Ertappen Sie sich dabei, mehr über Ihr Leben nach dem Tennis nachzudenken?	Tu
 Es geht mir gut. Und Ihnen?	Tu
 Es ist an der Zeit?	Tu
 Es ist kalt, nicht wahr?	Tu
-Espresso, Filterkaffee oder doch lieber löslicher Kaffee?	Tu
+Espresso, Filterkaffee oder doch lieber löslicher Kaffee?	Td
 Etwas Tee oder Kaffee?	Tu
 Existiert Leben auf anderen Planeten?	Tu
 Fahren wir richtig nach…?	Tu
 Feiern Sie dieses Jahr Fasching und sind als Schotte, Hippie, Stewardess oder Indianer verkleidet?	Tu
 Fenster auf oder zu, Heizung zurückdrehen oder durchheizen, Tee am Herd kochen oder mit dem Wasserkocher?	Tu
-Ferienkolonie oder Gefangenenlager?	Tu
+Ferienkolonie oder Gefangenenlager?	Td
 Fiese Erpressung oder ein neues Gaunerstück?	Tu
 Fiktionalisieren Sie die Dokumentation dadurch?	Tu
 Findest du den Weg allein?	Tu
@@ -294,7 +292,7 @@ Für wen hältst du mich?	Td
 Für wen war das ein lukrativer Erwerbszweig?	Td
 Für wie lange?	Td
 Für wie lange…?	Td
-Für wie viel (.Geld)?	Td
+Für wie viel Geld?	Td
 Für wie viele Fotos reicht die Batterie?	Td
 Gab es was zum Fortschleppen?	Tu
 Ganz bewusst, um ihn bloß nicht als Folterknecht darzustellen?	Tu
@@ -423,9 +421,9 @@ Haben Sie getrunken?	Tu
 Haben Sie irgendwelche Vorschläge?	Tu
 Haben Sie keinen anderen?	Tu
 Haben Sie mich verstanden?	Tu
-Haben Sie noch (.weitere) Fragen?	Tu
 Haben Sie noch eine andere E-Mail-Adresse?	Tu
 Haben Sie noch etwas dazu?	Tu
+Haben Sie noch weitere Fragen?	Tu
 Haben Sie schon bestellt?	Tu
 Haben Sie schon einmal überlegt, warum diese Fische die Haut abknabbern?	Tu
 Haben Sie schon gewählt?	Tu
@@ -454,8 +452,6 @@ Hallo. Kann ich mich zu dir setzen?	Tu
 Halt. Wer da?	Td
 Halten Sie es für nötig?	Tu
 Hamburg: Den Weg in die Disco freischießen?	Tu
-Hast du (.die Tür) zugeschlossen?	Tu
-Hast du (.noch) den Garantieschein?	Tu
 Hast du Geschwister?	Tu
 Hast du Höhenangst?	Tu
 Hast du Kleingeld dabei?	Tu
@@ -468,7 +464,7 @@ Hast du alles überprüft?	Tu
 Hast du das Auto gewaschen?	Tu
 Hast du das Fenster zugemacht?	Tu
 Hast du das angemeldet?	Tu
-Hast du das schon (.ein)mal probiert?	Tu
+Hast du das schon einmal probiert?	Tu
 Hast du das schon gelesen?	Tu
 Hast du das verstanden?	Tu
 Hast du dazu etwas zu sagen?	Tu
@@ -478,7 +474,7 @@ Hast du den Pulli anprobiert?	Tu
 Hast du den Roman gelesen?	Tu
 Hast du den Verstand verloren?	Tu
 Hast du den Witz verstanden?	Tu
-Hast du denn davon (.noch) nicht gehört?	Tu
+Hast du denn davon noch nicht gehört?	Tu
 Hast du dich auf der Party gut amüsiert?	Tu
 Hast du dich mit Sonnencreme eingekremt?	Tu
 Hast du dich schon erholt?	Tu
@@ -486,6 +482,7 @@ Hast du die Karten gekauft?	Tu
 Hast du die Mädels gesehen?	Tu
 Hast du die Prüfung bestanden?	Tu
 Hast du die Prüfungen bestanden?	Tu
+Hast du die Tür zugeschlossen?	Tu
 Hast du die letzte Folge gesehen?	Tu
 Hast du dir Fieber gemessen?	Tu
 Hast du dir den Artikel angesehen?	Tu
@@ -519,18 +516,19 @@ Hast du keinen Hunger?	Tu
 Hast du meine Nachricht bekommen?	Tu
 Hast du morgen frei?	Tu
 Hast du nichts zu tun?	Tu
+Hast du noch den Garantieschein?	Tu
 Hast du noch einen anderen?	Tu
 Hast du schon mal Darts gespielt?	Tu
 Hast du schon mit einem Mädchen geschlafen?	Tu
 Hast du sie noch alle?	Tu
-Hast du so etwas schon (.ein)mal gesehen?	Tu
+Hast du so etwas schon einmal gesehen?	Tu
 Hast du von ihnen gehört?	Tu
 Hast du was mit ihm?	Tu
 Hast du was mit ihr?	Tu
 Hast du überhaupt eine Ahnung…?	Tu
 Hast du überhaupt eine Vorstellung davon, wie…?	Tu
 Hat daran überhaupt jemand Interesse?	Tu
-Hat das (.seinen) Zweck erfüllt?	Tu
+Hat das seinen Zweck erfüllt?	Tu
 Hat deine Gabel ein LOCKOUT?	Tu
 Hat der Schupo geschimpft?	Tu
 Hat der Wagen eine Klimaanlage?	Tu
@@ -546,11 +544,11 @@ Hat er dir was angetan?	Tu
 Hat er eine feste Beziehung?	Tu
 Hat er eine feste Freundin?	Tu
 Hat er sie geheiratet?	Tu
-Hat es (.überhaupt) Sinn?	Tu
 Hat es Ihnen geschmeckt?	Tu
 Hat es dir die Sprache verschlagen?	Tu
 Hat es geklappt?	Tu
 Hat es irgendwelche Nebenwirkungen?	Tu
+Hat es überhaupt Sinn?	Tu
 Hat irgendwer Erfahrungen mit diesem Schweizer Präzisionsgerät, auch im Hinblick auf Wartungsarbeiten?	Tu
 Hat nicht beispielsweise das Rating bei Google einen viel grösseren Einfluss als die Übertragungsgeschwindigkeit?	Tu
 Hat sich da jemand n spaß gemacht, un dir die immer verstellt?	Tu
@@ -584,15 +582,15 @@ Hätten Sie etwas Billigeres?	Tu
 Hättest du Lust zu kommen?	Tu
 Hättest du eine Minute für…?	Tu
 Hören Sie mich?	Tu
-Hören Sie zu Hause auch Opernmusik, oder gibt es nach Feierabend gar kein Kontrastprogramm?	Tu
+Hören Sie zu Hause auch Opernmusik, oder gibt es nach Feierabend gar kein Kontrastprogramm?	Td
 Hörst du, was ich sage?	Tu
 Ich gehe zum Fußball. Gehst du mit?	Tu
 Ich kann im Fall den Horse Jump in der Halfpipe, willst du sehen?	Tu
 Ihr wisst das nicht?	Tu
 Im Ernst?	Tu
-Im wievielten Monat ist sie (.schwanger)?	Tu
+Im wievielten Monat ist sie schwanger?	Td
 Im wievielten Monat ist sie?	Tu
-Immer gleich losschimpfen, oder wie?	Tu
+Immer gleich losschimpfen, oder wie?	Td
 In Deutschland ist sie sehr gegenwärtig, aber als Mannequin, als Model?	Tu
 In der Hauptrolle?	Tu
 In welche Klasse gehst du?	Td
@@ -684,9 +682,9 @@ Ist es Ihnen nicht heiß?	Tu
 Ist es Ihr Ziel, sich den Standards der Humanmedizin anzunähern?	Tu
 Ist es ansteckend?	Tu
 Ist es dann ein Hutschpferd?	Tu
-Ist es dein (.freier) Wille?	Tu
+Ist es dein freier Wille?	Tu
 Ist es denn wirklich wirksam?	Tu
-Ist es dir nicht (.zu) kalt?	Tu
+Ist es dir nicht zu kalt?	Tu
 Ist es dort nicht zu teuer?	Tu
 Ist es durch die Versicherung gedeckt?	Tu
 Ist es eilig?	Tu
@@ -717,7 +715,7 @@ Ist sie männerlos?	Tu
 Ist unsere Luftwaffe alarmbereit?	Tu
 Ist was los?	Td
 Ist was passiert?	Tu
-Ja (.bitte)?	Tu
+Ja bitte?	Tu
 Ja was sehen denn meine Äugelchen?	Td
 Ja?	Tu
 Jeder der offen schwul lebt alle 3 Monate zwangsweise zum HIV-Test?	Tu
@@ -851,7 +849,7 @@ Kannst du mich nicht verstehen?	Tu
 Kannst du mir Geld vorstrecken?	Tu
 Kannst du mir beim Bankdrücken helfen?	Tu
 Kannst du mir das vergeben?	Tu
-Kannst du mir den Rücken (.mit Sonnencreme) einkremen?	Tu
+Kannst du mir den Rücken mit Sonnencreme einkremen?	Tu
 Kannst du mir ein Glas holen?	Tu
 Kannst du mir eine Kleinigkeit zum Essen kaufen?	Tu
 Kannst du mir vorsagen?	Tu
@@ -884,7 +882,6 @@ Kommen die Deinen?	Tu
 Kommst du mit ihm klar?	Tu
 Kommt deine Familie?	Tu
 Kommt es darauf an?	Tu
-Kommt es dir (.nicht) vertraut vor?	Tu
 Kommt es dir nicht vertraut vor?	Tu
 Kommt es mir nur so vor, oder ist es hier kalt?	Tu
 Kommt man auch mit dem Auto hin?	Tu
@@ -895,10 +892,10 @@ Kommt man per Auto hin?	Tu
 Kommt unser Zug pünktlich?	Tu
 Kostet es Eintritt?	Tu
 Können Fische, die aus Aquakulturen stammen, die Probleme mildern?	Tu
-Können Sie (.bitte) die Rechnung überprüfen?	Tu
 Können Sie Deutsch?	Tu
 Können Sie bitte Ihren Sitz zurückklappen?	Tu
 Können Sie bitte anhalten?	Tu
+Können Sie bitte die Rechnung überprüfen?	Tu
 Können Sie bitte die tschechische Botschaft darüber informieren, was passiert ist?	Tu
 Können Sie dafür sorgen, dass wir es bekommen?	Tu
 Können Sie das näher bestimmen?	Tu
@@ -907,8 +904,8 @@ Können Sie den Kofferraum öffnen?	Tu
 Können Sie die Nummer für mich wählen?	Tu
 Können Sie die Sicherung wieder einschalten?	Tu
 Können Sie ein anderes Mal kommen?	Tu
-Können Sie es (.für mich) herausfinden?	Tu
 Können Sie es den anderen ausrichten?	Tu
+Können Sie es für mich herausfinden?	Tu
 Können Sie es für mich nachprüfen?	Tu
 Können Sie es für mich wiegen, bitte?	Tu
 Können Sie es irgendwie näher beschreiben?	Tu
@@ -934,7 +931,7 @@ Können Sie lauter sprechen, bitte?	Tu
 Können Sie meine Bremsen nachstellen?	Tu
 Können Sie meine Fehler korrigieren?	Tu
 Können Sie meine Verwandten informieren, bitte?	Tu
-Können Sie meinen Akku (.wieder) aufladen?	Tu
+Können Sie meinen Akku wieder aufladen?	Tu
 Können Sie mich gegen Kaution freilassen?	Tu
 Können Sie mich hier in einer Stunde abholen?	Tu
 Können Sie mich hinbringen?	Tu
@@ -979,7 +976,7 @@ Können Sie mir helfen, den Wagen zur Seite zu schieben?	Tu
 Können Sie mir helfen, mein Gepäck einzuladen?	Tu
 Können Sie mir helfen?	Tu
 Können Sie mir mit dem Fisch ein Foto machen?	Tu
-Können Sie mir mit dem Gepäck (.nach oben) helfen?	Tu
+Können Sie mir mit dem Gepäck nach oben helfen?	Tu
 Können Sie mir raten…?	Tu
 Können Sie mir sagen…?	Tu
 Können Sie mir zwanzig Euro wechseln?	Tu
@@ -1097,7 +1094,7 @@ Mit wem möchten Sie sprechen?	Td
 Mit wem spreche ich, bitte?	Td
 Mit wem spreche ich?	Td
 Mit wem war sie dort?	Td
-Moment mal, wer ist das?	Tu
+Moment mal, wer ist das?	Td
 Morgen in einer Woche?	Tu
 Muskelfaserriss? oder anriss?	Tu
 Muss ich alle Felder ausfüllen?	Tu
@@ -1116,20 +1113,21 @@ Muß ich nochmal durchstudieren?	Tu
 Möchten Sie etwas trinken?	Tu
 Möchten Sie noch?	Tu
 Möchten Sie, dass ich ihn anrufe?	Tu
-Möchtest du (.gerne) Fruchtsaft?	Tu
 Möchtest du ein Stück Kuchen?	Tu
 Möchtest du etwas essen?	Tu
-Möchtest du lieber klein oder groß?	Tu
+Möchtest du gerne Fruchtsaft?	Tu
+Möchtest du lieber klein oder groß?	Td
 Müssen die jetzt jedem Rotzlöffel die ABC Benimmregeln beibringen?	Tu
 Müssen wir auch Skihelme tragen?	Tu
 Müssen wir vor der Abreise das Zimmer aufräumen?	Tu
+Na ja, wo sind sie eigentlich?	Td
 Na ja, wäre es nicht super, wenn sich Ihr Tablet oder Smartphone genauso bedienen lässt wie Ihr PC?	Tu
 Na und?	Tu
 Na, wie siehst du es?	Td
 Na, wird's bald?	Tu
 Nach der wievielten Generation wäre es hygienischer, sich eine neue anzuschaffen?	Tu
 Natürlich findet Historiker Jobs, nur braucht man dafür ein Geschichtsstudium?	Tu
-Nee klar, wer vermutet schon Böses in einem unschuldigen Marmorkuchen?	Tu
+Nee klar, wer vermutet schon Böses in einem unschuldigen Marmorkuchen?	Td
 Nee oder, hab ich jetzt echt nen Grasfleck am Kleid?	Tu
 Nehmen Sie Bier, Wein oder etwas Scharfes?	Tu
 Nehmen Sie Tee oder Kaffee?	Tu
@@ -1147,7 +1145,7 @@ Noch jemand gebefreudig?	Tu
 Noch nicht ganz wach, mein Alterchen?	Tu
 Notfalls würde ich auf Kabel downgraden, hat jemand Erfahrung damit?	Tu
 Nur mit einer Bügelsäge oder sogar fachmännisch mit einer Motorsäge?	Tu
-Nur so aus Neugier: wie heißt denn Maschinenbauingenieur auf Altdeutsch, oder zumindest auf Hochdeutsch?	Tu
+Nur so aus Neugier: wie heißt denn Maschinenbauingenieur auf Altdeutsch, oder zumindest auf Hochdeutsch?	Td
 Nutzt sie ihre Rundungen etwa als Geheimwaffe, um ihrem Streifen zum Erfolg zu verhelfen?	Tu
 Nutzten Schwimmer ein neues Herzmittel zum dopen in Peking?	Tu
 Ob Papa Roger ihnen da vielleicht sogar einen Sandkuchen baut?	Tu
@@ -1262,7 +1260,7 @@ Sie wollen uns schon verlassen?	Tu
 Sie wünschen bitte?	Tu
 Sie, der Beförderer positiven Sinns?	Tu
 Siehst du das auch so?	Tu
-Siehst du es (.auch)?	Tu
+Siehst du es auch?	Tu
 Siehst du ihn schon?	Tu
 Sieht doch aber aus wie ein wilder Auerochse, oder?	Tu
 Sind Batterien dabei?	Tu
@@ -1271,7 +1269,6 @@ Sind Humangenetik und Reproduktionsmedizin Fortschritt oder Irrweg?	Tu
 Sind Ihre Dokumente in Ordnung?	Tu
 Sind Liberale zu wohlerzogen, sich dagegen zu wehren?	Tu
 Sind Serbisch, Bosnisch, Mazedonisch, Albanisch die nächsten?	Tu
-Sind Sie (.nicht) durstig oder hungrig?	Tu
 Sind Sie Evolutionist?	Tu
 Sind Sie Herr…?	Tu
 Sind Sie dafür, die gültigen Regeln bei Organspenden umzukehren?	Tu
@@ -1282,13 +1279,14 @@ Sind Sie frei?	Tu
 Sind Sie geschäftlich oder privat hier?	Tu
 Sind Sie hier zum ersten Mal?	Tu
 Sind Sie mir böse?	Tu
+Sind Sie nicht durstig oder hungrig?	Tu
 Sind Sie schon mal bestohlen worden?	Tu
 Sind Sie schon mal hier gewesen?	Tu
 Sind Sie sicher?	Tu
 Sind Sie verheiratet?	Tu
 Sind Sie verwandt?	Tu
 Sind das normale AAs oder irgendwelche speziellen?	Tu
-Sind die Billionen US-amerikanisch oder mathematisch?	Tu
+Sind die Billionen US-amerikanisch oder mathematisch?	Td
 Sind die Böden auch strapazfähig?	Tu
 Sind die Fliege, Ameise, Kellerassel, Spinne genauso zu schützen wie ein Nashorn oder ein indischer Tiger?	Tu
 Sind die Taxis teuer hier?	Tu
@@ -1306,25 +1304,25 @@ So scherz bei Seite, mal im ernst dann ist HEINO auch rechts?	Tu
 So spät?	Tu
 So viel?	Tu
 So weit?	Tu
-So wie wenn 3 mal schwarz kam, muss einmal rot kommen beim Roulette?	Td
+So wie wenn 3 mal schwarz kam, muss einmal rot kommen beim Roulette?	Tu
 So, nun höre ich aber auf mit dem schulmeistern?	Tu
 Soda als Fleckentferner?	Tu
-Soll ich (.es machen)?	Tu
 Soll ich Ihnen einen Stuhl holen?	Tu
 Soll ich bisschen mehr heizen? Ist euch nicht kalt?	Tu
 Soll ich das Licht anmachen?	Tu
 Soll ich den Computer ausmachen?	Tu
 Soll ich den Fernseher ausschalten?	Tu
 Soll ich dich in die Stadt fahren?	Tu
-Soll ich dich irgendwohin fahren?	Td
+Soll ich dich irgendwohin fahren?	Tu
 Soll ich die CD anmachen?	Tu
 Soll ich eine Zollerklärung ausfüllen?	Tu
+Soll ich es machen?	Tu
 Soll ich es mitnehmen?	Tu
 Soll ich fahren?	Tu
 Soll ich ihm etwas ausrichten?	Tu
 Soll ich ihn rufen?	Tu
 Soll ich meine Sachen im Auto lassen?	Tu
-Soll man Öl vergessen, oder stecken in dem Rohstoff noch ungeahnte Chancen und Entwicklungsmöglichkeiten?	Tu
+Soll man Öl vergessen, oder stecken in dem Rohstoff noch ungeahnte Chancen und Entwicklungsmöglichkeiten?	Td
 Sollen auch Spitzensportler, die dopen, über die Sperre für Wettkämpfe hinaus eingesperrt werden?	Tu
 Sollten vor Gott denn nicht alle gleich sein - egal ob Hetero - Lesbisch - Homosexuell oder Bisexuell?	Tu
 Sorgst du dafür, dass es rechtzeitig fertig ist?	Tu
@@ -1374,15 +1372,15 @@ Um wie viel Uhr sind Sie da?	Td
 Um wie viel Uhr?	Td
 Um wie viel größer ist er?	Td
 Umgekehrt mag mann ja auch keine üppig und ungepflegt wuchernde Körperbehaarung bei ihr, oder?	Tu
-Unbeantwortet oder unbeantwortbar?	Tu
+Unbeantwortet oder unbeantwortbar?	Td
 Und Sie?	Tu
-Und auf was muss man nach wie vor achten, um im Urlaub nicht unnötig Geld zu vertelefonieren?	Tu
+Und auf was muss man nach wie vor achten, um im Urlaub nicht unnötig Geld zu vertelefonieren?	Td
 Und dann müssen sie dabeibleiben, um ihr Geld zu schützen, nicht?	Tu
 Und das sagt wer?	Td
 Und das soll ich glauben?	Tu
 Und deshalb hat sie ihn verlassen?	Tu
 Und die Senioren, lassen die sich lieber ordentlich im Bus durchschütteln?	Tu
-Und du, was ist mit dir?	Tu
+Und du, was ist mit dir?	Td
 Und ist ein Navigationssystem, das aus Distanz und Fahrzeit einen Tarif errechnet, eine Art Taxameter?	Tu
 Und nun?	Tu
 Und seine Mutter duldet es?	Tu
@@ -1398,7 +1396,7 @@ Und was hast du erwartet?	Td
 Und was hat man davon?	Td
 Und was hält er von Maniküren?	Td
 Und was ist mit dem Koffer da drüben?	Td
-Und was ist mit den anderen (.Leuten)?	Td
+Und was ist mit den anderen Leuten?	Td
 Und was ist mit ihm?	Td
 Und was ist schlimm daran?	Td
 Und was nun?	Td
@@ -1409,7 +1407,7 @@ Und was weiter?	Td
 Und was, wenn nicht?	Tu
 Und welchen Nutzen habe ich davon?	Td
 Und wenn ich gekommen wäre, hättest du mich bezahlt?	Tu
-Und wenn ihr Euch so aufregt, wieso schaut ihr euch Popstars an oder lest Artikel darüber?	Tu
+Und wenn ihr Euch so aufregt, wieso schaut ihr euch Popstars an oder lest Artikel darüber?	Td
 Und wie am Ende Jackett, Hemd, Einstecktuch und Krawatte optimal kombinieren?	Td
 Und wie geht es weiter?	Td
 Und wie kann die Kirche erklären, man dürfe Homosexuelle nicht diskriminieren, und ihnen zugleich verordnen, keusch zu leben?	Td
@@ -1417,10 +1415,10 @@ Und wie viel zahlt ein Junior bei Y B als Jahresbeitrag?	Td
 Und wie war das weiter?	Td
 Und wie wäre es mit morgen?	Td
 Und wie wäre es mit…?	Td
-Und wieso stellst du ne gegenfrage?	Tu
+Und wieso stellst du ne gegenfrage?	Td
 Und würde Papa Bruno auch mal auf Brautschau im TV gehen wollen?	Tu
 Unglück oder Staatsaktion?	Tu
-Uralter Kaffee, wer will das noch wissen?	Tu
+Uralter Kaffee, wer will das noch wissen?	Td
 Vater Albaner, Mutter Albanerin, und das soll ein Remix sein?	Tu
 Verkaufen Sie Briefmarken?	Tu
 Verkaufen Sie Datenträger?	Tu
@@ -1433,7 +1431,7 @@ Verschwindet Irland, das weniger als ein Prozent der EU-Bürger darstellt, vom R
 Versprochen?	Tu
 Verstehen Sie mich?	Tu
 Verstehen die Besucher exklusiver Restaurants mehr vom Essen als der Durchschnittsbürger?	Tu
-Verstehst du (.das)?	Tu
+Verstehst du das?	Tu
 Verstehst du den Sinn dieser Vorschrift?	Tu
 Verstehst du keinen Scherz?	Tu
 Verstehst du keinen Spaß?	Tu
@@ -1442,10 +1440,10 @@ Vielleicht wird der 10 Monate alte Pimpf später auch mal Bauingenieur?	Tu
 Vielleicht wäre da ein authentischer, nostalgischer Ort in intakter Landschaft genau das Passende?	Tu
 Von welcher Suppe sprechen Sie, Killerbiene?	Td
 Von wem hast du das?	Td
-Von wem sprichst du (.da)?	Td
+Von wem sprichst du da?	Td
 Von wem wissen Sie es?	Td
 Vor ihrer Wohnung gaben sie sich dann ein Bussi: ein freundschaftliches?	Tu
-Vögeln, Ficken, Bumsen - woher kommt das eigentlich?	Tu
+Vögeln, Ficken, Bumsen - woher kommt das eigentlich?	Td
 WAS würden sie tun? zufrieden daheim fernsehen, und den Reichen beim Rauben zusehen?	Td
 Wahre Demokratie - oder eben doch eine arrogante Diktatur, wie ich es der EU voraussage?	Tu
 Wann besucht ihr uns?	Td
@@ -1511,8 +1509,8 @@ Wann wollen Sie es zurückhaben?	Td
 Wann wurde die Kirche gebaut?	Td
 Wann öffnet die Hotelbar?	Td
 Wann überschreiten wir die Grenze?	Td
-Wann, wenn nicht jetzt?	Tu
-War das bei euch (.zu Hause)?	Tu
+Wann, wenn nicht jetzt?	Td
+War das bei euch zu Hause?	Tu
 War das nur ein Ablenkungsmanöver, um unsere Initiative auszubremsen?	Tu
 War das wirklich nötig?	Tu
 War die Armee verhasst, weil das Offizierskorps aus Schiiten besteht?	Tu
@@ -1522,13 +1520,13 @@ War es nicht Schreiber der mal tönte, wenn er auspackt, wackelt die Republik?	T
 War es nur ein Dummejungenstreich?	Tu
 War es schon am Anfang so?	Tu
 War es schwierig, Ihrer Familie zu erklären, dass sie fortziehen, um Model zu werden?	Tu
-War ihre Ausweglosigkeit real oder das Produkt einer inneren, vielleicht sogar psychotischen, Entwicklung?	Tu
+War ihre Ausweglosigkeit real oder das Produkt einer inneren, vielleicht sogar psychotischen, Entwicklung?	Td
 Waren Sie überrascht, als Sie hörten, das FBI habe einen russischen Spionagering ausgehoben?	Tu
-Warst du (.schon mal) drinnen?	Tu
 Warst du dort überhaupt schon mal?	Tu
 Warst du schon einkaufen?	Tu
 Warst du schon mal da?	Tu
 Warst du schon mal dort?	Tu
+Warst du schon mal drinnen?	Tu
 Warten Sie auf mich?	Tu
 Warum 1200 kg Auto 7 km für eine Person 7 km herumkutschieren?	Td
 Warum bleiben sowohl Anbieter wie auch Auftraggeber oft ungeahndet?	Td
@@ -1583,7 +1581,7 @@ Warum wurde eigentlich die digitale Puppenstube trotz der eher schlichten Grafik
 Warum wurde meine Reklamation zurückgewiesen?	Td
 Warum wurde von Seehofer der schwammige Begriff teilweise nicht genauer spezifiziert?	Td
 Warum zum Geier beschmutzen sie unser Land dann immer wieder als Bananenrepublik?	Td
-Warum, glaubst du, mögen die Leute so sinnentleerte Sprüche?	Tu
+Warum, glaubst du, mögen die Leute so sinnentleerte Sprüche?	Td
 Warum? warum hack jeder auf Tokio Hotel rum?	Td
 Was aber machen Langzeitkranke, die Krankengeld beziehen?	Td
 Was aber, wenn man plötzlich anfängt, seine Eltern zu bemuttern?	Td
@@ -1635,7 +1633,7 @@ Was hast du damit erreicht?	Td
 Was hast du denn auf dem Herzen?	Td
 Was hast du denn getan?	Td
 Was hast du gesagt?	Td
-Was hast du vor (.zu tun)?	Td
+Was hast du vor zu tun?	Td
 Was hast du vor?	Td
 Was hat das damit zu tun?	Td
 Was hat das mit ihnen zu tun?	Td
@@ -1707,8 +1705,8 @@ Was machen Sie beruflich?	Td
 Was machen Sie hier?	Td
 Was machen Sie, damit Ingenieurin sein cool wird?	Td
 Was machen sie so lange?	Td
-Was machen wir (.jetzt)?	Td
 Was machen wir damit?	Td
+Was machen wir jetzt?	Td
 Was machst du am liebsten?	Td
 Was machst du heute Abend?	Td
 Was machst du morgen Abend?	Td
@@ -1716,7 +1714,6 @@ Was macht das für einen Sinn?	Td
 Was macht das zusammen?	Td
 Was macht denn jemanden zum Tansanier, Simbabwer, Afrikaner?	Td
 Was macht dir Spaß?	Td
-Was meinen Sie (.damit)?	Td
 Was meinen Sie damit?	Td
 Was meinen Sie dazu?	Td
 Was meinst du mit schwimmen. geradeaus oder in Kurven wegrutschen / schmieren? bei welchem Untergrund?	Td
@@ -1742,7 +1739,7 @@ Was sind sie nur für ein Primitivling?	Td
 Was soll an diesem Spot edel sein, von höhem Niveau?	Td
 Was soll diese Frage?	Td
 Was soll es sein?	Td
-Was soll ich damit (.machen)?	Td
+Was soll ich damit machen?	Td
 Was soll ich tun, wenn ich Probleme habe?	Td
 Was soll ich tun?	Td
 Was soll jetzt dieser polemische Heiterkeitsausbruch?	Td
@@ -1796,7 +1793,7 @@ Was würden Sie raten?	Td
 Was ziehst du an?	Td
 Was zum Geier ist der ÖKOLOGISCHEN UMBAU DER GESELLSCHAFT? werden wir zu Mutanten?	Td
 Was ärgert dich?	Td
-Was, denkst du, motiviert Leute dazu, für dein Magazin ihren Penis oder ihre Vagina zu fotografieren?	Tu
+Was, denkst du, motiviert Leute dazu, für dein Magazin ihren Penis oder ihre Vagina zu fotografieren?	Td
 Was, wenn ihr etwas passiert ist?	Tu
 Wascht ihr eure Haare denn nicht mehr regelmässig?	Tu
 Wechseln Sie tschechische Kronen?	Tu
@@ -1837,11 +1834,11 @@ Welche Vorwahl hat…?	Td
 Welche Zukunftspläne hast du?	Td
 Welche ist Ihre Lieblingsfarbe?	Td
 Welche sind die besten Bauchübungen?	Td
-Welche örtlichen Sehenswürdigkeiten können Sie uns (.zur Besichtigung) empfehlen?	Td
+Welche örtlichen Sehenswürdigkeiten können Sie uns zur Besichtigung empfehlen?	Td
 Welchen Benzinverbrauch hat der Wagen?	Td
 Welchen Browser sollte ich benutzen?	Td
 Welchen Computer kann ich benutzen?	Td
-Welchen Sender magst du (.hören)?	Td
+Welchen Sender magst du hören?	Td
 Welchen Weg nahm er?	Td
 Welchen möchtest du?	Td
 Welchen nimmst du?	Td
@@ -1865,7 +1862,7 @@ Wen suchen Sie?	Td
 Wen wollen Sie sprechen?	Td
 Wenn du an Olympia denkst, worauf freust du dich am meisten?	Td
 Wenn ein Gezeitenkraftwerk Hochtechnologie ist, was ist dann erst ein Atomkraftwerk?	Td
-Wenn ja. wie kommt der Geist Jesu in die Textilie?	Tu
+Wenn ja, wie kommt der Geist Jesu in die Textilie?	Td
 Wer also hat soviel Pinke, Pinke?	Td
 Wer anders?	Td
 Wer besorgt Eintrittskarten?	Td
@@ -1903,14 +1900,14 @@ Wer heiratet?	Td
 Wer hilft mir?	Td
 Wer hätte es von ihr gedacht?	Td
 Wer hätte gedacht, dass sogar egomane Rapper ein Poesiealbum führen?	Td
-Wer ist (.daran) schuld?	Td
 Wer ist an der Reihe?	Td
 Wer ist da?	Td
 Wer ist dafür zuständig?	Td
+Wer ist daran schuld?	Td
 Wer ist darauf gekommen?	Td
 Wer ist das Mädel?	Td
 Wer ist das?	Td
-Wer ist der Nächste (.auf der Liste)?	Td
+Wer ist der Nächste auf der Liste?	Td
 Wer ist der Stärkste?	Td
 Wer ist diese Frau?	Td
 Wer ist dran?	Td
@@ -1941,7 +1938,7 @@ Wer weiß, was uns das nächste Jahr mitbringt?	Td
 Wer wird der nächste Präsident?	Td
 Wer wird durch die globale Erwärmung leiden müssen?	Td
 Wer/was ist Kanoniker?	Tu
-Werden Sie (.morgen) Zeit haben?	Tu
+Werden Sie morgen Zeit haben?	Tu
 Werden Sie schon bedient?	Tu
 Werden Sie vor Olympia irgendetwas anderes machen, weitere Experten zusätzlich zu ihrem Coach Ingo Steuer hinzuziehen?	Tu
 Werden sie lange bleiben?	Tu
@@ -1952,7 +1949,7 @@ Wessen Fan bist du?	Td
 Wessen Kind ist es?	Td
 Wessen Schuld ist es?	Td
 Wessen wollen Sie mich beschuldigen?	Td
-Wie (.bitte)?	Tu
+Wie Bitte?	Tu
 Wie alt bist du?	Td
 Wie anstrengend ist die Wanderung?	Td
 Wie arbeitet ein Druckkochtopf?	Td
@@ -1972,8 +1969,7 @@ Wie feiern wir den Höhepunkt, den fetten Blütenboden?	Td
 Wie fühlst du dich?	Td
 Wie gehe ich es an, wird beim ersten Hammerschlag gleich zuviel abbröckeln?	Td
 Wie geht es Ihrer Familie?	Td
-Wie geht es deiner <Tu>Alten?	Td
-Wie geht's (.Ihnen)?	Td
+Wie geht es deiner Alten?	Td
 Wie geht's Ihnen?	Td
 Wie geht's deiner Familie?	Td
 Wie geht's deiner Frau?	Td
@@ -2007,7 +2003,7 @@ Wie ist das Wetter bei euch?	Td
 Wie ist das möglich?	Td
 Wie ist das passiert?	Td
 Wie ist deine Adresse?	Td
-Wie ist der Stand (.des Spiels)?	Td
+Wie ist der Stand des Spiels?	Td
 Wie ist der Wechselkurs?	Td
 Wie ist die Adresse hier?	Td
 Wie ist die Chance, dass er gefunden wird?	Td
@@ -2065,7 +2061,7 @@ Wie lange dauert der Flug?	Td
 Wie lange dauert der Kurs?	Td
 Wie lange dauert die Bearbeitung der Reklamation?	Td
 Wie lange dauert die Besichtigung?	Td
-Wie lange dauert die Fahrt zum Flughafen (.mit einem Taxi)?	Td
+Wie lange dauert die Fahrt zum Flughafen mit einem Taxi?	Td
 Wie lange dauert die Fahrt?	Td
 Wie lange dauert die Reparatur?	Td
 Wie lange dauert die Schifffahrt?	Td
@@ -2146,10 +2142,10 @@ Wie steht's?	Td
 Wie tief darf man tauchen?	Td
 Wie tief ist dieses Schwimmbecken?	Td
 Wie verstehen Sie das?	Td
-Wie viel (.Geld) soll ich umtauschen?	Td
 Wie viel Geld hast du?	Td
 Wie viel Geld ist dir geblieben?	Td
-Wie viel Grad sind es (.in 1000 Meter Höhe)?	Td
+Wie viel Geld soll ich umtauschen?	Td
+Wie viel Grad sind es in 1000 Meter Höhe?	Td
 Wie viel Stück?	Td
 Wie viel Verunglimpfung, Denunziation und Betrug geschieht aus Idealismus?	Td
 Wie viel Zeit haben wir?	Td
@@ -2235,23 +2231,23 @@ Wie würden Sie denn Ihren Jargon definieren, Herr Wenger?	Td
 Wie würdest du es beschreiben?	Td
 Wie zum Beispiel?	Td
 Wie überqueren wir den Fluss?	Td
-Wieso gibt man es z. B. nicht auf, Leute zu jagen, die Autos abfackeln?	Tu
-Wieso haben nur Experten, Justizbeamte oder Psychiater Schuld an solchen traurigen Fällen?	Tu
-Wieso müssen sich die SBB im Zug jetzt auch noch als Kuppler betätigen?	Tu
-Wieso sind in en Moscheen der Türkei hier die türkischen Nationalflaggen?	Tu
-Wieso soll ich für Wahlpropaganda der SPÖ 16 Euro zahlen?	Tu
-Wieso solltest du hingehen?	Tu
-Wieso stehen Sie zur Ausrottung von Bären, Wölfen, Luchsen oder Indianern?	Tu
-Wieso wird also ein Buch über hochdeutsche Ausdrücke junger Leute aus Deutschland hier angepriesen?	Tu
+Wieso gibt man es z. B. nicht auf, Leute zu jagen, die Autos abfackeln?	Td
+Wieso haben nur Experten, Justizbeamte oder Psychiater Schuld an solchen traurigen Fällen?	Td
+Wieso müssen sich die SBB im Zug jetzt auch noch als Kuppler betätigen?	Td
+Wieso sind in en Moscheen der Türkei hier die türkischen Nationalflaggen?	Td
+Wieso soll ich für Wahlpropaganda der SPÖ 16 Euro zahlen?	Td
+Wieso solltest du hingehen?	Td
+Wieso stehen Sie zur Ausrottung von Bären, Wölfen, Luchsen oder Indianern?	Td
+Wieso wird also ein Buch über hochdeutsche Ausdrücke junger Leute aus Deutschland hier angepriesen?	Td
 Wieviel Strom verbraucht ein Brotbackautomat?	Td
-Wieviele arbeiten im Importgeschäft?	Tu
-Wievielmal am Tag soll ich das nehmen?	Tu
-Wievielmal bist du mit dem Flugzeug geflogen?	Tu
-Wievielmal habt ihr euch getroffen?	Tu
-Wievielmal muss ich das noch sagen?	Tu
-Wievielter ist er eingekommen?	Tu
-Wievieltes Bier trinkst du schon?	Tu
-Willst du Kaffee oder Tee<V1>?	Tu
+Wieviele arbeiten im Importgeschäft?	Td
+Wievielmal am Tag soll ich das nehmen?	Td
+Wievielmal bist du mit dem Flugzeug geflogen?	Td
+Wievielmal habt ihr euch getroffen?	Td
+Wievielmal muss ich das noch sagen?	Td
+Wievielter ist er eingekommen?	Td
+Wievieltes Bier trinkst du schon?	Td
+Willst du Kaffee oder Tee?	Tu
 Willst du auf dem Pferd reiten?	Tu
 Willst du dich schlagen?	Tu
 Willst du mich anmachen?	Tu
@@ -2269,7 +2265,7 @@ Wird das Überbewertet?	Tu
 Wird die Sandler Hinterglasmalerei bald zum immateriellen, nationalen Kulturerbe erklärt?	Tu
 Wird eine Stornogebühr berechnet?	Tu
 Wird es eine große Hochzeit sein?	Tu
-Wird es sich (.langfristig) bewähren?	Tu
+Wird es sich langfristig bewähren?	Tu
 Wird es wehtun?	Tu
 Wird man Ausflüge mit einem Tauchschiff unternehmen?	Tu
 Wirklich?	Tu
@@ -2371,11 +2367,10 @@ Wo lebst du denn?	Td
 Wo liegt das Optimum zwischen physischer Präsenz und virtueller Zusammenarbeit?	Td
 Wo liegt die Grenze zwischen Babyspeck, aus dem die Kinder herauswachsen, und Übergewicht?	Td
 Wo seid ihr gewesen?	Td
-Wo sind (.hier) die Toiletten?	Td
 Wo sind Sie jetzt?	Td
 Wo sind bloß die ganzen Menschen hergekommen?	Td
 Wo sind die Papiere?	Td
-Wo sind sie? <s.endash> Na ja, wo sind sie eigentlich?	Td
+Wo sind hier die Toiletten?	Td
 Wo sind unsere Sitzplätze?	Td
 Wo sind wir? Wie heißt die Haltestelle?	Td
 Wo sitzen wir?	Td
@@ -2403,8 +2398,8 @@ Wo willst du sitzen?	Td
 Wo wohnen Sie?	Td
 Wo wohnst du?	Td
 Wo wären da beispielsweise Schach oder Schiessen zu situieren?	Td
-Wofür interessieren Sie sich?	Tu
-Wofür soll Ihre Schmährede gut sein?	Tu
+Wofür interessieren Sie sich?	Td
+Wofür soll Ihre Schmährede gut sein?	Td
 Woher die brachiale Aggression Meiers gegen den feinfühligen Autoren?	Td
 Woher hast du das?	Td
 Woher hast du die Narbe?	Td
@@ -2444,7 +2439,7 @@ Wollen Sie etwas trinken?	Tu
 Wollen Sie ihm eine Nachricht hinterlassen?	Tu
 Wollen Sie mitfahren?	Tu
 Wollen Sie vielleicht…?	Tu
-Wollen wir (.nicht) die Plätze tauschen?	Tu
+Wollen wir nicht die Plätze tauschen?	Tu
 Wollen wir noch ein trinken gehen?	Tu
 Wollen wir tanzen?	Tu
 Wollen wir warten oder gehen wir woandershin?	Tu
@@ -2458,20 +2453,20 @@ Womit beschäftigen Sie sich?	Td
 Womit denn sonst? mit nem Abakus oder 10 gelben Fingern?	Td
 Womit fangen wir an?	Td
 Womit hast du das geöffnet?	Td
-Womit soll ich (.dann) weiterfahren?	Td
+Womit soll ich dann weiterfahren?	Td
 Woran denkst du?	Td
 Woran hängt es denn?	Td
 Woran ist er gestorben?	Td
 Woran liegt es?	Td
 Worauf will er damit hinaus?	Td
 Worauf willst du damit hinaus?	Td
-Woraus besteht Königswasser?	Tu
-Woraus ist das hergestellt?	Tu
+Woraus besteht Königswasser?	Td
+Woraus ist das hergestellt?	Td
 Worin besteht aber nun diese Scheußlichkeit konkret?	Td
 Worin liegt der Vorteil?	Td
-Worum geht es dort?	Tu
-Worum geht es?	Tu
-Worum genau geht es bei dieser Arbeit?	Tu
+Worum geht es dort?	Td
+Worum geht es?	Td
+Worum genau geht es bei dieser Arbeit?	Td
 Worüber denkst du nach?	Td
 Worüber hätten die Schotten im letzten September abgestimmt, fragt sie provokant?	Td
 Worüber lachst du?	Td
@@ -2479,9 +2474,9 @@ Worüber wunderst du dich?	Td
 Wovon ist die Rede?	Td
 Wovon sprichst du denn?	Td
 Wovon zeugt das?	Td
-Wovor fürchtest du dich?	Tu
-Wovor hast du Angst?	Tu
-Wozu dann noch vielleicht vorweg Ängste schüren, wenn das Horoskop etwas Negatives aufzeigt?	Tu
+Wovor fürchtest du dich?	Td
+Wovor hast du Angst?	Td
+Wozu dann noch vielleicht vorweg Ängste schüren, wenn das Horoskop etwas Negatives aufzeigt?	Td
 Wurde da das mythologisch besetzte Tohuwabohu von der Wissenschaft entzaubert?	Tu
 Wurde die gute, freiheitliche BRD von ostdeutscher Autoritätsgläubigkeit vergiftet?	Tu
 Während der Dienststunden?	Tu
@@ -2524,6 +2519,6 @@ Zwingen diese kleinen klugen Köpfe ihre Eltern, sie beim Pauken anzuspornen?	Tu
 Überredet das euch jetzt nach AC zu kommen?	Tu
 Übersah einer der beiden Lokführer ein Signal?	Tu
 Überschneiden sich diese Speicher eigentlich irgendwie, oder sind die voneinander unabhängig?	Tu
-Überschüssige Pfunde abzubauen kann gesundheitliche Vorteile bieten, doch welche Diät bringt den größten Erfolg?	Tu
+Überschüssige Pfunde abzubauen kann gesundheitliche Vorteile bieten, doch welche Diät bringt den größten Erfolg?	Td
 Übst du bergab auf einer Wiese?	Tu
 Übst du noch, oder postest du schon?	Tu
