@@ -8,19 +8,29 @@ def load_config(config):
         data = yaml.full_load(fr)
     return data
 
-def rozpoznani(veta,config):
-    """Porovna, zda se uvnitr vety nachazi slovo z configu a urci ton."""
+def rozpoznani(veta,config, num):
+    """Porovna, zda se mezi num prvnimi slovy vety nachazi slovo z configu a urci ton."""
     veta = normalizace(veta)
     td = config["Td"]
     tu = config["Tu"]
-    tone = 'T?'
+    tone = 'Tu'
     veta = veta.split()
-    for word in veta:
-        if word in td:
-            tone = 'Td'
-            break
-        elif word in tu:
-            tone = 'Tu'
+    if num is not None:
+        for i in range(min(num, len(veta))):
+            if veta[i] in td:
+                tone = 'Td'
+                break
+    else:
+        for word in veta:
+            if word in td:
+                tone = 'Td'
+                break
+    # for word in veta:
+    #     if word in td:
+    #         tone = 'Td'
+    #         break
+    #     elif word in tu:
+    #         tone = 'Tu'
     return tone
 
 # def rozpoznani(veta,config):

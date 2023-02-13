@@ -1,0 +1,2078 @@
+A alguien le interesa?	Tu
+A cuánto está el cambio?	Td
+A cuánto sale?	Td
+A cuántos días de vacaciones tengo derecho?	Td
+A cuántos estamos hoy?	Td
+A cuántos estamos?	Td
+A dónde pertenece esa silla?	Td
+A dónde va este tren?	Td
+A eso lo llamas una buena cena?	Tu
+A partir de qué edad?	Td
+A que no lo terminas a tiempo?	Td
+A quién debo dirigirme?	Td
+A quién espera?	Td
+A quién está buscando?	Td
+A quién le pertenece eso?	Td
+A quién le toca?	Td
+A quién me puedo dirigir?	Tu
+A quién puedo preguntar?	Td
+A qué ayudará?	Td
+A qué debo el placer?	Td
+A qué distancia está de aquí?	Td
+A qué escuela vas?	Td
+A qué hora abre el bar del hotel?	Td
+A qué hora aterrizamos?	Td
+A qué hora cierra con llave por la noche?	Td
+A qué hora debemos salir de la habitación?	Td
+A qué hora empieza el partido?	Td
+A qué hora empieza?	Td
+A qué hora empiezas a trabajar?	Td
+A qué hora empiezas en el trabajo?	Td
+A qué hora estará allí?	Td
+A qué hora llega el tren?	Td
+A qué hora pueden preparar el desayuno?	Td
+A qué hora quedamos?	Td
+A qué hora sale el próximo ferry?	Td
+A qué hora sale el tren?	Td
+A qué hora sale mi avión?	Td
+A qué hora sales del trabajo?	Td
+A qué hora salimos?	Td
+A qué hora se sale?	Td
+A qué hora se sirve el desayuno?	Td
+A qué hora te levantas normalmente?	Td
+A qué hora tenemos que desocupar la habitación?	Td
+A qué hora tengo que estar allí?	Td
+A qué hora termina?	Td
+A qué hora terminas?	Td
+A qué hora vas al trabajo?	Td
+A qué hora viene?	Td
+A qué hora?	Td
+A qué huele aquí?	Td
+A qué se dedica?	Td
+A qué tienes miedo?	Td
+A qué ventanilla voy?	Td
+A qué viene eso?	Td
+A ti Qué te parece?	Td
+A ver, qué te parece?	Td
+Acaso te has vuelto loco?	Tu
+Acaso te he mentido alguna vez?	Tu
+Aceptan estos cheques?	Tu
+Además de escribir tantas barrabasadas, que hace?	Td
+Adónde iremos mañana por la tarde?	Td
+Adónde lo pusiste?	Td
+Adónde prefieren ir?	Td
+Adónde se ha ido?	Td
+Adónde va el mundo?	Td
+Adónde va este autobús?	Td
+Adónde va este camino?	Td
+Adónde va esto?	Td
+Adónde va usted?	Tu
+Adónde vais en verano?	Td
+Adónde vas con tanta prisa?	Td
+Adónde vas?	Td
+Aguantará la mesa mi peso?	Tu
+Ah, no se te olvide ir a ponerte nombre, o eres de probeta?	Td
+Ahora mi soledad me aturde, seguiré con lo mismo?	Tu
+Ahora, que musica o que grupos no son sobrevalorados?	Td
+Alfa, Bravo, se me oye?	Tu
+Algo está mal?	Tu
+Algo para beber?	Tu
+Alguien pide la palabra?	Tu
+Alguien podría enseñarme qué debo hacer exactamente?	Tu
+Alguien podría ir a buscarme al aeropuerto?	Tu
+Alguien puede crearme una cuenta de usuario?	Tu
+Alguien tiene alguna idea?	Tu
+Alguien utiliza este ordenador?	Tu
+Algunas sugerencias?	Tu
+Alguno de vosotros lo sabe?	Tu
+Algún comentario?	Tu
+Alquilan el equipo de buceo?	Tu
+Alquilan tablas de surf?	Tu
+Alquilan también sombrillas?	Tu
+Amplíe su negocio o crear su propio negocio o pagar su deudas, facturas, casa de alquiler?	Tu
+Apago el ordenador?	Tu
+Apago la tele?	Tu
+Aplicar la ley?	Td
+Aproximadamente, si es que puede cuantificarlos, cuantos actos institucionales?	Td
+Aquí se presenta una duda: Fue un accidente?	Tu
+Azúcar?	Tu
+Aún le sigues queriendo?	Tu
+Bajo qué circunstancia votarías por un candidato de izquierda?	Td
+Bastará eso?	Tu
+Bebes agua del grifo?	Tu
+Bueno entonces no tiene uno conciencia?	Tu
+Buscas guerra?	Tu
+Cada cuánto lo ves?	Td
+Cada cuánto viene aquí?	Td
+Cambiamos?	Tu
+Cara o cruz?	Td
+Cobra comisiones por reserva?	Tu
+Cobra comisión por cancelación de reserva?	Tu
+Cobra comisión?	Tu
+Como lo van a llamar?	Td
+Como por ejemplo?	Tu
+Comprar peliculas y revenderlas, es especular?	Tu
+Con cuántas cañas al mismo tiempo puedo pescar?	Td
+Con cuánto tiempo de antelación puedo cancelar la reserva sin comisiones?	Td
+Con patatas fritas?	Tu
+Con quién debería hablar?	Td
+Con quién desea usted hablar?	Tu
+Con quién estoy hablando?	Td
+Con quién hablo?	Td
+Con quién quiere hablar?	Td
+Con quién va a casarse?	Td
+Con qué autobús llego ahí?	Td
+Con qué derecho?	Td
+Con qué empezaremos?	Td
+Con qué frecuencia debo presentarme a una revisión?	Td
+Con qué frecuencia lo ves?	Td
+Con qué frecuencia suele venir aquí?	Td
+Con qué frecuencia va allí?	Td
+Con qué frecuencia viaja al extranjero?	Td
+Conduzco yo?	Tu
+Conoce al hombre que se llama Mouratidis?	Tu
+Conoce usted a mi esposa?	Tu
+Conoces el arte moderno?	Tu
+Contestó a tu pregunta?	Tu
+Corre prisa?	Tu
+Cree en Dios?	Tu
+Crees en Dios?	Tu
+Cuentas con eso?	Tu
+Culpable?	Tu
+Cuál de vosotros viene?	Td
+Cuál es el camino más corto a aquella colina?	Td
+Cuál es el consumo del coche?	Td
+Cuál es el límite de indemnización?	Td
+Cuál es el mejor cebo para siluros?	Tu
+Cuál es el número de su cuenta?	Td
+Cuál es el número de teléfono del taxi?	Td
+Cuál es el peso máximo del equipaje por persona?	Td
+Cuál es el principio activo de este medicamento?	Td
+Cuál es el problema?	Td
+Cuál es el riesgo de transmisión de infecciones?	Td
+Cuál es el saldo de mi cuenta?	Td
+Cuál es el tipo de cambio?	Td
+Cuál es la capital de Islandia?	Td
+Cuál es la contraseña de acceso?	Td
+Cuál es la diferencia entre estos dos?	Td
+Cuál es la dificultad de esta excursión?	Td
+Cuál es la dirección de aquí?	Td
+Cuál es la montaña más alta del mundo?	Td
+Cuál es la moraleja de eso?	Td
+Cuál es la pista más larga?	Td
+Cuál es la probabilidad de que le encuentren?	Td
+Cuál es la profundidad máxima de buceo para un buceador no profesional como yo?	Td
+Cuál es la velocidad máxima aquí?	Td
+Cuál es su color favorito?	Td
+Cuál es su correo electrónico?	Td
+Cuál es su opinión?	Td
+Cuál es su profesión?	Td
+Cuál es tu color preferido?	Td
+Cuál es tu dirección?	Td
+Cuál es tu equipo?	Td
+Cuál es tu número de móvil?	Td
+Cuál es tu opinión?	Td
+Cuál fue el resultado?	Td
+Cuál me recomienda?	Td
+Cuál quieres?	Td
+Cuál te gusta más?	Td
+Cuáles son las condiciones de trabajo?	Td
+Cuáles son las medidas de seguridad?	Td
+Cuáles son sus aficiones?	Td
+Cuándo abren?	Td
+Cuándo bajo?	Td
+Cuándo cierran?	Td
+Cuándo debemos devolver los esquís?	Td
+Cuándo debería venir?	Td
+Cuándo debo tomarlo?	Td
+Cuándo empezaremos a bucear en alta mar?	Td
+Cuándo empiezas?	Td
+Cuándo envió el e-mail?	Td
+Cuándo es la fecha del parto?	Td
+Cuándo estará libre la cancha?	Td
+Cuándo estará listo?	Td
+Cuándo está disponible?	Td
+Cuándo fue construida la iglesia?	Tu
+Cuándo fue la última vez que la viste?	Td
+Cuándo han llegado?	Td
+Cuándo hay que devolver el coche?	Td
+Cuándo le conviene?	Td
+Cuándo le vendría bien?	Td
+Cuándo llegaremos a la frontera?	Td
+Cuándo llegaremos?	Tu
+Cuándo llegarás?	Td
+Cuándo lo viste por última vez?	Td
+Cuándo madurarás?	Td
+Cuándo me dan de alta?	Td
+Cuándo nació?	Td
+Cuándo obtengo el resultado del examen?	Td
+Cuándo podría empezar?	Td
+Cuándo puede empezar a trabajar?	Td
+Cuándo puede presentarse a la entrevista de trabajo?	Td
+Cuándo puedo contactarla?	Td
+Cuándo puedo esperar que me lo devuelvan?	Td
+Cuándo puedo venir?	Td
+Cuándo quiere que se lo devuelva?	Td
+Cuándo se hace la pausa para comer?	Td
+Cuándo se originó el mundo?	Td
+Cuándo se terminará?	Td
+Cuándo será la primera escala?	Td
+Cuándo si no ahora?	Td
+Cuándo te empezarás a comportar como un adulto?	Td
+Cuándo terminarás?	Td
+Cuándo tomaremos un descanso?	Td
+Cuándo vamos a cruzar la frontera?	Td
+Cuándo viene?	Td
+Cuándo vienes?	Td
+Cuándo volverá usted?	Td
+Cuándo volverá?	Tu
+Cuántas paradas quedan todavía?	Td
+Cuántas paradas son desde aquí?	Td
+Cuántas personas vendrán?	Td
+Cuántas veces os habéis visto?	Td
+Cuántas veces tengo que repetirlo?	Td
+Cuánto aguantará el tiempo?	Td
+Cuánto cabe en el depósito?	Td
+Cuánto cobra por un kilómetro?	Td
+Cuánto cobra por un minuto de espera?	Td
+Cuánto cobras al mes?	Td
+Cuánto consume tu coche?	Td
+Cuánto costará?	Td
+Cuánto costaría al aeropuerto?	Td
+Cuánto costaría el alquiler de este yate para todo el día?	Td
+Cuánto costaría una batería nueva?	Td
+Cuánto cuesta alquilar una moto de agua?	Td
+Cuánto cuesta el billete reducido?	Td
+Cuánto cuesta el plano?	Td
+Cuánto cuesta la electricidad por día?	Td
+Cuánto cuesta la habitación doble por una noche?	Td
+Cuánto cuesta por semana?	Td
+Cuánto cuesta por una hora?	Td
+Cuánto cuesta un coche y dos personas?	Td
+Cuánto cuesta un permiso de una semana?	Td
+Cuánto cuesta un vuelo?	Td
+Cuánto cuesta una cerveza aquí?	Td
+Cuánto cuesta una noche?	Td
+Cuánto cuesta una página?	Td
+Cuánto cuesta una subida?	Td
+Cuánto cuesta?	Td
+Cuánto cuestan las entradas?	Td
+Cuánto dinero debo cambiar?	Td
+Cuánto dinero te queda?	Td
+Cuánto dinero tienes?	Td
+Cuánto dura el recorrido?	Td
+Cuánto dura el viaje?	Td
+Cuánto dura el vuelo?	Td
+Cuánto dura la excursión?	Td
+Cuánto dura la garantía?	Td
+Cuánto dura la película?	Td
+Cuánto dura un tanque de aire?	Td
+Cuánto durará?	Td
+Cuánto es el alquiler por día?	Td
+Cuánto es en total?	Td
+Cuánto es la comisión por cancelación?	Td
+Cuánto es la entrada?	Td
+Cuánto es por día?	Td
+Cuánto es por una noche?	Td
+Cuánto es?	Td
+Cuánto ganaremos con eso?	Td
+Cuánto ganarás?	Td
+Cuánto ganas con eso?	Td
+Cuánto gastaste por eso?	Td
+Cuánto has gastado?	Td
+Cuánto mide usted?	Td
+Cuánto mide?	Td
+Cuánto pesa?	Td
+Cuánto pesas?	Td
+Cuánto pidieron por eso?	Td
+Cuánto puede costar?	Td
+Cuánto saco?	Td
+Cuánto se paga por exceso de peso del equipaje?	Td
+Cuánto sería la caución?	Td
+Cuánto tardará en arreglarlo?	Td
+Cuánto tardarás?	Td
+Cuánto tiempo antes de la salida debo estar en el aeropuerto?	Td
+Cuánto tiempo antes de la salida hay que facturar?	Td
+Cuánto tiempo debo tomar el medicamento?	Td
+Cuánto tiempo dura el camino al centro?	Td
+Cuánto tiempo dura el curso?	Td
+Cuánto tiempo dura el viaje andando?	Td
+Cuánto tiempo dura el viaje?	Td
+Cuánto tiempo dura la navegación?	Td
+Cuánto tiempo dura la visita?	Td
+Cuánto tiempo duran las paradas?	Td
+Cuánto tiempo durará el tratamiento?	Td
+Cuánto tiempo durará la transferencia?	Td
+Cuánto tiempo durará?	Td
+Cuánto tiempo estaremos bajo el agua?	Td
+Cuánto tiempo hace que está aquí?	Td
+Cuánto tiempo llevan juntos?	Td
+Cuánto tiempo llevas engañándola?	Td
+Cuánto tiempo llevas viviendo aquí?	Td
+Cuánto tiempo lleváis esperando aquí?	Td
+Cuánto tiempo lloverá?	Td
+Cuánto tiempo me van a detener aquí?	Td
+Cuánto tiempo os vais a quedar?	Td
+Cuánto tiempo se quedará el tren aquí?	Td
+Cuánto tiempo se va a quedar?	Td
+Cuánto tiempo tarda uno andando?	Td
+Cuánto tiempo tardaremos en llegar al aeropuerto en taxi?	Td
+Cuánto tiempo tardaremos?	Td
+Cuánto tiempo tardará en atender la reclamación?	Td
+Cuánto tiempo tardará en encontrarlo?	Td
+Cuánto tiempo tardará?	Td
+Cuánto tiempo te quedarás?	Td
+Cuánto tiempo tenemos?	Td
+Cuánto tiempo tengo que esperar?	Td
+Cuánto tiempo va a durar?	Td
+Cuánto tiempo voy a esperar el enlace?	Td
+Cuánto tiene de ancho?	Td
+Cuánto trabajo te queda por hacer?	Td
+Cuánto vale por una noche?	Td
+Cuánto vale un billete?	Td
+Cuánto vale una excursión?	Td
+Cuántos años hace ya?	Td
+Cuántos años se llevan de diferencia?	Td
+Cuántos años tiene?	Td
+Cuántos años tienes?	Td
+Cuántos caballos tiene?	Tu
+Cuántos grados hay en 1000 metros?	Td
+Cuántos hijos tienen?	Td
+Cuántos idiomas hablas?	Td
+Cuántos kilómetros gratuitos hay en el precio?	Td
+Cuántos kilómetros son?	Td
+Cuántos kilómetros vamos a recorrer?	Td
+Cuántos litros caben en la botella?	Td
+Cuántos terrones de azúcar?	Td
+Cómo cambio al modo macro?	Td
+Cómo clasificaría esta planta?	Td
+Cómo debo entenderlo?	Td
+Cómo debo tomarlo?	Td
+Cómo dice?	Tu
+Cómo diferenciar cuero genuino de una imitación?	Td
+Cómo encararon el problema?	Td
+Cómo entro en el correo electrónico?	Td
+Cómo es el camino allí detrás?	Td
+Cómo es eso?	Td
+Cómo es posible?	Td
+Cómo es?	Td
+Cómo estoy?	Td
+Cómo está de salud?	Td
+Cómo está su familia?	Td
+Cómo está usted?	Td
+Cómo está?	Td
+Cómo estás de dinero?	Td
+Cómo estás?	Td
+Cómo fue en realidad?	Td
+Cómo fue?	Td
+Cómo funciona esto?	Td
+Cómo ha ido?	Td
+Cómo ha ocurrido eso?	Td
+Cómo has dormido?	Td
+Cómo has llegado a eso?	Td
+Cómo has llegado aquí?	Td
+Cómo le ha pasado?	Td
+Cómo le va?	Tu
+Cómo les afecta?	Td
+Cómo llegamos a la embajada checa?	Td
+Cómo llegamos a la playa pública?	Td
+Cómo llegamos al estadio?	Td
+Cómo llegamos al telesquí?	Td
+Cómo llego allí?	Tu
+Cómo lo describirías?	Td
+Cómo lo has averiguado?	Td
+Cómo lo soporta?	Td
+Cómo lo uso?	Td
+Cómo lo ves tú?	Td
+Cómo ocurrió?	Td
+Cómo podemos creerte después de todo?	Td
+Cómo podría haberlo sabido?	Td
+Cómo podría hacérselo?	Td
+Cómo podría saberlo?	Td
+Cómo podía saberlo?	Td
+Cómo podía ser tan estúpido?	Td
+Cómo puede divertirles?	Td
+Cómo puede preguntar así?	Td
+Cómo puedes decir algo así?	Td
+Cómo puedes estar tan seguro?	Td
+Cómo puedes soportarla?	Td
+Cómo puedo llegar a la parada más cercana para el centro?	Td
+Cómo queda?	Td
+Cómo quieres que lo sepa?	Td
+Cómo quitar las manchas del mantel?	Td
+Cómo reconocer el dinero falso?	Td
+Cómo se activa el control de crucero?	Td
+Cómo se atreve usted?	Td
+Cómo se cierra eso?	Td
+Cómo se cierra?	Td
+Cómo se come eso?	Td
+Cómo se comportarán los neumáticos en invierno?	Td
+Cómo se dice en español?	Td
+Cómo se enciende?	Td
+Cómo se escribe el apóstrofo aquí?	Td
+Cómo se escribe?	Td
+Cómo se hace?	Td
+Cómo se han enterado de eso?	Td
+Cómo se juega a esto?	Td
+Cómo se llama el monte?	Td
+Cómo se llama esta calle?	Td
+Cómo se llama la parada donde bajo?	Td
+Cómo se llama la parada?	Td
+Cómo se llama la próxima parada?	Td
+Cómo se llama usted?	Td
+Cómo se llamaba?	Td
+Cómo se mete la marcha atrás?	Td
+Cómo se pronuncia esta palabra?	Td
+Cómo se siente?	Td
+Cómo se te ha ocurrido eso?	Td
+Cómo se va al aeropuerto?	Td
+Cómo se va allí?	Td
+Cómo selecciono el texto?	Td
+Cómo te ha ido?	Td
+Cómo te llamas?	Td
+Cómo te llevas con él?	Td
+Cómo te lo has pasado en la fiesta?	Td
+Cómo te puedes alegrar de eso?	Td
+Cómo te salió?	Td
+Cómo te va la vida?	Td
+Cómo te va?	Td
+Cómo va el marcador?	Td
+Cómo va el partido?	Td
+Cómo va la cosa?	Td
+Cómo va?	Td
+Cómo vamos a solucionarlo?	Td
+Cómo van a pagar?	Td
+Cómo van?	Td
+Cómo vas?	Tu
+Cómo?	Tu
+De cuántas partes consta?	Td
+De cuántos meses estás?	Td
+De dónde eres?	Td
+De dónde es esa silla?	Td
+De dónde es usted?	Td
+De dónde has salido?	Td
+De dónde lo conoces?	Td
+De dónde lo has sacado?	Td
+De dónde lo sabe?	Tu
+De dónde lo sabes?	Td
+De dónde lo tienes?	Td
+De dónde nos conocemos?	Td
+De dónde salen los cruceros?	Td
+De dónde sois?	Td
+De dónde viene toda esa gente?	Td
+De eso se trataba, de debatir, no de tomar tribunas, no crees?	Tu
+De hecho, por qué no?	Td
+De igual manera, mis afectos, emociones, hobbies son producto de las neuronas?	Tu
+De parte de quién estás?	Td
+De quién es eso?	Td
+De quién es este niño?	Td
+De quién es la culpa?	Td
+De quién es?	Tu
+De quién estás hablando?	Td
+De qué color es su chaqueta?	Td
+De qué color es?	Tu
+De qué estás hablando?	Td
+De qué hablaron?	Td
+De qué habéis hablado?	Td
+De qué mano?	Td
+De qué me culpas?	Td
+De qué murió?	Td
+De qué planeta vienes?	Td
+De qué se murió?	Td
+De qué se trata?	Td
+De qué sirve eso?	Td
+De qué tienes la cicatriz?	Td
+De qué va?	Td
+De veras tengo que llegar?	Tu
+De veras?	Tu
+De verdad, añoras el regreso de Echeverría?	Tu
+De verdad?	Tu
+Debería hacerlo?	Tu
+Debo creerlo?	Tu
+Debo encender la luz?	Tu
+Debo ir allí?	Tu
+Dejo mis cosas en el coche?	Tu
+Del cerebro está estreñido, sufre el genio de escorbuto, sus neuronas se han vencido?	Tu
+Desde cuándo os conocéis?	Td
+Desde cuándo trabaja allí?	Td
+Desde dónde estás llamando?	Td
+Desea algo más?	Tu
+Después, viendo las finales?	Tu
+Devuelves los peces al agua?	Tu
+Dice la verdad?	Tu
+Diga?	Tu
+Digo entonces que me pasó?	Tu
+Dijo siquiera algo?	Tu
+Domina algún idioma extranjero?	Tu
+Donde esta el que clamaba por el tema?	Td
+Duermes?	Tu
+Dígame?	Tu
+Dónde bajamos?	Td
+Dónde bajo?	Td
+Dónde cambio?	Td
+Dónde cometí el error?	Td
+Dónde debo ponerlo?	Td
+Dónde estamos?	Td
+Dónde estudió usted?	Td
+Dónde estuviste la última vez?	Td
+Dónde estuvisteis?	Td
+Dónde está ahora?	Td
+Dónde está el alojamiento más cercano?	Td
+Dónde está el aparcamiento más cercano?	Td
+Dónde está el buzón más cercano?	Td
+Dónde está el cajero más cercano?	Td
+Dónde está el camping más cercano?	Td
+Dónde está el gato?	Td
+Dónde está el hipermercado más cercano?	Td
+Dónde está el hospital más cercano?	Td
+Dónde está el interruptor?	Td
+Dónde está el mejor lugar para pescar?	Td
+Dónde está el probador?	Td
+Dónde está el puerto deportivo más cercano?	Td
+Dónde está el restaurante del hotel?	Td
+Dónde está el taller de coches más cercano?	Td
+Dónde está el vagón restaurante?	Td
+Dónde está la bolsa para vomitar?	Td
+Dónde está la cabina de teléfono más cercana?	Td
+Dónde está la caja de fusibles?	Td
+Dónde está la caja?	Td
+Dónde está la comisaría más cercana?	Td
+Dónde está la consigna de equipaje?	Td
+Dónde está la estación de trenes más cercana?	Td
+Dónde está la oficina de cambio del barco?	Td
+Dónde está la parada más cercana?	Td
+Dónde está nuestra habitación?	Td
+Dónde está otro telesquí más cercano?	Td
+Dónde está?	Td
+Dónde están los papeles?	Td
+Dónde están los servicios a bordo?	Td
+Dónde están los servicios?	Td
+Dónde están nuestros asientos?	Td
+Dónde están tus hijos?	Td
+Dónde guardo el fichero?	Td
+Dónde has estado todo el día?	Td
+Dónde hay algún trapo?	Td
+Dónde hay una droguería por aquí?	Td
+Dónde he cometido el error?	Td
+Dónde la encontraste?	Td
+Dónde la viste por primera vez?	Td
+Dónde le dejo?	Td
+Dónde le duele?	Td
+Dónde lo firmo?	Td
+Dónde lo ha puesto?	Td
+Dónde lo has aprendido?	Td
+Dónde lo has escondido?	Td
+Dónde lo pongo?	Td
+Dónde me harán este examen?	Td
+Dónde me presento al embarque?	Td
+Dónde meter eso?	Td
+Dónde metí la pata?	Td
+Dónde os conocisteis?	Td
+Dónde pasaréis las vacaciones?	Td
+Dónde pasáis el verano?	Td
+Dónde pico el billete?	Td
+Dónde podemos alquilar una moto de agua?	Td
+Dónde podemos aparcar el coche?	Td
+Dónde podemos aparcar?	Td
+Dónde podemos contratar un recorrido?	Td
+Dónde podemos dejar los esquís?	Td
+Dónde podemos recoger leña para la fogata?	Td
+Dónde puedo alquilar un coche?	Td
+Dónde puedo aparcar mi coche?	Td
+Dónde puedo comprar entradas?	Td
+Dónde puedo comprar los billetes?	Td
+Dónde puedo conseguir el libro?	Td
+Dónde puedo denunciar la pérdida del equipaje?	Td
+Dónde puedo encontrar algún trapo y cubo?	Td
+Dónde puedo envolver con plástico el equipaje?	Td
+Dónde puedo hacer compras por aquí?	Td
+Dónde puedo lavarme las manos?	Td
+Dónde puedo obtener algunas informaciones sobre la ciudad?	Td
+Dónde puedo obtener el plano de la ciudad?	Td
+Dónde puedo pagarlo?	Td
+Dónde puedo pescar por aquí?	Td
+Dónde puedo reclamar la devolución del IVA?	Td
+Dónde puedo reclamar la indemnización por pérdida de equipaje?	Td
+Dónde puedo recoger mi equipaje?	Td
+Dónde quedamos?	Tu
+Dónde quieres sentarte?	Td
+Dónde se compran los billetes?	Tu
+Dónde se conocieron?	Td
+Dónde se puede comprar eso?	Td
+Dónde se puede comprar?	Td
+Dónde se puede conseguir eso?	Td
+Dónde trabaja usted?	Td
+Dónde va a pasar las vacaciones?	Td
+Dónde vais a pasar las vacaciones?	Td
+Dónde venden entradas?	Td
+Dónde vive usted?	Td
+Dónde vives?	Td
+El depósito es reembolsable?	Tu
+El desayuno está incluido en el precio?	Tu
+En Navidad estarás en casa?	Tu
+En cuánto tiempo estaremos allí?	Tu
+En mayúsculas, en mayúsculas y cursivas, en versalitas o en versalitas y cursivas?	Td
+En qué aplicación abro el fichero?	Td
+En qué año?	Td
+En qué consiste el problema?	Td
+En qué consiste exactamente el trabajo?	Td
+En qué estás metido esta vez?	Td
+En qué estás pensando?	Td
+En qué le puedo ayudar?	Td
+En qué me quedé?	Td
+En qué mes de embarazo está?	Td
+En qué otro lugar si no aquí?	Td
+En qué piensas?	Td
+En qué piso vive usted?	Td
+En qué puedo servirle?	Td
+En qué trabaja?	Td
+En qué ventanilla puedo despachar el paquete?	Td
+En serio?	Tu
+Encadenaste?	Tu
+Enciendo la luz?	Tu
+Entiende inglés?	Tu
+Entiendes el sentido de la regla?	Tu
+Entonces, alguien ha alterado, ha falseado el contenido de un documento, diciendo algo que no ha ocurrido?	Tu
+Era necesario?	Tu
+Eras una de sus asiduas oyentes además de asistir a sus shows?	Tu
+Eres ciego o qué?	Td
+Eres tonto?	Tu
+Eres tú?	Tu
+Es algo grave?	Tu
+Es así, verdad?	Tu
+Es bueno para mí?	Tu
+Es cierto?	Tu
+Es contagioso?	Tu
+Es de confianza?	Tu
+Es decir, criticaron los hechos evidenciados?	Tu
+Es el camino apto para personas mayores?	Tu
+Es el servicio de habitación?	Tu
+Es esta moto para dos personas?	Tu
+Es este el camino a la estación?	Tu
+Es este importe reembolsable?	Td
+Es este vuelo con escala?	Tu
+Es esto de alguien?	Tu
+Es grave?	Tu
+Es guapa?	Tu
+Es humanamente posible?	Tu
+Es la primera vez que está aquí?	Tu
+Es lista?	Tu
+Es mejor pensar que son malos?	Tu
+Es mejor tener una bici de montaña para esta ruta?	Tu
+Es necesario aseguramiento?	Tu
+Es necesario en mi caso este examen?	Tu
+Es para mí?	Tu
+Es para nosotros?	Tu
+Es posible alquilar una colchoneta inflable?	Tu
+Es posible llegar ahí sin un guía?	Tu
+Es posible que no lo hayan sabido?	Tu
+Es posible que se lo haya dicho ella?	Tu
+Es posible subir a la torre?	Tu
+Es posible?	Tu
+Es potable el agua?	Tu
+Es que no lo has oído?	Tu
+Es que no pueden hacerlo sin nosotros?	Tu
+Es seguro para bucear por aquí?	Tu
+Es según tu gusto?	Tu
+Es su coche?	Tu
+Es todo?	Tu
+Es tonto?	Tu
+Es tremendo, verdad?	Tu
+Es tu mujer?	Tu
+Es un sitio seguro para surfear?	Tu
+Es un vuelo directo?	Tu
+Es una broma?	Tu
+Es una planta, y por eso parece buena, beneficiosa, no es cierto?	Tu
+Es urgente?	Tu
+Es usted?	Tu
+Es verdad?	Tu
+Es válido el forfait para todas las pistas?	Tu
+Es él?	Tu
+Eso me hace ser peligrosa, necia, autoritaria, tonta?	Tu
+Esos asientos están libres?	Tu
+Esperamos o vamos a otro lugar?	Td
+Estamos todos?	Tu
+Estaría interesado?	Tu
+Este asiento está libre?	Tu
+Estoy bien. Y usted?	Tu
+Está aquí por negocios o de vacaciones?	Td
+Está aquí por primera vez?	Tu
+Está arreglado el coche ya?	Tu
+Está bien?	Tu
+Está claro?	Tu
+Está cubierto por el seguro?	Tu
+Está de acuerdo?	Tu
+Está derecho el cuadro?	Tu
+Está en casa?	Tu
+Está enojado conmigo?	Tu
+Está entendido?	Tu
+Está hirviendo ya?	Tu
+Está lejos de aquí?	Tu
+Está libre el asiento?	Tu
+Está libre esta mesa?	Tu
+Está libre mañana?	Tu
+Está libre?	Tu
+Está permitido fumar aquí?	Tu
+Está permitido?	Tu
+Está por aquí?	Tu
+Está sentado cómodamente?	Tu
+Está soltero o casado?	Td
+Está tu padre en casa?	Tu
+Está usted seguro?	Tu
+Está vivo?	Tu
+Estáis invitados?	Tu
+Estáis pensando en tener una familia?	Tu
+Están permitidas las visitas?	Tu
+Están vivos sus padres todavía?	Tu
+Estás aquí de vacaciones o de negocios?	Td
+Estás bien de salud?	Tu
+Estás bien?	Tu
+Estás con alguien ahora?	Tu
+Estás de acuerdo?	Tu
+Estás de broma, no?	Tu
+Estás dormido?	Tu
+Estás en la luna?	Tu
+Estás libre ahora?	Tu
+Estás libre mañana?	Tu
+Estás listo?	Tu
+Estás loco?	Tu
+Estás seguro?	Tu
+Exactamente adónde van a llevar el coche?	Td
+Excelente artículo, me gusta mucho tu blog, yo tengo un hurón, qué tan seguido debo bañarlo?	Td
+Excelente propuesta, la apoyo totalmente, como puedo ayudar a volverlo realidad?	Td
+Exige alguna formación profesional?	Tu
+Existe tanto dinero guardado o esperando ser utilizado?	Tu
+Fresas en Navidad, cerezas en otoño, helados en invierno, boniatos en verano?	Tu
+Fue así desde el principio?	Tu
+Fue en vuestra casa?	Tu
+Fuma usted?	Tu
+Fuma?	Tu
+Funciona realmente?	Tu
+Ha comido bastante?	Tu
+Ha cumplido su objetivo?	Tu
+Ha estado usted alguna vez aquí?	Tu
+Ha habido suerte?	Tu
+Ha pasado algo?	Tu
+Ha sido él. De verdad?	Tu
+Ha sobrado algo para mí?	Tu
+Ha tenido suficiente?	Tu
+Ha tenido un buen viaje?	Tu
+Ha tomado usted alcohol?	Tu
+Habla usted inglés?	Tu
+Hablas en serio?	Tu
+Hablas inglés?	Tu
+Habrá otros ataques?	Tu
+Habéis comido bastante?	Tu
+Habéis mirado por todas las partes?	Tu
+Habéis recibido nuestra carta?	Tu
+Hace calor?	Tu
+Hace frío, verdad?	Tu
+Hacen buena pareja?	Tu
+Hacen cambios de coronas checas?	Tu
+Han llegado ya?	Tu
+Han pedido ya?	Tu
+Han reclamado, los organizadores de aquellos foros, promeseros?	Tu
+Has aprobado los exámenes?	Tu
+Has caído de Marte?	Tu
+Has cerrado la puerta con llave?	Tu
+Has cerrado la ventana?	Tu
+Has comprado las entradas?	Tu
+Has descansado?	Tu
+Has descubierto algo?	Tu
+Has dormido bien?	Tu
+Has echado un vistazo a ese artículo?	Tu
+Has estado alguna vez en España?	Tu
+Has estado allí alguna vez?	Tu
+Has ido caminando hasta aquí?	Tu
+Has jugado alguna vez a los dardos?	Tu
+Has lavado el coche?	Tu
+Has leído esa novela?	Tu
+Has limpiado el polvo en tu cuarto?	Tu
+Has oído hablar de ellas?	Tu
+Has pasado el examen?	Tu
+Has pensado alguna vez en sentar cabeza?	Tu
+Has perdido la razón?	Tu
+Has pescado algo?	Tu
+Has recibido mi mensaje?	Tu
+Has terminado?	Tu
+Has visto a esas chicas?	Tu
+Has visto algo así?	Tu
+Has visto esa película ya?	Tu
+Hasta allí?	Tu
+Hasta cuándo me van a detener aquí?	Td
+Hasta cuándo te quedas?	Td
+Hasta qué hora trabajas?	Td
+Hasta qué profundidad puedo sumergirme?	Td
+Hasta qué punto?	Td
+Hay Internet público en la biblioteca?	Tu
+Hay aire acondicionado aquí?	Tu
+Hay algo entre ellos?	Tu
+Hay algo entre vosotros?	Tu
+Hay algo mal?	Tu
+Hay algo más que puedo hacer por usted?	Tu
+Hay alguien por aquí que me ayude a repararlo?	Tu
+Hay alguien por aquí?	Tu
+Hay alguna posibilidad de refrigerio en el barco?	Tu
+Hay algunas sillas libres por aquí?	Tu
+Hay algunas subidas difíciles?	Tu
+Hay algunos arrecifes submarinos interesantes por aquí?	Tu
+Hay algún aeropuerto más cerca de aquí?	Tu
+Hay algún cibercafé por aquí?	Tu
+Hay algún problema?	Tu
+Hay algún sitio de marcha por aquí?	Tu
+Hay algún tendedero de ropa por aquí?	Tu
+Hay algún voluntario?	Tu
+Hay aseos públicos por aquí?	Tu
+Hay bastante nieve ahí?	Tu
+Hay billetes para hoy?	Tu
+Hay coche-cama en el tren?	Tu
+Hay descuento también para esto?	Tu
+Hay descuentos para grupos?	Tu
+Hay muchas cuestas empinadas en el camino?	Tu
+Hay más preguntas?	Tu
+Hay otra manera cómo puedo averiguarlo?	Tu
+Hay otro camino?	Tu
+Hay otro seguro incluido en el precio?	Tu
+Hay que pagar ahora o a la salida?	Td
+Hay que pagar por aparcar aquí?	Tu
+Hay que pagar también por el remolque?	Tu
+Hay que pagar una fianza?	Tu
+Hay riesgo de que encontremos algunos animales peligrosos?	Tu
+Hay servicios por allí?	Tu
+Hay también pistas para principiantes?	Tu
+Hay un alojamiento privado por aquí?	Tu
+Hay un alquiler de esquís por aquí?	Tu
+Hay un gran almacén por aquí?	Tu
+Hay un hospital por aquí cerca?	Tu
+Hay un lugar por aquí con vistas a la ciudad?	Tu
+Hay un mirador por aquí?	Tu
+Hay un pago extra por mascotas?	Tu
+Hay un parque acuático por aquí?	Tu
+Hay un parque por aquí cerca?	Tu
+Hay un peligro de avalanchas por aquí?	Tu
+Hay un terreno difícil?	Tu
+Hay una cabina telefónica por aquí?	Tu
+Hay una cancha por aquí?	Tu
+Hay una ducha en nuestra habitación?	Tu
+Hay una escuela de buceo por aquí?	Tu
+Hay una gasolinera por aquí cerca?	Tu
+Hay una impresora aquí?	Tu
+Hay una máquina de billetes por aquí?	Tu
+Hay una parada de metro por aquí?	Tu
+Hay una piscina por aquí?	Tu
+Hay una playa nudista por aquí?	Tu
+Hay una zona para no fumadores?	Tu
+Hay vida en otros planetas?	Tu
+He dicho algo inconveniente?	Tu
+He escuchado miles de versiones como coincidencias, otros factores, milagros, disciplina?	Tu
+Hemos omitido a alguien?	Tu
+Hola Rubén, te felicito por el blog aunque no escribo mucho si lo frecuento, sabes?	Tu
+Hola. Puedo sentarme aquí?	Tu
+Hola; es muy raro volver a ver una vieja peli y preguntarme, cómo pudo gustarme tanto?	Td
+Hola?	Tu
+Ideas?	Tu
+Infeliz, si filman a tu madre o hermana?	Tu
+Insiste en eso?	Tu
+Intentas ligar conmigo?	Tu
+Intentas sacarme de quicio?	Tu
+Jugaremos dobles?	Tu
+La admitieron en la uni?	Tu
+La bebida está incluida en el precio?	Tu
+La cancha es de tierra batida o de hormigón?	Td
+La cita sigue en pie?	Tu
+La gasolina está incluida en el precio?	Tu
+La responsabilidad civil está incluida en el precio?	Tu
+La tarjeta de memoria está incluida?	Tu
+Las pilas están incluidas?	Tu
+Le atienden?	Tu
+Le duele algo?	Tu
+Le falta algo?	Tu
+Le gustó que, como personaje público, la línea entre su vida privada y su vida pública desapareciese?	Tu
+Le ha gustado?	Tu
+Le han robado alguna vez?	Tu
+Le has dicho a él sobre eso?	Tu
+Le has preguntado por el trabajo?	Tu
+Le he despertado?	Tu
+Le importa si abro la ventana?	Tu
+Le importa si fumo aquí?	Tu
+Le importa si fumo?	Tu
+Le importa si me siento aquí?	Tu
+Le importaría pasarme la sal?	Tu
+Le interesa?	Tu
+Le traigo una silla?	Tu
+Le va bien?	Tu
+Listo, eh?	Tu
+Llegaremos a tiempo?	Tu
+Llegará nuestro tren a tiempo?	Tu
+Llego tarde?	Tu
+Lleva usted gafas?	Tu
+Lo abro?	Tu
+Lo aceptaremos?	Tu
+Lo aceptarías?	Tu
+Lo comprendes?	Tu
+Lo comprendiste?	Tu
+Lo conoce por aquí?	Tu
+Lo considera necesario?	Tu
+Lo consideras tu amigo?	Tu
+Lo dejamos para otro día?	Tu
+Lo dice quién?	Td
+Lo entiendes?	Tu
+Lo ha comprendido?	Tu
+Lo ha confirmado por escrito?	Tu
+Lo ha encontrado sin problemas?	Tu
+Lo ha traído?	Tu
+Lo hago?	Tu
+Lo harás para mí?	Tu
+Lo has anunciado?	Tu
+Lo has hecho?	Tu
+Lo has probado alguna vez?	Tu
+Lo has revisado todo?	Tu
+Lo hueles?	Tu
+Lo llamo?	Tu
+Lo llevo conmigo?	Tu
+Lo prometes?	Tu
+Lo reconocerás?	Tu
+Lo sabes o solo piensas?	Td
+Lo sabes seguro?	Tu
+Lo tiene en otro color?	Tu
+Lo tienes?	Tu
+Lo ves también?	Tu
+Los ciudadanos, al llegar al poder, caerán en su fascinación y corrupción?	Tu
+Los servicios del guía están incluidos en el precio?	Tu
+Mañana a las tres le conviene?	Tu
+Me ayuda a abrir la puerta?	Tu
+Me ayuda a bajar el respaldo?	Tu
+Me ayuda a empujar el coche a un lado?	Tu
+Me ayuda a empujar el coche?	Tu
+Me ayuda a salir del agua?	Tu
+Me ayuda a subir la maleta?	Tu
+Me ayudarás a hacerlo?	Tu
+Me ayudas, por favor?	Tu
+Me cobra, por favor?	Tu
+Me cobra?	Tu
+Me comprarías algo para merendar?	Tu
+Me concede este baile?	Tu
+Me concede un baile?	Tu
+Me cree?	Tu
+Me da una bolsa?	Tu
+Me das tu número de teléfono?	Tu
+Me dejaría su cera, por favor?	Tu
+Me dejas algo de dinero?	Tu
+Me echas una mano con eso?	Tu
+Me enseña los fundamentos de surf?	Tu
+Me entiende?	Tu
+Me escuchas?	Tu
+Me está esperando?	Tu
+Me estás tomando el pelo?	Tu
+Me explico?	Tu
+Me ha entendido usted?	Tu
+Me harás compañía?	Tu
+Me harás un favor?	Tu
+Me haría Ud. un favor?	Tu
+Me he omitido algo?	Tu
+Me he perdido algo?	Tu
+Me llamarás algún día?	Tu
+Me lleva allí?	Tu
+Me lleva?	Tu
+Me llevará a la estación?	Tu
+Me llevará?	Tu
+Me llevaría allí?	Tu
+Me llevas allí?	Tu
+Me lleváis?	Tu
+Me lo dio. De verdad?	Tu
+Me lo perdonas?	Tu
+Me lo pone sin hielo?	Tu
+Me lo puede devolver?	Tu
+Me lo puede envolver?	Tu
+Me lo puede escribir?	Tu
+Me oyen?	Tu
+Me podría asegurar?	Tu
+Me podría ayudar?	Tu
+Me presenta?	Tu
+Me presta un bolígrafo, por favor?	Tu
+Me puede ajustar los frenos?	Tu
+Me puede averiguar dónde están, por favor?	Tu
+Me puede ayudar a poner el neopreno?	Tu
+Me puede ayudar a subir el equipaje?	Tu
+Me puede cambiar el billete de cincuenta euros?	Tu
+Me puede cambiar el billete de veinte euros?	Tu
+Me puede dar algo contra el dolor?	Tu
+Me puede dar algo contra las náuseas?	Tu
+Me puede dar otro impreso?	Tu
+Me puede dar un recibo?	Tu
+Me puede dar una factura detallada?	Tu
+Me puede dar una manta?	Tu
+Me puede dar una más?	Tu
+Me puede decir cuándo bajar?	Td
+Me puede dejar unos euros?	Tu
+Me puede enseñar su reserva de asiento?	Tu
+Me puede hacer un favor?	Tu
+Me puede llamar un taxi?	Tu
+Me puede llevar a la ciudad?	Tu
+Me puede llevar a la gasolinera más cercana?	Tu
+Me puede llevar a una comisaría?	Tu
+Me puede llevar a una gasolinera?	Tu
+Me puede pasar la llamada?	Tu
+Me puede prestar su bolígrafo?	Tu
+Me puede recargar la batería?	Tu
+Me puede recoger aquí en una hora?	Tu
+Me puede tapar el pinchazo?	Tu
+Me puede traer otro café?	Tu
+Me puedes dar una pista?	Tu
+Me puedes decir, y por favor ponlo aquí, en donde yo celebré?	Tu
+Me queda bien eso?	Tu
+Me recoge?	Tu
+Me reconoce?	Tu
+Me repara el pinchazo?	Tu
+Me sustituirás?	Tu
+Me tomas el pelo?	Tu
+Me traes un vaso, por favor?	Tu
+Me vigilas el bolso?	Tu
+Menos mal que Nirvana se volvió masivo y llegó mi época mod, qué hubiera sido de mi?	Td
+Mi pregunta es, reconocería la letra, quién rellenó ese documento, lo recuerda?	Tu
+Muerde el perro?	Tu
+Más vino?	Tu
+Necesitabas algo más?	Tu
+Necesitas algo más?	Tu
+Necesito permiso de trabajo?	Tu
+Necesito un permiso para pescar?	Tu
+Necesito un permiso?	Tu
+Necesito una receta?	Tu
+Necesitáis recoger en el aeropuerto?	Tu
+No distingues A de B?	Tu
+No echas en falta esto?	Tu
+No entiendes la broma?	Tu
+No era mas inteligente, detenerlos, interrogarlos, enjuiciarlos y en todo caso hasta negociar información importante?	Tu
+No es así?	Tu
+No es demasiado caro?	Tu
+No es demasiado fuerte?	Tu
+No es demasiado picante?	Tu
+No es demasiado?	Tu
+No es muy pesado para ti?	Tu
+No es tuyo?	Tu
+No estuviste ahí, verdad?	Tu
+No fue él, verdad?	Tu
+No has ido allí, eh?	Tu
+No lleva los cables de arranque?	Tu
+No lleva por casualidad un bidón de gasolina?	Tu
+No lo recuerdo, pero podría ser real, no haber sido alterado, falseado?	Tu
+No lo sabes?	Tu
+No me lo prestarías, verdad?	Tu
+No molesto?	Tu
+No puede ponerme alguna inyección?	Tu
+No se lo dirás, verdad?	Tu
+No se podría arreglar de alguna manera?	Tu
+No se te puede gastar una broma?	Tu
+No sería mejor esperar?	Tu
+No te da pena gastar tanto dinero?	Tu
+No te da vergüenza?	Tu
+No te gusta la camisa negra?	Tu
+No te lo he dicho?	Tu
+No te lo tomes a mal, pero por qué lo haces?	Td
+No te pesa mucho?	Tu
+No te quedarás mucho, verdad?	Tu
+No te recuerda algo?	Tu
+No te suena?	Tu
+No tiene calor?	Tu
+No tiene frío?	Tu
+No tiene otro?	Tu
+No tienes hilo dental?	Tu
+No tienes nada que hacer?	Tu
+Nos acompaña?	Tu
+Nos acompañas?	Tu
+Nos cambiamos los asientos?	Tu
+Nos concederá una entrevista?	Tu
+Nos conocemos?	Tu
+Nos estás tomando el pelo?	Tu
+Nos hemos saltado a alguien?	Tu
+Nos llevarás allí?	Tu
+Nos llevaría a un bar bueno?	Tu
+Nos muestra nuestra habitación?	Tu
+Nos puede conseguir entradas para la tarde de mañana?	Tu
+Nos puede dar toallas limpias?	Tu
+Nos puede dar unas mantas extra?	Tu
+Nos puede despertar a las siete?	Tu
+Nos puede llevar la cena a la habitación?	Tu
+Nos puede mostrar nuestro camarote?	Tu
+Nos sacaría una foto?	Tu
+Nos sentamos en la barra?	Tu
+O fueron y pidieron hipócritamente el voto a los ciudadanos, que ofrecieron?	Td
+O no es así?	Tu
+O no?	Tu
+O que?	Td
+O sea, no entendÍ, no recibió nada al final la moza?	Tu
+Obtendrán las empresas las subvenciones?	Tu
+Ofrecen algunas excursiones a las islas vecinas?	Tu
+Ofrecen un comentario durante el crucero?	Tu
+Oh que piensas?	Td
+Organizan excursiones en bici?	Tu
+Organizan excursiones?	Tu
+Os conocéis?	Tu
+Os hace ilusión?	Tu
+Os quedáis un ratito sin mí?	Tu
+Os queréis las unas a las otras?	Tu
+Os unís a nosotros?	Tu
+Oye Gabriel y sueñas con lo que quieres ser de grande!?	Tu
+Oye, qué estás haciendo?	Td
+Paga usted en efectivo o con tarjeta?	Td
+Pagan cargas a su domestica?	Tu
+Pagan cheques de viaje?	Tu
+Pago ahora o a la salida?	Td
+Para cuándo compro las entradas?	Td
+Para cuándo quedamos?	Td
+Para cuándo tiene que estar hecho?	Td
+Para cuánto tiempo?	Td
+Para! Quién es?	Td
+Pasa algo?	Tu
+Pasas la noche aquí?	Tu
+Peliculas que me sensibilizaron?	Tu
+Perdonar a los que por su Ineptitud, Necedad, Ignorancia, mataron a tu Hijo?	Tu
+Perdone, puede decirme otra vez cómo se llama?	Tu
+Perdone?	Tu
+Perdón?	Tu
+Pero cómo es posible?	Td
+Pero de qué estás hablando?	Td
+Pero de qué planeta has caído?	Td
+Pero dónde has estado?	Td
+Pero estás loco?	Tu
+Pero lo has comprado, verdad?	Tu
+Pero quién es la mujer perfecta?	Td
+Pero tú, dónde vives?	Td
+Piensas que lo hago solo para divertirme?	Tu
+Podemos acampar aquí?	Tu
+Podemos alquilar una moto de nieve?	Tu
+Podemos alquilar una nevera aquí?	Tu
+Podemos aplazarlo para el lunes?	Tu
+Podemos coger esa silla?	Tu
+Podemos contar contigo?	Tu
+Podemos dar una vuelta para ver si está bien?	Tu
+Podemos dejar nuestras cosas en la tienda?	Tu
+Podemos descansar un poco?	Tu
+Podemos desviarnos del camino señalado?	Tu
+Podemos encender fuego aquí?	Tu
+Podemos entrar con la caravana?	Tu
+Podemos entrar?	Tu
+Podemos intentar subir la colina?	Tu
+Podemos ir en coche hasta allí?	Tu
+Podemos lavar la ropa aquí?	Tu
+Podemos meter la comida en la nevera?	Tu
+Podemos montar la tienda de campaña aquí?	Tu
+Podemos parar un rato?	Tu
+Podemos pasar la noche aquí?	Tu
+Podemos posponerlo?	Tu
+Podemos quedar mañana a las cinco de la tarde?	Tu
+Podemos quedarnos aquí solo una noche?	Tu
+Podemos recoger algunas conchas por aquí?	Tu
+Podemos sentarnos aquí con ustedes?	Tu
+Podemos sentarnos aquí?	Tu
+Podemos sentarnos en la terraza?	Tu
+Podemos subir a la cubierta alta?	Tu
+Podemos usar la cocina?	Tu
+Podemos utilizar la puerta trasera?	Tu
+Podemos ver la casa?	Tu
+Podemos visitar el museo municipal?	Tu
+Podría corregirme si me equivoco?	Tu
+Podría dedicarnos un rato de su agenda?	Tu
+Podría echarle un vistazo?	Tu
+Podría explicármelo?	Tu
+Podría guardar mi bicicleta en el sótano?	Tu
+Podría hacer una vuelta por la ciudad?	Tu
+Podría hacerme un favor?	Tu
+Podría llevarme allí?	Tu
+Podría mostrarme el camino?	Tu
+Podría quedármelo?	Tu
+Podría solicitar un permiso no remunerado?	Tu
+Podría traernos un cubierto más?	Tu
+Podría usted arreglarlo?	Tu
+Podría usted ayudarme?	Tu
+Podríamos cambiar los asientos?	Tu
+Podríamos encontrarnos?	Tu
+Podríamos hacer una vuelta y ver algunos monumentos locales?	Tu
+Podríamos vernos una hora más tarde?	Tu
+Podrías bajar el volumen un poco?	Tu
+Podrías enseñármelo?	Tu
+Podrías recomendarnos algo aparte de las cremas?	Tu
+Pongo el CD?	Tu
+Por ahi sí que circule todo, funcione todo, chongos incluidos, no?	Tu
+Por cierto existe alguna letra que los identifique o que retrate a la perfección alguna anécdota suya?	Tu
+Por cierto, en el siguiente avituallamiento, había agua?	Tu
+Por cierto, es difícil ser hetero?	Tu
+Por cuánto tiempo puede usted contener la respiración?	Td
+Por dónde iremos?	Td
+Por dónde pasa el río?	Td
+Por ello hay que extinguirlo?	Tu
+Por favor, me ayuda?	Tu
+Por favor, me puede quitar las esposas?	Tu
+Por favor, puede ponerse en contacto con la Embajada de la República Checa y decirles qué ha pasado?	Tu
+Por favor, puede usted repetirlo?	Tu
+Por quién te tomas?	Td
+Por qué Estoy detenido?	Td
+Por qué debería hacerlo?	Td
+Por qué dejaste tu último empleo, por qué te despidieron, cómo calificas a tu jefe anterior?	Td
+Por qué estás llorando?	Td
+Por qué honrarlo a él, por qué no distinguir a Mejía, el incondicional?	Td
+Por qué la elección, de qué hablarían, qué preguntarían?	Td
+Por qué lloras?	Td
+Por qué lo hiciste?	Td
+Por qué me preguntas?	Td
+Por qué no confían en nosotros?	Td
+Por qué no hay agua caliente?	Td
+Por qué no lo pruebas tú?	Td
+Por qué no pasas por mi casa mañana?	Td
+Por qué no pudo decírmelo sin rodeos?	Td
+Por qué no te callas?	Td
+Por qué no te han invitado?	Td
+Por qué no te tomas algo, por Dios?	Td
+Por qué no vamos a tomar una copa?	Td
+Por qué no?	Td
+Por qué nos miente?	Td
+Por qué pierdes el tiempo leyéndolo?	Td
+Por qué rechazaron mi reclamación?	Td
+Por qué se lo ha dicho justo ahora?	Td
+Por qué se lo has quitado?	Td
+Por qué yo?	Td
+Por qué?	Tu
+Porque, quien no recuerda haber sufrido un episodio o un lapsus olvidadizo?	Td
+Prefieres más pequeño o más grande?	Td
+Pregunta al Margen, y el espurio a que se dedica ahora?	Td
+Preparado?	Tu
+Pronunciarás un discurso?	Tu
+Propuestas?	Tu
+Pruebas?	Tu
+Puede abrir el maletero?	Tu
+Puede ajustármela?	Tu
+Puede alojarme para dos noches?	Tu
+Puede ayudarme, por favor?	Tu
+Puede cambiarme dinero?	Tu
+Puede cambiármelo, por favor?	Tu
+Puede cambiármelo?	Tu
+Puede comentarlo?	Tu
+Puede conseguirnos las entradas?	Tu
+Puede darme monedas para el teléfono?	Tu
+Puede darme su número de teléfono?	Tu
+Puede darnos la llave?	Tu
+Puede darnos una trona?	Tu
+Puede dejarme la guía telefónica?	Tu
+Puede describírmelo con más detalle?	Tu
+Puede dármelo en billetes pequeños?	Tu
+Puede encargarse de que lo recibamos?	Tu
+Puede enseñarme cómo funciona?	Tu
+Puede enseñarnos la ciudad?	Tu
+Puede enviarlo de nuevo, por favor?	Tu
+Puede enviármelo por correo electrónico?	Tu
+Puede envolvérmelo?	Tu
+Puede especificarlo?	Tu
+Puede explicármelo?	Tu
+Puede hablar alto y claro?	Tu
+Puede hablar más alto?	Tu
+Puede informar a mis familiares, por favor?	Tu
+Puede ir más rápido?	Tu
+Puede lanzarse al agua?	Tu
+Puede llamar a alguien para que me remolque?	Tu
+Puede marcarme el número?	Tu
+Puede marcarme este número?	Tu
+Puede mostrarme en el mapa dónde estamos?	Tu
+Puede mostrármelo en el mapa?	Tu
+Puede parar el coche, por favor?	Tu
+Puede pasármelo?	Tu
+Puede pesarme esto?	Tu
+Puede ponerse?	Tu
+Puede presentarnos?	Tu
+Puede reenviarle mi e-mail, por favor?	Tu
+Puede repetirlo?	Tu
+Puede sacarme una foto con el pez?	Tu
+Puede subirse el respaldo, por favor?	Tu
+Puede usted abrir el equipaje, por favor?	Tu
+Puede usted avisarme cuando lleguemos?	Tu
+Puede usted ayudarme, por favor?	Tu
+Puede usted comprobarlo para mí?	Tu
+Puede usted despertarme a las siete, por favor?	Tu
+Puede usted enseñarme mi asiento?	Tu
+Puede usted esperar un momento?	Tu
+Puede venir otro día?	Tu
+Puede verificármelo?	Tu
+Puedes abrir la ventana?	Tu
+Puedes bajarlo del estante?	Tu
+Puedes cambiarla?	Tu
+Puedes con eso?	Tu
+Puedes darme más detalles de eso?	Tu
+Puedes darme un poco de agua?	Tu
+Puedes detenerlo un momento?	Tu
+Puedes entenderme?	Tu
+Puedes hablar más alto?	Tu
+Puedes hacer algo para mí?	Tu
+Puedes hacerlo solo?	Tu
+Puedes imaginarlo?	Tu
+Puedes imaginártelo?	Tu
+Puedes imprimírmelo?	Tu
+Puedes interceder por mí?	Tu
+Puedes llevarlo?	Tu
+Puedes mover la mano?	Tu
+Puedes moverte un poco?	Tu
+Puedes pagarlo por mí?	Tu
+Puedes pasar sin este manual?	Tu
+Puedes perdonarme?	Tu
+Puedes poner la mesa?	Tu
+Puedes ponerme el protector solar en la espalda?	Tu
+Puedes repararlo?	Tu
+Puedes ser más concreto?	Tu
+Puedo abrir la ventana?	Tu
+Puedo abrir la ventanilla?	Tu
+Puedo acompañarle?	Tu
+Puedo alquilar aquí un barco por un día?	Tu
+Puedo alquilar otro coche por aquí?	Tu
+Puedo alquilar también un remolque?	Tu
+Puedo alquilar una bicicleta aquí?	Tu
+Puedo bajar la calefacción?	Tu
+Puedo besarte?	Tu
+Puedo borrarlo?	Tu
+Puedo comprar el billete al conductor?	Tu
+Puedo comprar el billete en el tren?	Tu
+Puedo comprar una licencia de pesca?	Tu
+Puedo crear acceso directo al escritorio?	Tu
+Puedo dejar aquí mis artículos de higiene?	Tu
+Puedo dejar el coche aquí?	Tu
+Puedo dejar el coche en otra sucursal?	Tu
+Puedo dejar el equipaje aquí?	Tu
+Puedo dejar el perro suelto por aquí?	Tu
+Puedo dejarle un recado?	Tu
+Puedo dejaros un momento solos?	Tu
+Puedo ducharme?	Tu
+Puedo embarcar ya?	Tu
+Puedo encender la tele?	Tu
+Puedo encordar mi raqueta aquí?	Tu
+Puedo fumar aquí?	Tu
+Puedo hablar con su jefe?	Tu
+Puedo hablar con usted un momento?	Tu
+Puedo hablar con usted un rato?	Tu
+Puedo hablar con usted?	Tu
+Puedo hablar con él?	Tu
+Puedo hacer dedo aquí?	Tu
+Puedo hacer esquí acuático por aquí?	Tu
+Puedo hacer transbordos con este billete?	Tu
+Puedo interrumpirle un momento?	Tu
+Puedo invitarte a una copa?	Tu
+Puedo ir adelantando y esperarle en la cumbre?	Tu
+Puedo ir al gimnasio del hotel?	Tu
+Puedo ir con vosotros?	Tu
+Puedo ir?	Tu
+Puedo irme para un momento?	Tu
+Puedo irme ya?	Tu
+Puedo irme?	Tu
+Puedo jugar con usted?	Tu
+Puedo llamar desde aquí?	Tu
+Puedo llevar mi niño de un año al chapoteadero?	Tu
+Puedo llevarlo a bordo?	Tu
+Puedo obtener otro?	Tu
+Puedo ofrecerle un té o un café?	Tu
+Puedo pagar con efectivo?	Tu
+Puedo pagar con tarjeta?	Tu
+Puedo pedir prestado el marcador de líneas?	Tu
+Puedo pedir prestado su inflador?	Tu
+Puedo pedir su atención?	Tu
+Puedo pedirle un favor?	Tu
+Puedo pedirle una cosa?	Tu
+Puedo pedirlo prestado?	Tu
+Puedo preguntarle algo?	Tu
+Puedo probarme los pantalones?	Tu
+Puedo probármelo?	Tu
+Puedo quedarme con la pesca?	Tu
+Puedo quitarme el abrigo?	Tu
+Puedo quitarme la chaqueta?	Tu
+Puedo repetir?	Tu
+Puedo salir del país con el coche?	Tu
+Puedo sentarme delante?	Tu
+Puedo servirle más?	Tu
+Puedo servirle un refresco?	Tu
+Puedo servirme?	Tu
+Puedo sugerir algo?	Tu
+Puedo tener un asiento de ventanilla?	Tu
+Puedo tomar el sol en topless?	Tu
+Puedo tomar más de uno a la vez?	Tu
+Puedo tomar uno?	Tu
+Puedo usar esta toalla?	Tu
+Puedo utilizar el billete para el próximo vuelo?	Tu
+Puedo utilizar su teléfono?	Tu
+Puedo ver el perfume?	Tu
+Puedo ver su carné de conducir?	Tu
+Puedo ver su pasaporte?	Tu
+Pues, a partir de mañana en una semana?	Tu
+QUe le falta una desembocadura?	Tu
+Que feliz, que feliz si tuviera yo un desliz?	Tu
+Que hay mucha información, nombres, cargos y trama enrevesada?	Tu
+Que opinion me dan ustedes, creen que es promiscua, muy loca, zorra o que?	Td
+Que quieren, que desean?	Td
+Que tal el linchamiento publico?	Td
+Quedó algo para mí?	Tu
+Queréis añadir algo más?	Tu
+Queréis que lo haga?	Tu
+Quiere dejarle un mensaje?	Tu
+Quiere dejarle un recado?	Tu
+Quiere encender la chimenea?	Tu
+Quiere más?	Tu
+Quiere que le llame?	Tu
+Quiere que le lleve?	Tu
+Quiere usted tomar algo de beber?	Tu
+Quiere ver la tele?	Tu
+Quiere verlo?	Tu
+Quieres algo de comer?	Tu
+Quieres apostar?	Tu
+Quieres añadir algo?	Tu
+Quieres comer algo?	Tu
+Quieres dar un paseo a caballo?	Tu
+Quieres ir al tobogán?	Tu
+Quieres ir primero?	Tu
+Quieres que te lleve a alguna parte?	Tu
+Quieres que te lleve a la ciudad?	Tu
+Quieres una cerveza?	Tu
+Quieres venir a cenar?	Tu
+Quieres venir también?	Tu
+Quieres vértelas conmigo?	Tu
+Quisiera preguntarte, qué te llevó a iniciar Seña y Verbo?	Td
+Quisieras pasar por mi casa?	Tu
+Quién causó eso?	Td
+Quién compuso la ópera?	Td
+Quién conseguirá los billetes?	Td
+Quién da más?	Td
+Quién es el director?	Td
+Quién es el más fuerte?	Td
+Quién es el protagonista?	Td
+Quién es el valiente que postule la prohibición?	Td
+Quién es esa gente?	Td
+Quién es esa señora?	Td
+Quién es ese tipo?	Td
+Quién es ese?	Td
+Quién es responsable de eso?	Td
+Quién es usted?	Tu
+Quién es?	Td
+Quién está a cargo de esto?	Td
+Quién está de guardia?	Td
+Quién falló?	Td
+Quién falta?	Td
+Quién ha dejado encendida la luz?	Td
+Quién ha sido?	Td
+Quién ha traído las flores?	Td
+Quién juega con quién?	Td
+Quién lo ha hecho?	Td
+Quién lo habría dicho?	Td
+Quién lo permitió?	Td
+Quién manda aquí?	Td
+Quién me ayudará?	Td
+Quién más?	Tu
+Quién nos podría ayudar?	Td
+Quién os cuida a los niños?	Td
+Quién otro?	Td
+Quién pagará el resto?	Td
+Quién piensas que soy?	Td
+Quién podría haber hecho esto?	Td
+Quién podía preverlo?	Td
+Quién quiere responder?	Td
+Quién sabe qué nos traerá el año próximo?	Td
+Quién saca provecho de esto?	Td
+Quién salta más alto?	Td
+Quién se benefició de eso?	Td
+Quién se dedica a los quehaceres domésticos en vuestra casa?	Td
+Quién se encargará de las entradas?	Td
+Quién se lo contó?	Td
+Quién se lo ha dicho?	Td
+Quién se va a beneficiar de eso?	Td
+Quién será el futuro presidente?	Td
+Quién sigue en la lista?	Td
+Quién sufrirá las consecuencias del calentamiento global?	Td
+Quién te crees que eres?	Td
+Quién te enseñó a conducir?	Td
+Quién te ha dado el permiso?	Td
+Quién te ha dicho esto?	Td
+Quién te hizo hacerlo?	Td
+Quién te lo ha dado?	Td
+Quién te lo ha dicho?	Td
+Quién te lo ha enseñado?	Td
+Quién te lo ha metido en la cabeza?	Td
+Quién te lo ha recomendado?	Td
+Quién te lo mandó?	Td
+Quién tiene la culpa?	Td
+Quién va a casarse?	Td
+Quién va a ser el nuevo presidente?	Td
+Quién va a sustituirle?	Td
+Qué aficiones tiene?	Td
+Qué apuestas?	Td
+Qué arquitecto construyó eso?	Td
+Qué bebes?	Td
+Qué cadena quieres escuchar?	Tu
+Qué camino es el más rápido?	Td
+Qué cerveza tienen?	Td
+Qué color quiere?	Td
+Qué color quieres?	Td
+Qué color tiene?	Td
+Qué comen los gatos?	Td
+Qué conseguirás con eso?	Td
+Qué contestó?	Td
+Qué costo tienen aquellos exámenes?	Td
+Qué cubre este seguro?	Td
+Qué debemos ver sin duda alguna?	Td
+Qué deberes tuvimos?	Td
+Qué debería hacer?	Td
+Qué debo hacer en caso de tener problemas?	Td
+Qué desea usted?	Td
+Qué deseas?	Td
+Qué dice la ley?	Td
+Qué dices?	Td
+Qué dirá la gente?	Td
+Qué documentos necesito?	Td
+Qué edad tiene?	Td
+Qué edad tienes?	Td
+Qué efecto tendrá en los niños?	Td
+Qué es de lo que hablaron?	Td
+Qué es ese olor?	Td
+Qué es eso?	Td
+Qué es esto?	Td
+Qué es lo que has hecho?	Td
+Qué es lo que más te gusta?	Td
+Qué es lo que sientes por ella?	Td
+Qué es lo que te sorprende?	Td
+Qué es?	Td
+Qué esperas de eso?	Td
+Qué esperas de tu vida?	Td
+Qué está buscando?	Td
+Qué está haciendo aquí?	Td
+Qué está incluido en el precio?	Td
+Qué está insinuando?	Td
+Qué está pasando aquí?	Td
+Qué están haciendo allí?	Td
+Qué estás cocinando?	Td
+Qué estás comiendo?	Tu
+Qué estás escribiendo?	Td
+Qué estás haciendo con eso?	Td
+Qué estás intentando?	Td
+Qué estás mirando?	Td
+Qué estás tramando?	Td
+Qué exámenes necesitaré?	Td
+Qué factores determinan el carácter humano?	Td
+Qué fecha es hoy?	Td
+Qué grado de dificultad es?	Td
+Qué grado de parentesco hay entre ustedes?	Td
+Qué grupo es tu favorito?	Td
+Qué ha dicho usted?	Td
+Qué ha dicho?	Td
+Qué ha pasado?	Td
+Qué hacemos ahora?	Td
+Qué hacemos con las sobras?	Td
+Qué haces aquí?	Td
+Qué haces esta noche?	Td
+Qué haces mañana por la tarde?	Td
+Qué hago?	Td
+Qué harás con el dinero?	Td
+Qué has dicho?	Tu
+Qué has ganado con eso?	Td
+Qué has hecho?	Td
+Qué hay de malo en ello?	Td
+Qué hay de malo en eso?	Td
+Qué hay de nuevo?	Td
+Qué hay para comer?	Td
+Qué he hecho mal?	Td
+Qué hilo debo usar para salmones?	Td
+Qué hora es?	Td
+Qué idioma desean?	Td
+Qué idiomas conoces, además del alemán?	Td
+Qué importa?	Td
+Qué incluye la excursión?	Td
+Qué le ha parecido?	Td
+Qué le ha pasado a la tele?	Td
+Qué le hizo hacerlo?	Td
+Qué le impulsó a cambiar el nombre?	Td
+Qué le interesa?	Td
+Qué le parece?	Td
+Qué le pasa?	Td
+Qué le puedo ofrecer?	Td
+Qué les lleva tanto tiempo?	Td
+Qué llevaba puesto?	Td
+Qué llevamos?	Tu
+Qué material es?	Td
+Qué me aconsejaría usted?	Td
+Qué me recomienda?	Td
+Qué monumentos locales nos recomiendan ver?	Td
+Qué mosca le ha picado?	Td
+Qué mosca te ha picado?	Td
+Qué motivo ha tenido para hacer eso?	Td
+Qué más da?	Td
+Qué más se puede pedir?	Td
+Qué navegador de Internet debo utilizar?	Td
+Qué necesita usted?	Td
+Qué nos recomienda?	Td
+Qué número calzas?	Td
+Qué número tiene el servicio de grúa?	Td
+Qué números salieron?	Td
+Qué opinas de eso?	Td
+Qué ordenador puedo utilizar?	Td
+Qué os hizo pensar eso?	Td
+Qué otra cosa esperabas?	Td
+Qué otra cosa puedo hacer?	Td
+Qué pasa HIRSUTO eres activo, pasivo o moderno?	Td
+Qué pasa aquí?	Td
+Qué pasa con él?	Td
+Qué pasa?	Td
+Qué pasaría si se lo dijera?	Td
+Qué pasó?	Td
+Qué piensas hacer?	Td
+Qué piensas tú?	Td
+Qué pista recomienda para los avanzados?	Td
+Qué planes tienes para el futuro?	Td
+Qué planes tienes para esta noche?	Td
+Qué ponen en el cine?	Td
+Qué ponen en la tele esta noche?	Td
+Qué ponen?	Tu
+Qué pongo aquí?	Td
+Qué posición han adoptado?	Td
+Qué precio tiene la fama?	Td
+Qué pretendes con eso?	Td
+Qué pretendes conseguir con eso?	Td
+Qué problema hay en eso?	Td
+Qué profundidad tiene esta piscina?	Td
+Qué pruebas tiene contra mí?	Td
+Qué puedo hacer para usted?	Td
+Qué puedo ofrecerle?	Td
+Qué puesto ocupó?	Td
+Qué queda en el coche?	Td
+Qué queréis decir con eso?	Td
+Qué querías conseguir con eso?	Td
+Qué quiere conseguir?	Td
+Qué quiere decir con eso?	Td
+Qué quiere para beber?	Td
+Qué quieres a cambio de eso?	Td
+Qué quieres de mí?	Td
+Qué quieres decir con eso?	Td
+Qué quieres decir?	Td
+Qué quieres?	Td
+Qué raro hay en eso?	Td
+Qué resolución tiene?	Td
+Qué sabor tiene?	Td
+Qué seguirá?	Td
+Qué sello necesito para la República Checa?	Td
+Qué sentido tiene?	Td
+Qué sentimientos guardáis entre vosotros?	Td
+Qué será lo siguiente?	Td
+Qué será?	Td
+Qué significa esto?	Td
+Qué significa para mí?	Td
+Qué sugiere usted?	Td
+Qué sé yo?	Tu
+Qué tabla debería usar?	Td
+Qué tal el viaje?	Td
+Qué tal estoy?	Td
+Qué tal si vamos a un concierto?	Td
+Qué tal su salud?	Td
+Qué tal tu familia?	Td
+Qué tal?	Tu
+Qué talla es?	Td
+Qué talla tienes?	Td
+Qué tamaño tiene?	Td
+Qué te gusta hacer?	Td
+Qué te gustaría?	Td
+Qué te ha entretenido tanto?	Td
+Qué te ha pasado?	Td
+Qué te hace pensar eso?	Td
+Qué te he hecho?	Td
+Qué te hizo cambiar de opinión?	Td
+Qué te hizo hacerlo?	Td
+Qué te jode?	Td
+Qué te parece ir a la playa?	Td
+Qué te parece si tomamos un chupito de vodka?	Td
+Qué te parece si vamos a tomar una cerveza?	Td
+Qué te parece?	Td
+Qué te pasa?	Td
+Qué te pondrás?	Td
+Qué tiempo está previsto para hoy?	Td
+Qué tiempo hace allí?	Td
+Qué tiempo hará?	Td
+Qué tiene de malo?	Td
+Qué tiene que ver con eso?	Td
+Qué tiene que ver con esto?	Td
+Qué tiene que ver eso con ellos?	Td
+Qué tipo de cerveza sirve?	Td
+Qué tipo de combustible usa?	Td
+Qué tipo de música escuchas?	Td
+Qué tipo de persona es?	Td
+Qué tomo después?	Td
+Qué tontería es eso?	Td
+Qué vamos a hacer ahora?	Td
+Qué vamos a hacer con eso?	Td
+Qué vas a comer?	Td
+Qué voy a necesitar?	Td
+Recuerdas?	Tu
+Reordenarlo legislando?	Tu
+Repara cámaras digitales?	Tu
+Resistirá el paso del tiempo?	Tu
+Sabe cómo hacerlo?	Tu
+Sabe leer?	Tu
+Sabe reajustar el cortacircuitos?	Tu
+Sabe usted con quién está hablando?	Tu
+Sabes algo de motores?	Tu
+Sabes atarte la corbata?	Tu
+Sabes barajar?	Tu
+Sabes cómo hacerlo?	Tu
+Sabes escribir con los diez dedos?	Tu
+Sabes guardar un secreto?	Tu
+Sabes hacer el pino?	Tu
+Sabes hacerlo?	Tu
+Sabes leer un mapa?	Tu
+Sabes llegar solo?	Tu
+Sabes manejarlo?	Tu
+Sabes montar a caballo?	Tu
+Sabes morderte la lengua?	Tu
+Sabes ponerlo en marcha?	Tu
+Sabes qué hacer con eso?	Tu
+Sabes tirar con la escopeta?	Tu
+Sabes tocar el piano?	Tu
+Sabrías traducirlo?	Tu
+Sale más barato comprar el billete de ida y vuelta?	Tu
+Sales con alguien?	Tu
+Salió bien?	Tu
+Se acostó con él?	Tu
+Se acuerda de mí?	Tu
+Se acuerda usted de mí?	Tu
+Se casó con ella?	Tu
+Se conocen?	Tu
+Se ha acostado contigo?	Tu
+Se le ocurre algo?	Tu
+Se le puede creer?	Tu
+Se lo has dicho, eh?	Tu
+Se lo has explicado ya?	Tu
+Se lo has preguntado?	Tu
+Se me ha escapado algo?	Tu
+Se me olvidó algo?	Tu
+Se orienta bien en Praga?	Tu
+Se paga la entrada?	Tu
+Se paga por la receta?	Tu
+Se paga por persona o por tienda?	Td
+Se pagan las horas extras aquí?	Tu
+Se puede alquilar un equipo para escalar por aquí?	Tu
+Se puede alquilar una lancha?	Tu
+Se puede aparcar por aquí cerca?	Tu
+Se puede arreglar eso?	Tu
+Se puede bañar en el lago?	Tu
+Se puede comer por aquí cerca?	Tu
+Se puede comprar aquí un mapa de rutas en bicicleta?	Tu
+Se puede comprar por Internet?	Tu
+Se puede confiar en la noticia?	Tu
+Se puede confiar en él?	Tu
+Se puede escalar por aquí?	Tu
+Se puede esto?	Tu
+Se puede fotografiar aquí?	Tu
+Se puede fumar aquí?	Tu
+Se puede hacer eso?	Tu
+Se puede ir en coche hasta allí?	Tu
+Se puede jugar al tenis por aquí?	Tu
+Se puede llegar en coche?	Tu
+Se puede llegar también en coche?	Tu
+Se puede pedir más?	Tu
+Se puede pescar aquí?	Tu
+Se puede pescar con un arpón por aquí?	Tu
+Se puede salir de marcha por aquí?	Tu
+Se puede subir hasta arriba?	Tu
+Se puede, en cuatro años, transformarla en una ciudad antisísmica?	Tu
+Se pueden alquilar bicis aquí?	Tu
+Se pueden comprar alimentos por aquí cerca?	Tu
+Se quedarán para mucho tiempo?	Tu
+Se siente bien?	Tu
+Se te ocurre cómo hacerlo?	Tu
+Se trata de mí?	Tu
+Se van a quedar para dormir?	Tu
+Se vive mejor en la ciudad o en el campo?	Td
+Seguro?	Tu
+Será suficiente?	Tu
+Sería posible?	Tu
+Señor, cuándo te vimos hambriento o sediento, desnudo o forastero, enfermo o encarcelado y no te ayudamos?	Td
+Señor, si en las borracheras te ofendo, con las crudas me sales debiendo?	Tu
+Si el mundo fuera zurdo, entonces ella seria discapacitada?	Tu
+Si el se da la gran vida, por qué no sus hijos?	Td
+Si la banda tricolor NO tiene el escudo nacional, sino un águila republicana, hay delito?	Tu
+Si las tortas de pulpo están de chupete, que tal las de camarones rebozados?	Td
+Si no ahora, entonces cuándo?	Td
+Si se contrata el de 20,000 pesos cual es el monto del deducible?	Td
+Si, los sacerdotes son hombres, o que pensaban?	Td
+Siempre lo haces así?	Tu
+Solo es impresión mía o hace frío aquí?	Td
+Son caros los taxis?	Tu
+Su nombre, por favor?	Tu
+Subo la calefacción?	Tu
+Suele helar por la noche por aquí?	Tu
+Sugerencias?	Tu
+Supongamos que es verdad, y después qué?	Td
+Sí?	Tu
+También él ha discutido?	Tu
+Tan amigos como siempre?	Tu
+Tan tarde?	Tu
+Tanto?	Tu
+Te acuerdas, madre, que un cobertor verde cubría su cuerpo?	Tu
+Te acuerdas?	Tu
+Te apetece dar un paseo?	Tu
+Te apetece jugar al billar?	Tu
+Te apetece un trozo de tarta?	Tu
+Te apetece un zumo?	Tu
+Te apetecería venir?	Tu
+Te apuntas?	Tu
+Te callas ya?	Tu
+Te casarás conmigo?	Tu
+Te comió la lengua el gato?	Tu
+Te conoces a ti mismo?	Tu
+Te depilas las cejas?	Tu
+Te diviertes?	Tu
+Te encargarás de que esté listo a tiempo?	Tu
+Te estás quedando conmigo?	Tu
+Te gusta la cerveza?	Tu
+Te gusta la música clásica?	Tu
+Te gusta?	Tu
+Te ha comido la lengua el gato?	Tu
+Te ha gustado la película?	Tu
+Te ha pasado algo?	Tu
+Te ha salido bien?	Tu
+Te has cepillado los dientes?	Tu
+Te has hecho la cama?	Tu
+Te has probado el jersey?	Tu
+Te has puesto el protector solar?	Tu
+Te has tomado la temperatura?	Tu
+Te imaginas cómo sería?	Tu
+Te imaginas un pueblo deficientemente educado, fanático, borracho y drogado?	Tu
+Te importa abrir la ventana?	Tu
+Te importo?	Tu
+Te llevas bien con él?	Tu
+Te lo has pasado bien en la fiesta?	Tu
+Te molesto?	Tu
+Te pagan bien?	Tu
+Te pintas las uñas?	Tu
+Te puedo invitar a comer?	Tu
+Te quedas a pasar la noche?	Tu
+Te quedas hasta mañana?	Tu
+Te quedaste sin habla?	Tu
+Te quieres callar?	Tu
+Te suena?	Tu
+Te unes a nosotros?	Tu
+Tendrás tiempo esta noche?	Tu
+Tenemos alguna opción?	Tu
+Tenemos que limpiar la habitación antes de salir?	Tu
+Tenemos que llevar cascos?	Tu
+Tenemos que reconocerlo y no podemos engañarnos?	Tu
+Tengo que cambiar?	Tu
+Tengo que ir al hospital?	Tu
+Tengo que llevar un casco?	Tu
+Tengo que pagar el impuesto de eso?	Tu
+Tengo que pagar la aduana por eso?	Tu
+Tengo que rellenar la declaración de aduana?	Tu
+Tengo que rellenar todas las casillas?	Tu
+Tengo que seguir?	Tu
+Tenéis algo para comer?	Tu
+Tenéis hambre?	Tu
+Tenéis la invitación?	Tu
+Tiene acceso a Internet aquí?	Tu
+Tiene acceso a Internet?	Tu
+Tiene aire acondicionado?	Tu
+Tiene algo contra el mareo en el coche?	Tu
+Tiene algo más barato?	Tu
+Tiene algo más que añadir?	Tu
+Tiene algo para el mareo?	Tu
+Tiene algo que declarar?	Tu
+Tiene alguna relación seria?	Tu
+Tiene algún problema de salud?	Tu
+Tiene algún queso?	Tu
+Tiene efectos secundarios?	Tu
+Tiene este hotel su propia playa?	Tu
+Tiene estos recambios?	Tu
+Tiene familia?	Tu
+Tiene habitaciones libres?	Tu
+Tiene hora?	Tu
+Tiene importancia?	Tu
+Tiene otro correo electrónico?	Tu
+Tiene parientes en el extranjero?	Tu
+Tiene permiso de residencia?	Tu
+Tiene sed o hambre?	Tu
+Tiene también esquís para niños?	Tu
+Tiene un zoom óptico?	Tu
+Tiene una familia grande?	Tu
+Tiene una habitación libre?	Tu
+Tiene una habitación más barata?	Tu
+Tiene una mesa libre?	Tu
+Tiene una relación seria?	Tu
+Tiene uno más barato?	Tu
+Tiene usted algo similar?	Tu
+Tiene usted dónde dormir?	Tu
+Tiene usted garaje?	Tu
+Tiene usted hijos?	Tu
+Tiene visado de trabajo?	Tu
+Tienen acceso sin barreras?	Tu
+Tienen algunas especialidades?	Tu
+Tienen cerveza de barril?	Tu
+Tienen habitaciones para alquilar?	Tu
+Tienen hijos?	Tu
+Tienen plazas libres?	Tu
+Tienen problemas con los hooligans?	Tu
+Tienen terraza?	Tu
+Tienen una piscina con contracorriente?	Tu
+Tienes a quién preguntar?	Tu
+Tienes algo con ella?	Tu
+Tienes algo que añadir?	Tu
+Tienes alguna idea?	Tu
+Tienes algunos números más antiguos?	Tu
+Tienes algún otro más?	Tu
+Tienes bastante dinero para poder comprarlo?	Tu
+Tienes deudas?	Tu
+Tienes dónde quedarte?	Tu
+Tienes fuego?	Tu
+Tienes hambre?	Tu
+Tienes hermanos?	Tu
+Tienes miedo a las alturas?	Tu
+Tienes novia?	Tu
+Tienes sueños?	Tu
+Tienes suficiente dinero?	Tu
+Tienes todavía la hoja de garantía?	Tu
+Tienes un condón?	Tu
+Tocas la guitarra?	Tu
+Todavía está abierta la tienda?	Tu
+Todavía está lloviendo?	Tu
+Todavía está vivo?	Tu
+Todavía me quieres?	Tu
+Todavía no lo has terminado?	Tu
+Todavía podemos entrar?	Tu
+Todavía sigues buscando un trabajo?	Tu
+Toma algunos medicamentos?	Tu
+Toma drogas?	Tu
+Toma usted cerveza?	Tu
+Tomamos un taxi?	Tu
+Tomará una cerveza o algo más fuerte?	Td
+Tomarás café o té?	Td
+Tomas somníferos?	Tu
+Trabaja por turnos?	Tu
+Trabajas con el ordenador?	Tu
+Trabajas para él, verdad?	Tu
+Tu propuesta sigue siendo válida?	Tu
+Tus hijos y otros familiares cercanos no hablan también bien de ti?	Tu
+Tuvo una relación sexual con ella?	Tu
+Té?	Tu
+Tú qué crees?	Td
+Tú qué piensas?	Td
+Tú te lo creerías?	Tu
+Tú, qué pensaste?	Td
+Un nuevo movimiento estudiantil latinoamericano?	Tu
+Una cervecita?	Tu
+Una pregunta, El indie y el alternativo son subgéneros?	Tu
+Una taza de té?	Tu
+Usted cree que es así?	Tu
+Usted está hablando conmigo?	Tu
+Usted ha arrancado de sopetón un vehiculo automático?	Tu
+Usted toca algún instrumento musical?	Tu
+Ustedes que piensan?	Td
+Ustedes son parientes?	Tu
+Utilizan bombillas de bajo consumo?	Tu
+Va a doler?	Tu
+Va a durar mucho?	Tu
+Va a ser difícil?	Tu
+Va a ser una gran boda?	Tu
+Va a tomar cerveza, vino o algo más fuerte?	Td
+Va bien el reloj?	Tu
+Vale la pena?	Tu
+Vale?	Tu
+Vamos a bailar?	Tu
+Vamos a bucear desde el barco?	Tu
+Vamos a esperar aquí, sí?	Tu
+Vamos a mi casa?	Tu
+Vamos a pie?	Tu
+Vamos a salir esta noche?	Tu
+Vamos a volver por el mismo camino?	Tu
+Vamos,no?	Tu
+Vas a salir?	Tu
+Vas a trabajar en coche?	Tu
+Vas a venir?	Tu
+Vas con nosotros?	Tu
+Vende soportes de datos aquí?	Tu
+Venden sellos?	Tu
+Venden tallas grandes?	Tu
+Vendrá?	Tu
+Vendrás a buscarme a la estación?	Tu
+Venís a buscarme?	Tu
+Verdad?	Tu
+Viene a buscarme?	Tu
+Viene usted de lejos?	Tu
+Viene vuestra familia?	Tu
+Vienes a menudo por aquí?	Tu
+Vienes?	Tu
+Viste el partido de ayer?	Tu
+Vive todavía?	Tu
+Vive usted en un bloque de pisos o en una casa?	Td
+Vive usted lejos?	Tu
+Vivís en una residencia universitaria?	Tu
+Viéndolo retrospectivamente, qué te parece que significó Belleza y Felicidad, qué estéticas amparó y generó?	Td
+Volveremos a vernos?	Tu
+Vosotros no lo sabéis?	Tu
+Voy al fútbol. Vienes conmigo?	Tu
+Xenófobo por elección?	Td
+Y Entonces?	Tu
+Y Todavia lo justificas?	Tu
+Y a él quién lo enjuicia por corrupción?	Td
+Y ahora no me reconoces?	Tu
+Y ahora qué?	Td
+Y aprovechando, para ti que significa la lluvia de ranas?	Td
+Y cambiará algo?	Tu
+Y cuándo podrás ir a las Europas?	Tu
+Y de cuántas sociedades ha sido copartícipe, antes de su matrimonio, me estoy refiriendo?	Td
+Y de todas maneras, a quién le interesa?	Td
+Y dónde están?	Td
+Y el resto?	Tu
+Y esa maleta de allí, qué?	Td
+Y eso?	Tu
+Y la gardenia y el jazmín, mis perfumes favoritos?	Tu
+Y lo demás?	Tu
+Y los japoneses, por ejemplo?	Tu
+Y los otros?	Tu
+Y nosotros?	Tu
+Y por eso lo dejó?	Tu
+Y quién te obliga?	Td
+Y qué esperabas?	Td
+Y qué pasó después?	Td
+Y qué provecho voy a sacar yo?	Td
+Y qué tal mañana?	Td
+Y qué vamos a hacer ahora?	Td
+Y qué?	Td
+Y si hubiera venido, me habrías pagado?	Tu
+Y si le ha pasado algo?	Td
+Y si no?	Tu
+Y si vamos al teatro?	Td
+Y su madre se lo tolera?	Tu
+Y tú, que papel adoptas?	Td
+Y tú?	Tu
+Y él?	Tu
+Ya debo irme?	Tu
+Ya es tan tarde?	Tu
+Ya escucharon, bola de asnos que aún siguen como borregos al gallito desplumado?	Tu
+Ya está reparado?	Tu
+Ya estás despierto?	Tu
+Ya funciona?	Tu
+Ya ha empezado la temporada truchera?	Tu
+Ya habéis hablado de ello?	Tu
+Ya has hecho el amor con una chica?	Tu
+Ya has hecho las compras?	Tu
+Ya has hecho los deberes?	Tu
+Ya has terminado los estudios?	Tu
+Ya leíste sus comentarios?	Tu
+Ya lo entiendes?	Tu
+Ya lo has leído?	Tu
+Ya lo has probado?	Tu
+Ya lo has terminado?	Tu
+Ya lo has visto?	Tu
+Ya lo ves?	Tu
+Ya os habéis besado?	Tu
+Ya os vais?	Tu
+Ya puedo irme?	Tu
+Ya queda claro?	Tu
+Ya saben qué van a tomar?	Tu
+Ya saben tus suegros de tus ideas maquiavélicas?	Tu
+Ya se ha acostado con él?	Tu
+Ya son las cinco?	Tu
+Ya te has decidido?	Tu
+Ya te lo has mirado?	Tu
+Ya tienes más calor?	Tu
+Ya?	Tu
+Yo qué sé?	Tu
+Yo solo voy a la caballada! y eso es bueno?	Td
+nosotros los hombres estamos preparados para tener una mujer presidente?	Tu
+soy unidimensional?	Tu
+un bebé subalimentado, que crecerá con poca estimulación intelectual y carencias múltiples, desarrolla una discapacidad intelectual?	Tu
+Ósea que un sicario mate a una persona por LUCRARSE te parece bien?	Tu

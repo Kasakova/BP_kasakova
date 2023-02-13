@@ -44,34 +44,38 @@ def dump_config(data,file):
     return
 
 
-def words(list):
-    """Z listu vet vytvori list slov"""
+def words(list, num=None):
+    """Z listu vet vytvori list z prvnich num slov"""
     words= []
     for line in list:
         line = line.split(" ")
-        for word in line:
-            words.append(word)
+        if num is not None:
+            for i in range(min(num,len(line))):
+                words.append(line[i])
+        else:
+            for word in line:
+                words.append(word)
     return words
 
-def freq_words(file):
-    """Vrati frekvencni slovniky pro oba tony ze vsech slov"""
-    Td = freq_dict(words(split_data(file)["Td"]))
-    Tu = freq_dict(words(split_data(file)["Tu"]))
+def freq_words(file,num=None):
+    """Vrati frekvencni slovniky pro oba tony z prvnich num slov vety"""
+    Td = freq_dict(words(split_data(file)["Td"],num))
+    Tu = freq_dict(words(split_data(file)["Tu"],num))
     return Td,Tu
 
-def first_word(list):
-    """Z listu vet vytvori list prvnich slov ve vete"""
-    words= []
-    for line in list:
-        line = line.split(" ")
-        words.append(line[0])
-    return words
-
-def freq_first_words(file):
-    """Vrati frekvencni slovniky pro oba tony z prvnich slov vet"""
-    Td = freq_dict(first_word(split_data(file)["Td"]))
-    Tu = freq_dict(first_word(split_data(file)["Tu"]))
-    return Td,Tu
+# def first_word(list):
+#     """Z listu vet vytvori list prvnich slov ve vete"""
+#     words= []
+#     for line in list:
+#         line = line.split(" ")
+#         words.append(line[0])
+#     return words
+#
+# def freq_first_words(file):
+#     """Vrati frekvencni slovniky pro oba tony z prvnich slov vet"""
+#     Td = freq_dict(first_word(split_data(file)["Td"]))
+#     Tu = freq_dict(first_word(split_data(file)["Tu"]))
+#     return Td,Tu
 
 
 def make_config(Td_freq, Tu_freq, threshold,percentage, file):
@@ -95,6 +99,6 @@ def make_config(Td_freq, Tu_freq, threshold,percentage, file):
     return
 
 if __name__ == '__main__':
-    Td,Tu= freq_first_words('data/EN_training.txt')
+    Td,Tu= freq_words('data/EN_training.txt',2)
     make_config(Td,Tu,8,0.8, "config/pokus.yaml")
 
