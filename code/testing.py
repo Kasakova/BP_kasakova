@@ -25,26 +25,7 @@ def rozpoznani(veta,config, num):
             if word in td:
                 tone = 'Td'
                 break
-    # for word in veta:
-    #     if word in td:
-    #         tone = 'Td'
-    #         break
-    #     elif word in tu:
-    #         tone = 'Tu'
     return tone
-
-# def rozpoznani(veta,config):
-#     """Porovna, zda se na prvnim miste vety nachazi slovo z configu a urci ton."""
-#     veta = normalizace(veta)
-#     td = config["Td"]
-#     tu = config["Tu"]
-#     tone = 'T?'
-#     veta = veta.split()
-#     if veta[0] in td:
-#         tone = 'Td'
-#     elif veta[0] in tu:
-#         tone = 'Tu'
-#     return tone
 
 
 def rozpoznani_souboru(file,config):
@@ -67,7 +48,7 @@ def rozpoznani_souboru(file,config):
             vety.append(line)
     conf = load_config(config)
     for veta in vety:
-        tone = rozpoznani(veta,conf)
+        tone = rozpoznani(veta,conf,2)
         rozp.append(tone)
     vyhodnoceni(vety, rozp, anotace)
     return
@@ -91,11 +72,11 @@ def vyhodnoceni(vety, rozp, anotace):
 
 
 if __name__ == '__main__':
-    rozpoznani_souboru('data/CZ_testing.txt', "config/handmade_config.yaml")
+    rozpoznani_souboru('data/CZ_testing.txt', "config/handmadeCZ.yaml")
 
-    rozpoznani_souboru('data/DE_testing.txt', "config/handmade_config.yaml")
+    rozpoznani_souboru('data/DE_testing.txt', "config/handmadeDE.yaml")
 
-    rozpoznani_souboru('data/EN_testing.txt', "config/handmade_config.yaml")
+    rozpoznani_souboru('data/EN_testing.txt', "config/handmadeEN.yaml")
 
 
 
