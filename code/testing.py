@@ -106,17 +106,13 @@ def test_parametry(trainfile, testfile):
 
 if __name__ == '__main__':
     test_parametry('data/CZ_training.txt', 'data/CZ_testing.txt')
-
     # test_parametry('data/EN_training.txt', 'data/EN_testing.txt')
-    import pandas as pd
 
     csv = pd.read_csv("data.csv")
     print(csv.style.to_latex(position_float="centering"))
 
     # rozpoznani_souboru('data/CZ_testing.txt', "config/handmadeCZ.yaml")
-    #
     # rozpoznani_souboru('data/DE_testing.txt', "config/handmadeDE.yaml")
-    #
     # rozpoznani_souboru('data/EN_testing.txt', "config/handmadeEN.yaml")
 
 

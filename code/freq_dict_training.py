@@ -66,7 +66,7 @@ def freq_words(file,num=None):
 
 
 def make_config(Td_freq, Tu_freq, threshold,percentage, file):
-    """Z frekvencnich slovniku vztvori configuracni soubory."""
+    """Z frekvencnich slovniku vytvori configuracni soubory."""
     config = {"Tu": [], "Td": []}
     for key in Td_freq:
         if Td_freq[key] > threshold:
