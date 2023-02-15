@@ -38,14 +38,14 @@ def freq_dict(wordlist):
 
 
 def dump_config(data,file):
-    """Z parametru slovniku vytvori konfiguracni yaml soubor"""
+    """Z parametru slovniku vytvori konfiguracni yaml soubor."""
     with open(file, "w", encoding="UTF-8") as fw:
         yaml.dump(data, fw, allow_unicode=True)
     return
 
 
 def words(list, num=None):
-    """Z listu vet vytvori list z prvnich num slov"""
+    """Z listu vet vytvori list z prvnich num slov."""
     words= []
     for line in list:
         line = line.split(" ")
@@ -57,29 +57,16 @@ def words(list, num=None):
                 words.append(word)
     return words
 
+
 def freq_words(file,num=None):
-    """Vrati frekvencni slovniky pro oba tony z prvnich num slov vety"""
+    """Vrati frekvencni slovniky pro oba tony z prvnich num slov vety."""
     Td = freq_dict(words(split_data(file)["Td"],num))
     Tu = freq_dict(words(split_data(file)["Tu"],num))
     return Td,Tu
 
-# def first_word(list):
-#     """Z listu vet vytvori list prvnich slov ve vete"""
-#     words= []
-#     for line in list:
-#         line = line.split(" ")
-#         words.append(line[0])
-#     return words
-#
-# def freq_first_words(file):
-#     """Vrati frekvencni slovniky pro oba tony z prvnich slov vet"""
-#     Td = freq_dict(first_word(split_data(file)["Td"]))
-#     Tu = freq_dict(first_word(split_data(file)["Tu"]))
-#     return Td,Tu
-
 
 def make_config(Td_freq, Tu_freq, threshold,percentage, file):
-    """Z listu vet vytvori list prvnich slov ve vete"""
+    """Z frekvencnich slovniku vztvori configuracni soubory."""
     config = {"Tu": [], "Td": []}
     for key in Td_freq:
         if Td_freq[key] > threshold:

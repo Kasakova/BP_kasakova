@@ -1,5 +1,5 @@
 import pandas as pd
-from freq_dict_training import normalizace
+from freq_dict_training import *
 import yaml
 
 def load_config(config):
@@ -12,7 +12,6 @@ def rozpoznani(veta,config, num):
     """Porovna, zda se mezi num prvnimi slovy vety nachazi slovo z configu a urci ton."""
     veta = normalizace(veta)
     td = config["Td"]
-    tu = config["Tu"]
     tone = 'Tu'
     veta = veta.split()
     if num is not None:
@@ -50,8 +49,8 @@ def rozpoznani_souboru(file,config):
     for veta in vety:
         tone = rozpoznani(veta,conf,2)
         rozp.append(tone)
-    vyhodnoceni(vety, rozp, anotace)
-    return
+    accuracy = vyhodnoceni(vety, rozp, anotace)
+    return accuracy
 
 
 
@@ -62,21 +61,63 @@ def vyhodnoceni(vety, rozp, anotace):
         for i in range(len(rozp)):
             if rozp[i] == anotace[i]:
                 count += 1
-            # else:
-            #     print(vety[i] + '\t' + anotace[i])
-    else:
-        print('Neco je spatne')
-    print('Accuracy: ' + str(100*count/len(rozp)) + ' %')
-    confusion_matrix = pd.crosstab(anotace, rozp, rownames=['Actual'], colnames=['Predicted'])
-    print(confusion_matrix)
+    accuracy = round(100*count/len(rozp),2)
+    # print('Accuracy: ' + str(accuracy) + ' %')
+    # confusion_matrix = pd.crosstab(anotace, rozp, rownames=['Actual'], colnames=['Predicted'])
+    # print(confusion_matrix)
+    print(str(accuracy) + ' %', end =" " )
+    return accuracy
 
+def config_test(trainfile,testfile,config,num,threshold,percentage ):
+    """Vytvori konfiguracni soubor a ihned ho otestuje."""
+    Td, Tu = freq_words(trainfile, num)
+    make_config(Td, Tu, threshold,percentage,config)
+    accuracy = rozpoznani_souboru(testfile, config)
+    return accuracy
+
+def test_parametry(trainfile, testfile):
+    """Otestuje tvorbu konfiguracnich souboru pro ruzne parametry prahu."""
+    open('data.csv', "w").close()
+    with open('data.csv', 'a', encoding='UTF8') as f:
+        k = 0.6
+        f.write("\t")
+        print("\t", end=" ")
+
+        for j in range(3):
+            print(str(k), end="\t")
+            f.write(str(k)+ ", " )
+            k += 0.1
+            k = round(k, 1)
+        print()
+        f.write("\n")
+
+        for i in range(2,5):
+            k =0.6
+            print(str(i), end =" ")
+            f.write(str(i)+ ", " + " ")
+            for j in range(3):
+                accuracy = config_test(trainfile, testfile, "config/test.yaml", 2, i, k)
+                f.write(str(accuracy) + " \%, ")
+                k += 0.1
+                k = round(k, 1)
+            print()
+            f.write("\n")
+    return
 
 if __name__ == '__main__':
-    rozpoznani_souboru('data/CZ_testing.txt', "config/handmadeCZ.yaml")
+    test_parametry('data/CZ_training.txt', 'data/CZ_testing.txt')
 
-    rozpoznani_souboru('data/DE_testing.txt', "config/handmadeDE.yaml")
+    # test_parametry('data/EN_training.txt', 'data/EN_testing.txt')
+    import pandas as pd
 
-    rozpoznani_souboru('data/EN_testing.txt', "config/handmadeEN.yaml")
+    csv = pd.read_csv("data.csv")
+    print(csv.style.to_latex(position_float="centering"))
+
+    # rozpoznani_souboru('data/CZ_testing.txt', "config/handmadeCZ.yaml")
+    #
+    # rozpoznani_souboru('data/DE_testing.txt', "config/handmadeDE.yaml")
+    #
+    # rozpoznani_souboru('data/EN_testing.txt', "config/handmadeEN.yaml")
 
 
 

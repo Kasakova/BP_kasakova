@@ -1,0 +1,2 @@
+A quién me puedo dirigir?	Tu -> Td
+Adónde va usted?	Tu -> Td
