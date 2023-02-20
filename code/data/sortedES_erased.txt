@@ -14,7 +14,7 @@ A quién espera?	Td
 A quién está buscando?	Td
 A quién le pertenece eso?	Td
 A quién le toca?	Td
-A quién me puedo dirigir?	Tu
+A quién me puedo dirigir?	Td
 A quién puedo preguntar?	Td
 A qué ayudará?	Td
 A qué debo el placer?	Td
@@ -66,7 +66,7 @@ Adónde va el mundo?	Td
 Adónde va este autobús?	Td
 Adónde va este camino?	Td
 Adónde va esto?	Td
-Adónde va usted?	Tu
+Adónde va usted?	Td
 Adónde vais en verano?	Td
 Adónde vas con tanta prisa?	Td
 Adónde vas?	Td
@@ -116,7 +116,7 @@ Con cuántas cañas al mismo tiempo puedo pescar?	Td
 Con cuánto tiempo de antelación puedo cancelar la reserva sin comisiones?	Td
 Con patatas fritas?	Tu
 Con quién debería hablar?	Td
-Con quién desea usted hablar?	Tu
+Con quién desea usted hablar?	Td
 Con quién estoy hablando?	Td
 Con quién hablo?	Td
 Con quién quiere hablar?	Td
@@ -143,7 +143,7 @@ Cuál de vosotros viene?	Td
 Cuál es el camino más corto a aquella colina?	Td
 Cuál es el consumo del coche?	Td
 Cuál es el límite de indemnización?	Td
-Cuál es el mejor cebo para siluros?	Tu
+Cuál es el mejor cebo para siluros?	Td
 Cuál es el número de su cuenta?	Td
 Cuál es el número de teléfono del taxi?	Td
 Cuál es el peso máximo del equipaje por persona?	Td
@@ -192,14 +192,14 @@ Cuándo es la fecha del parto?	Td
 Cuándo estará libre la cancha?	Td
 Cuándo estará listo?	Td
 Cuándo está disponible?	Td
-Cuándo fue construida la iglesia?	Tu
+Cuándo fue construida la iglesia?	Td
 Cuándo fue la última vez que la viste?	Td
 Cuándo han llegado?	Td
 Cuándo hay que devolver el coche?	Td
 Cuándo le conviene?	Td
 Cuándo le vendría bien?	Td
 Cuándo llegaremos a la frontera?	Td
-Cuándo llegaremos?	Tu
+Cuándo llegaremos?	Td
 Cuándo llegarás?	Td
 Cuándo lo viste por última vez?	Td
 Cuándo madurarás?	Td
@@ -225,7 +225,7 @@ Cuándo vamos a cruzar la frontera?	Td
 Cuándo viene?	Td
 Cuándo vienes?	Td
 Cuándo volverá usted?	Td
-Cuándo volverá?	Tu
+Cuándo volverá?	Td
 Cuántas paradas quedan todavía?	Td
 Cuántas paradas son desde aquí?	Td
 Cuántas personas vendrán?	Td
@@ -378,7 +378,7 @@ Cómo llegamos a la embajada checa?	Td
 Cómo llegamos a la playa pública?	Td
 Cómo llegamos al estadio?	Td
 Cómo llegamos al telesquí?	Td
-Cómo llego allí?	Tu
+Cómo llego allí?	Td
 Cómo lo describirías?	Td
 Cómo lo has averiguado?	Td
 Cómo lo soporta?	Td
@@ -453,7 +453,7 @@ De dónde es usted?	Td
 De dónde has salido?	Td
 De dónde lo conoces?	Td
 De dónde lo has sacado?	Td
-De dónde lo sabe?	Tu
+De dónde lo sabe?	Td
 De dónde lo sabes?	Td
 De dónde lo tienes?	Td
 De dónde nos conocemos?	Td
@@ -504,7 +504,6 @@ Diga?	Tu
 Digo entonces que me pasó?	Tu
 Dijo siquiera algo?	Tu
 Domina algún idioma extranjero?	Tu
-Donde esta el que clamaba por el tema?	Td
 Duermes?	Tu
 Dígame?	Tu
 Dónde bajamos?	Td
@@ -512,6 +511,7 @@ Dónde bajo?	Td
 Dónde cambio?	Td
 Dónde cometí el error?	Td
 Dónde debo ponerlo?	Td
+Dónde esta el que clamaba por el tema?	Td
 Dónde estamos?	Td
 Dónde estudió usted?	Td
 Dónde estuviste la última vez?	Td
@@ -594,9 +594,9 @@ Dónde puedo pescar por aquí?	Td
 Dónde puedo reclamar la devolución del IVA?	Td
 Dónde puedo reclamar la indemnización por pérdida de equipaje?	Td
 Dónde puedo recoger mi equipaje?	Td
-Dónde quedamos?	Tu
+Dónde quedamos?	Td
 Dónde quieres sentarte?	Td
-Dónde se compran los billetes?	Tu
+Dónde se compran los billetes?	Td
 Dónde se conocieron?	Td
 Dónde se puede comprar eso?	Td
 Dónde se puede comprar?	Td
@@ -649,7 +649,7 @@ Es el camino apto para personas mayores?	Tu
 Es el servicio de habitación?	Tu
 Es esta moto para dos personas?	Tu
 Es este el camino a la estación?	Tu
-Es este importe reembolsable?	Td
+Es este importe reembolsable?	Tu
 Es este vuelo con escala?	Tu
 Es esto de alguien?	Tu
 Es grave?	Tu
@@ -1003,7 +1003,7 @@ Me puede dar un recibo?	Tu
 Me puede dar una factura detallada?	Tu
 Me puede dar una manta?	Tu
 Me puede dar una más?	Tu
-Me puede decir cuándo bajar?	Td
+Me puede decir cuándo bajar?	Tu
 Me puede dejar unos euros?	Tu
 Me puede enseñar su reserva de asiento?	Tu
 Me puede hacer un favor?	Tu
@@ -1099,12 +1099,12 @@ Nos sentamos en la barra?	Tu
 O fueron y pidieron hipócritamente el voto a los ciudadanos, que ofrecieron?	Td
 O no es así?	Tu
 O no?	Tu
-O que?	Td
+O qué?	Td
 O sea, no entendÍ, no recibió nada al final la moza?	Tu
 Obtendrán las empresas las subvenciones?	Tu
 Ofrecen algunas excursiones a las islas vecinas?	Tu
 Ofrecen un comentario durante el crucero?	Tu
-Oh que piensas?	Td
+Oh qué piensas?	Td
 Organizan excursiones en bici?	Tu
 Organizan excursiones?	Tu
 Os conocéis?	Tu
@@ -1397,12 +1397,7 @@ Puedo ver el perfume?	Tu
 Puedo ver su carné de conducir?	Tu
 Puedo ver su pasaporte?	Tu
 Pues, a partir de mañana en una semana?	Tu
-QUe le falta una desembocadura?	Tu
-Que feliz, que feliz si tuviera yo un desliz?	Tu
-Que hay mucha información, nombres, cargos y trama enrevesada?	Tu
-Que opinion me dan ustedes, creen que es promiscua, muy loca, zorra o que?	Td
 Que quieren, que desean?	Td
-Que tal el linchamiento publico?	Td
 Quedó algo para mí?	Tu
 Queréis añadir algo más?	Tu
 Queréis que lo haga?	Tu
@@ -1458,7 +1453,7 @@ Quién lo habría dicho?	Td
 Quién lo permitió?	Td
 Quién manda aquí?	Td
 Quién me ayudará?	Td
-Quién más?	Tu
+Quién más?	Td
 Quién nos podría ayudar?	Td
 Quién os cuida a los niños?	Td
 Quién otro?	Td
@@ -1498,7 +1493,7 @@ Qué aficiones tiene?	Td
 Qué apuestas?	Td
 Qué arquitecto construyó eso?	Td
 Qué bebes?	Td
-Qué cadena quieres escuchar?	Tu
+Qué cadena quieres escuchar?	Td
 Qué camino es el más rápido?	Td
 Qué cerveza tienen?	Td
 Qué color quiere?	Td
@@ -1549,6 +1544,7 @@ Qué estás tramando?	Td
 Qué exámenes necesitaré?	Td
 Qué factores determinan el carácter humano?	Td
 Qué fecha es hoy?	Td
+Qué feliz, que feliz si tuviera yo un desliz?	Tu
 Qué grado de dificultad es?	Td
 Qué grado de parentesco hay entre ustedes?	Td
 Qué grupo es tu favorito?	Td
@@ -1562,12 +1558,13 @@ Qué haces esta noche?	Td
 Qué haces mañana por la tarde?	Td
 Qué hago?	Td
 Qué harás con el dinero?	Td
-Qué has dicho?	Tu
+Qué has dicho?	Td
 Qué has ganado con eso?	Td
 Qué has hecho?	Td
 Qué hay de malo en ello?	Td
 Qué hay de malo en eso?	Td
 Qué hay de nuevo?	Td
+Qué hay mucha información, nombres, cargos y trama enrevesada?	Tu
 Qué hay para comer?	Td
 Qué he hecho mal?	Td
 Qué hilo debo usar para salmones?	Td
@@ -1576,6 +1573,7 @@ Qué idioma desean?	Td
 Qué idiomas conoces, además del alemán?	Td
 Qué importa?	Td
 Qué incluye la excursión?	Td
+Qué le falta una desembocadura?	Tu
 Qué le ha parecido?	Td
 Qué le ha pasado a la tele?	Td
 Qué le hizo hacerlo?	Td
@@ -1586,7 +1584,7 @@ Qué le pasa?	Td
 Qué le puedo ofrecer?	Td
 Qué les lleva tanto tiempo?	Td
 Qué llevaba puesto?	Td
-Qué llevamos?	Tu
+Qué llevamos?	Td
 Qué material es?	Td
 Qué me aconsejaría usted?	Td
 Qué me recomienda?	Td
@@ -1603,6 +1601,7 @@ Qué número calzas?	Td
 Qué número tiene el servicio de grúa?	Td
 Qué números salieron?	Td
 Qué opinas de eso?	Td
+Qué opinion me dan ustedes, creen que es promiscua, muy loca, zorra o qué?	Td
 Qué ordenador puedo utilizar?	Td
 Qué os hizo pensar eso?	Td
 Qué otra cosa esperabas?	Td
@@ -1620,7 +1619,7 @@ Qué planes tienes para el futuro?	Td
 Qué planes tienes para esta noche?	Td
 Qué ponen en el cine?	Td
 Qué ponen en la tele esta noche?	Td
-Qué ponen?	Tu
+Qué ponen?	Td
 Qué pongo aquí?	Td
 Qué posición han adoptado?	Td
 Qué precio tiene la fama?	Td
@@ -1657,6 +1656,7 @@ Qué significa para mí?	Td
 Qué sugiere usted?	Td
 Qué sé yo?	Tu
 Qué tabla debería usar?	Td
+Qué tal el linchamiento publico?	Td
 Qué tal el viaje?	Td
 Qué tal estoy?	Td
 Qué tal si vamos a un concierto?	Td
@@ -1788,8 +1788,8 @@ Si el se da la gran vida, por qué no sus hijos?	Td
 Si la banda tricolor NO tiene el escudo nacional, sino un águila republicana, hay delito?	Tu
 Si las tortas de pulpo están de chupete, que tal las de camarones rebozados?	Td
 Si no ahora, entonces cuándo?	Td
-Si se contrata el de 20,000 pesos cual es el monto del deducible?	Td
-Si, los sacerdotes son hombres, o que pensaban?	Td
+Si se contrata el de 20,000 pesos cuál es el monto del deducible?	Td
+Si, los sacerdotes son hombres, o qué pensaban?	Td
 Siempre lo haces así?	Tu
 Solo es impresión mía o hace frío aquí?	Td
 Son caros los taxis?	Tu
@@ -1959,7 +1959,7 @@ Usted cree que es así?	Tu
 Usted está hablando conmigo?	Tu
 Usted ha arrancado de sopetón un vehiculo automático?	Tu
 Usted toca algún instrumento musical?	Tu
-Ustedes que piensan?	Td
+Ustedes qué piensan?	Td
 Ustedes son parientes?	Tu
 Utilizan bombillas de bajo consumo?	Tu
 Va a doler?	Tu
@@ -1977,7 +1977,7 @@ Vamos a mi casa?	Tu
 Vamos a pie?	Tu
 Vamos a salir esta noche?	Tu
 Vamos a volver por el mismo camino?	Tu
-Vamos,no?	Tu
+Vamos, no?	Tu
 Vas a salir?	Tu
 Vas a trabajar en coche?	Tu
 Vas a venir?	Tu
@@ -2003,13 +2003,13 @@ Viéndolo retrospectivamente, qué te parece que significó Belleza y Felicidad,
 Volveremos a vernos?	Tu
 Vosotros no lo sabéis?	Tu
 Voy al fútbol. Vienes conmigo?	Tu
-Xenófobo por elección?	Td
+Xenófobo por elección?	Tu
 Y Entonces?	Tu
 Y Todavia lo justificas?	Tu
 Y a él quién lo enjuicia por corrupción?	Td
 Y ahora no me reconoces?	Tu
 Y ahora qué?	Td
-Y aprovechando, para ti que significa la lluvia de ranas?	Td
+Y aprovechando, para ti qué significa la lluvia de ranas?	Td
 Y cambiará algo?	Tu
 Y cuándo podrás ir a las Europas?	Tu
 Y de cuántas sociedades ha sido copartícipe, antes de su matrimonio, me estoy refiriendo?	Td
@@ -2032,11 +2032,11 @@ Y qué tal mañana?	Td
 Y qué vamos a hacer ahora?	Td
 Y qué?	Td
 Y si hubiera venido, me habrías pagado?	Tu
-Y si le ha pasado algo?	Td
+Y si le ha pasado algo?	Tu
 Y si no?	Tu
-Y si vamos al teatro?	Td
+Y si vamos al teatro?	Tu
 Y su madre se lo tolera?	Tu
-Y tú, que papel adoptas?	Td
+Y tú, qué papel adoptas?	Td
 Y tú?	Tu
 Y él?	Tu
 Ya debo irme?	Tu
@@ -2071,7 +2071,6 @@ Ya te lo has mirado?	Tu
 Ya tienes más calor?	Tu
 Ya?	Tu
 Yo qué sé?	Tu
-Yo solo voy a la caballada! y eso es bueno?	Td
 nosotros los hombres estamos preparados para tener una mujer presidente?	Tu
 soy unidimensional?	Tu
 un bebé subalimentado, que crecerá con poca estimulación intelectual y carencias múltiples, desarrolla una discapacidad intelectual?	Tu

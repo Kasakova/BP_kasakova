@@ -36,7 +36,7 @@ Cuál fue el resultado?	Td
 Cuáles son las medidas de seguridad?	Td
 Cuándo debemos devolver los esquís?	Td
 Cuándo envió el e-mail?	Td
-Cuándo fue construida la iglesia?	Tu
+Cuándo fue construida la iglesia?	Td
 Cuándo le vendría bien?	Td
 Cuándo madurarás?	Td
 Cuándo puede empezar a trabajar?	Td
@@ -99,7 +99,7 @@ Debería hacerlo?	Tu
 Del cerebro está estreñido, sufre el genio de escorbuto, sus neuronas se han vencido?	Tu
 Después, viendo las finales?	Tu
 Dijo siquiera algo?	Tu
-Dónde bajamos?	Td
+Dónde bajo?	Td
 Dónde estamos?	Td
 Dónde está el alojamiento más cercano?	Td
 Dónde está el gato?	Td
@@ -277,8 +277,7 @@ Puedo quitarme el abrigo?	Tu
 Puedo servirle más?	Tu
 Puedo tomar el sol en topless?	Tu
 Puedo utilizar su teléfono?	Tu
-QUe le falta una desembocadura?	Tu
-Que tal el linchamiento publico?	Td
+Que quieren, que desean?	Td
 Quiere dejarle un recado?	Tu
 Quiere usted tomar algo de beber?	Tu
 Quieres añadir algo?	Tu
@@ -308,27 +307,28 @@ Qué esperas de tu vida?	Td
 Qué está pasando aquí?	Td
 Qué estás haciendo con eso?	Td
 Qué factores determinan el carácter humano?	Td
-Qué ha dicho usted?	Td
-Qué haces aquí?	Td
-Qué has dicho?	Tu
-Qué hay de nuevo?	Td
-Qué idioma desean?	Td
-Qué le ha pasado a la tele?	Td
-Qué le pasa?	Td
-Qué material es?	Td
-Qué mosca te ha picado?	Td
-Qué necesita usted?	Td
-Qué opinas de eso?	Td
-Qué pasa HIRSUTO eres activo, pasivo o moderno?	Td
-Qué pasó?	Td
-Qué planes tienes para esta noche?	Td
-Qué posición han adoptado?	Td
-Qué profundidad tiene esta piscina?	Td
-Qué queda en el coche?	Td
-Qué quiere para beber?	Td
-Qué quieres?	Td
-Qué sello necesito para la República Checa?	Td
-Qué significa esto?	Td
+Qué grupo es tu favorito?	Td
+Qué hacemos con las sobras?	Td
+Qué harás con el dinero?	Td
+Qué hay de malo en eso?	Td
+Qué hilo debo usar para salmones?	Td
+Qué incluye la excursión?	Td
+Qué le impulsó a cambiar el nombre?	Td
+Qué les lleva tanto tiempo?	Td
+Qué me recomienda?	Td
+Qué más da?	Td
+Qué número calzas?	Td
+Qué ordenador puedo utilizar?	Td
+Qué pasa aquí?	Td
+Qué piensas hacer?	Td
+Qué ponen en el cine?	Td
+Qué precio tiene la fama?	Td
+Qué pruebas tiene contra mí?	Td
+Qué queréis decir con eso?	Td
+Qué quieres a cambio de eso?	Td
+Qué raro hay en eso?	Td
+Qué sentido tiene?	Td
+Qué significa para mí?	Td
 Qué tal el viaje?	Td
 Qué tal?	Tu
 Qué te gustaría?	Td
@@ -393,7 +393,7 @@ Usted ha arrancado de sopetón un vehiculo automático?	Tu
 Va a doler?	Tu
 Va bien el reloj?	Tu
 Vamos a esperar aquí, sí?	Tu
-Vamos,no?	Tu
+Vamos, no?	Tu
 Vende soportes de datos aquí?	Tu
 Venís a buscarme?	Tu
 Vienes a menudo por aquí?	Tu
@@ -404,7 +404,7 @@ Y de cuántas sociedades ha sido copartícipe, antes de su matrimonio, me estoy 
 Y eso?	Tu
 Y nosotros?	Tu
 Y qué provecho voy a sacar yo?	Td
-Y si le ha pasado algo?	Td
+Y si le ha pasado algo?	Tu
 Y tú?	Tu
 Ya está reparado?	Tu
 Ya has hecho el amor con una chica?	Tu
@@ -412,4 +412,4 @@ Ya lo entiendes?	Tu
 Ya lo ves?	Tu
 Ya saben qué van a tomar?	Tu
 Ya te lo has mirado?	Tu
-nosotros los hombres estamos preparados para tener una mujer presidente?	Tu
+soy unidimensional?	Tu

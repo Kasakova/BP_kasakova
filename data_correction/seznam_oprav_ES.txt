@@ -1,2 +1,39 @@
 A quién me puedo dirigir?	Tu -> Td
 Adónde va usted?	Tu -> Td
+Con quién desea usted hablar?	Tu -> Td
+Cuál es el mejor cebo para siluros?	Tu -> Td
+Cuándo fue construida la iglesia?	Tu -> Td
+Cuándo llegaremos?	Tu -> Td
+Cuándo volverá?	Tu -> Td
+Cómo llego allí?	Tu -> Td
+De dónde lo sabe?	Tu -> Td
+Dónde quedamos?	Tu -> Td
+Dónde se compran los billetes?	Tu -> Td
+Es este importe reembolsable?	Td -> Tu
+Me puede decir cuándo bajar?	Td -> Tu
+Quién más?	Tu -> Td
+Qué cadena quieres escuchar?	Tu -> Td
+Qué has dicho?	Tu -> Td
+Qué llevamos?	Tu -> Td
+Qué ponen?	Tu -> Td
+Xenófobo por elección?	Td -> Tu
+Y si le ha pasado algo?	Td -> Tu
+Y si vamos al teatro?	Td -> Tu
+
+
+Doónde esta el que clamaba por el tema?	Td
+Oh queé piensas?	Td
+O queé?	Td
+QUe le falta una desembocadura?	Tu
+Que feliz, que feliz si tuviera yo un desliz?	Tu
+Que hay mucha información, nombres, cargos y trama enrevesada?	Tu
+Que opinion me dan ustedes, creen que es promiscua, muy loca, zorra o que?	Td
+Que quieren, que desean?	Td
+Que tal el linchamiento publico?	Td
+Si se contrata el de 20,000 pesos cual es el monto del deducible?	Td
+Si, los sacerdotes son hombres, o que pensaban?	Td
+Ustedes que piensan?	Td
+Vamos,no?	Tu
+Y aprovechando, para ti que significa la lluvia de ranas?	Td
+Y tú, que papel adoptas?	Td
+Yo solo voy a la caballada! y eso es bueno?	Td

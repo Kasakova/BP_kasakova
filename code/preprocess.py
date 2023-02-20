@@ -63,7 +63,7 @@ def erase_ipa(file1,file2):
 
 if __name__ == '__main__':
     # erase_divnou_notaci('data/questionsDE_s_notaci.txt', 'data/questionsDE.txt')
-    erase_ipa("data/ES_annot.ipa.snt", "data/questionsES.txt")
+    # erase_ipa("data/ES_annot.ipa.snt", "data/questionsES.txt")
     erase_ipa("data/RU_annot.ipa.snt", "data/questionsRU.txt")
     #
     # erase_duplicates('data/questionsCZ.txt', 'data/sortedCZ_erased.txt')

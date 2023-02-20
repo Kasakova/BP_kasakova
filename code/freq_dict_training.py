@@ -6,7 +6,7 @@ def normalizace(veta):
     veta = veta.replace(",", "")
     veta = veta.replace(".", "")
     veta = veta.replace("?", "")
-    veta = veta.replace("-", "")
+    # veta = veta.replace("-", "")
     veta = veta.replace("\n", "")
     veta = veta.replace("  ", " ")
     return veta

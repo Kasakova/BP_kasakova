@@ -59,9 +59,9 @@ Cómo se atreve usted?	Td
 Quién ha sido?	Td
 Con quién estoy hablando?	Td
 Quién nos podría ayudar?	Td
-A quién me puedo dirigir?	Td
+A quién me puedo dirigir?	Tu
 A quién está buscando?	Td
-Con quién desea usted hablar?	Td
+Con quién desea usted hablar?	Tu
 A quién puedo preguntar?	Td
 Quién se lo contó?	Td
 Qué pasa?	Td
@@ -82,7 +82,7 @@ Cuánto tiempo se va a quedar?	Td
 Cuánto tiempo hace que está aquí?	Td
 Le ha gustado?	Tu
 Cómo se llama usted?	Td
-Cómo llego allí?	Td
+Cómo llego allí?	Tu
 Con qué frecuencia va allí?	Td
 Sabe cómo hacerlo?	Tu
 Cómo es eso?	Td
@@ -91,19 +91,19 @@ De quién es la culpa?	Td
 De quién es este niño?	Td
 De quién es?	Tu
 Dónde está?	Td
-Dónde quedamos?	Td
+Dónde quedamos?	Tu
 Dónde está ahora?	Td
 Dónde puedo aparcar mi coche?	Td
 Dónde vive usted?	Td
 Tiene usted dónde dormir?	Tu
 De dónde es usted?	Td
-De dónde lo sabe?	Td
+De dónde lo sabe?	Tu
 De dónde lo conoces?	Td
-Adónde va usted?	Td
+Adónde va usted?	Tu
 Adónde va este autobús?	Td
 Adónde lo pusiste?	Td
 Adónde prefieren ir?	Td
-Cuándo volverá?	Td
+Cuándo volverá?	Tu
 Cuándo han llegado?	Td
 Cuándo está disponible?	Td
 Cuándo le conviene?	Td
@@ -225,7 +225,7 @@ Cuánto cobra por un minuto de espera?	Td
 Me puede recoger aquí en una hora?	Tu
 No es demasiado?	Tu
 Dónde está la estación de trenes más cercana?	Td
-Dónde se compran los billetes?	Td
+Dónde se compran los billetes?	Tu
 Sale más barato comprar el billete de ida y vuelta?	Tu
 Cuánto cuesta el billete reducido?	Td
 Puedo comprar el billete en el tren?	Tu
@@ -292,7 +292,7 @@ Tiene algo para el mareo?	Tu
 Dónde está la oficina de cambio del barco?	Td
 Podemos subir a la cubierta alta?	Tu
 Cuáles son las medidas de seguridad?	Td
-Cuándo llegaremos?	Td
+Cuándo llegaremos?	Tu
 De dónde salen los cruceros?	Td
 Cuánto tiempo duran las paradas?	Td
 Hay alguna posibilidad de refrigerio en el barco?	Tu
@@ -308,12 +308,12 @@ Puedo hacer transbordos con este billete?	Tu
 Cuándo bajo?	Td
 Qué tomo después?	Td
 Cómo se llama la parada?	Td
-Me puede decir cuándo bajar?	Tu
+Me puede decir cuándo bajar?	Td
 Hay una máquina de billetes por aquí?	Tu
 Con qué autobús llego ahí?	Td
 Dónde está el alojamiento más cercano?	Td
 Hay que pagar una fianza?	Tu
-Es este importe reembolsable?	Tu
+Es este importe reembolsable?	Td
 Cobra comisiones por reserva?	Tu
 Con cuánto tiempo de antelación puedo cancelar la reserva sin comisiones?	Td
 Cobra comisión por cancelación de reserva?	Tu
@@ -403,7 +403,7 @@ Qué está incluido en el precio?	Td
 Los servicios del guía están incluidos en el precio?	Tu
 Cuántos kilómetros vamos a recorrer?	Td
 Cuánto dura la excursión?	Td
-Qué llevamos?	Td
+Qué llevamos?	Tu
 Hay un mirador por aquí?	Tu
 Cómo se llama el monte?	Td
 Cuál es el camino más corto a aquella colina?	Td
@@ -430,7 +430,7 @@ Qué debemos ver sin duda alguna?	Td
 Qué monumentos locales nos recomiendan ver?	Td
 Hay un lugar por aquí con vistas a la ciudad?	Tu
 Cuánto tiempo dura la visita?	Td
-Cuándo fue construida la iglesia?	Td
+Cuándo fue construida la iglesia?	Tu
 Hay un parque por aquí cerca?	Tu
 Podemos visitar el museo municipal?	Tu
 Qué arquitecto construyó eso?	Td
@@ -450,7 +450,7 @@ Cuánto dura el recorrido?	Td
 Qué incluye la excursión?	Td
 A qué hora se sale?	Td
 Qué tal si vamos a un concierto?	Td
-Qué ponen?	Td
+Qué ponen?	Tu
 De qué va?	Td
 Quién es el director?	Td
 Quién es el protagonista?	Td
@@ -563,7 +563,7 @@ Puedo alquilar aquí un barco por un día?	Tu
 Con cuántas cañas al mismo tiempo puedo pescar?	Td
 Ya ha empezado la temporada truchera?	Tu
 Dónde está el mejor lugar para pescar?	Td
-Cuál es el mejor cebo para siluros?	Td
+Cuál es el mejor cebo para siluros?	Tu
 Qué hilo debo usar para salmones?	Td
 Has pescado algo?	Tu
 Devuelves los peces al agua?	Tu
@@ -742,7 +742,7 @@ Dónde está el interruptor?	Td
 Quién ha dejado encendida la luz?	Td
 Utilizan bombillas de bajo consumo?	Tu
 Puedes cambiarla?	Tu
-Qué cadena quieres escuchar?	Td
+Qué cadena quieres escuchar?	Tu
 Quiere ver la tele?	Tu
 Puedo encender la tele?	Tu
 Qué ponen en la tele esta noche?	Td
@@ -919,7 +919,7 @@ Qué sentimientos guardáis entre vosotros?	Td
 Lo hueles?	Tu
 Qué es lo que sientes por ella?	Td
 Se siente bien?	Tu
-Qué has dicho?	Td
+Qué has dicho?	Tu
 Ha habido suerte?	Tu
 Cómo te ha ido?	Td
 Qué te parece si vamos a tomar una cerveza?	Td
@@ -997,7 +997,7 @@ Va a durar mucho?	Tu
 Cuánto dura la película?	Td
 Qué haces esta noche?	Td
 A cuántos estamos hoy?	Td
-Y si vamos al teatro?	Tu
+Y si vamos al teatro?	Td
 A qué hora vas al trabajo?	Td
 Qué mosca te ha picado?	Td
 Tan amigos como siempre?	Tu
@@ -1174,7 +1174,7 @@ De dónde lo sabes?	Td
 Lo ha traído?	Tu
 Será suficiente?	Tu
 Quién otro?	Td
-Quién más?	Td
+Quién más?	Tu
 Quién lo habría dicho?	Td
 De quién estás hablando?	Td
 Quién piensas que soy?	Td
@@ -1189,7 +1189,7 @@ A qué hora termina?	Td
 Para cuándo compro las entradas?	Td
 Para cuándo quedamos?	Td
 Y si hubiera venido, me habrías pagado?	Tu
-Y si le ha pasado algo?	Tu
+Y si le ha pasado algo?	Td
 Cuánto dinero tienes?	Td
 Cuántos años hace ya?	Td
 Qué edad tienes?	Td
@@ -1338,7 +1338,7 @@ Qué opinas de eso?	Td
 Tienes hambre?	Tu
 En qué otro lugar si no aquí?	Td
 No te quedarás mucho, verdad?	Tu
-Vamos, no?	Tu
+Vamos,no?	Tu
 O no es así?	Tu
 O no?	Tu
 Cuál es el riesgo de transmisión de infecciones?	Td
@@ -1995,8 +1995,8 @@ Tus hijos y otros familiares cercanos no hablan también bien de ti?	Tu
 Quién es el valiente que postule la prohibición?	Td
 Oye Gabriel y sueñas con lo que quieres ser de grande!?	Tu
 Ah, no se te olvide ir a ponerte nombre, o eres de probeta?	Td
-Si se contrata el de 20,000 pesos cuál es el monto del deducible?	Td
-Dónde esta el que clamaba por el tema?	Td
+Si se contrata el de 20,000 pesos cual es el monto del deducible?	Td
+Donde esta el que clamaba por el tema?	Td
 Podrías recomendarnos algo aparte de las cremas?	Tu
 Eras una de sus asiduas oyentes además de asistir a sus shows?	Tu
 Menos mal que Nirvana se volvió masivo y llegó mi época mod, qué hubiera sido de mi?	Td
@@ -2005,9 +2005,9 @@ He escuchado miles de versiones como coincidencias, otros factores, milagros, di
 Como lo van a llamar?	Td
 No era mas inteligente, detenerlos, interrogarlos, enjuiciarlos y en todo caso hasta negociar información importante?	Tu
 De igual manera, mis afectos, emociones, hobbies son producto de las neuronas?	Tu
-Xenófobo por elección?	Tu
-Qué opinion me dan ustedes, creen que es promiscua, muy loca, zorra o qué?	Td
-Qué hay mucha información, nombres, cargos y trama enrevesada?	Tu
+Xenófobo por elección?	Td
+Que opinion me dan ustedes, creen que es promiscua, muy loca, zorra o que?	Td
+Que hay mucha información, nombres, cargos y trama enrevesada?	Tu
 Los ciudadanos, al llegar al poder, caerán en su fascinación y corrupción?	Tu
 Infeliz, si filman a tu madre o hermana?	Tu
 Perdonar a los que por su Ineptitud, Necedad, Ignorancia, mataron a tu Hijo?	Tu
@@ -2017,17 +2017,18 @@ Señor, si en las borracheras te ofendo, con las crudas me sales debiendo?	Tu
 Excelente artículo, me gusta mucho tu blog, yo tengo un hurón, qué tan seguido debo bañarlo?	Td
 No lo recuerdo, pero podría ser real, no haber sido alterado, falseado?	Tu
 O fueron y pidieron hipócritamente el voto a los ciudadanos, que ofrecieron?	Td
-Ustedes qué piensan?	Td
+Ustedes que piensan?	Td
 Señor, cuándo te vimos hambriento o sediento, desnudo o forastero, enfermo o encarcelado y no te ayudamos?	Td
 Viéndolo retrospectivamente, qué te parece que significó Belleza y Felicidad, qué estéticas amparó y generó?	Td
 De eso se trataba, de debatir, no de tomar tribunas, no crees?	Tu
 Por ahi sí que circule todo, funcione todo, chongos incluidos, no?	Tu
 Eso me hace ser peligrosa, necia, autoritaria, tonta?	Tu
 Por cierto, en el siguiente avituallamiento, había agua?	Tu
-Si, los sacerdotes son hombres, o qué pensaban?	Td
+Si, los sacerdotes son hombres, o que pensaban?	Td
 Ahora mi soledad me aturde, seguiré con lo mismo?	Tu
 Culpable?	Tu
 Ya leíste sus comentarios?	Tu
+Yo solo voy a la caballada! y eso es bueno?	Td
 Y la gardenia y el jazmín, mis perfumes favoritos?	Tu
 Digo entonces que me pasó?	Tu
 Por cierto, es difícil ser hetero?	Tu
@@ -2040,14 +2041,14 @@ Porque, quien no recuerda haber sufrido un episodio o un lapsus olvidadizo?	Td
 Por qué dejaste tu último empleo, por qué te despidieron, cómo calificas a tu jefe anterior?	Td
 Te imaginas un pueblo deficientemente educado, fanático, borracho y drogado?	Tu
 un bebé subalimentado, que crecerá con poca estimulación intelectual y carencias múltiples, desarrolla una discapacidad intelectual?	Tu
-Oh qué piensas?	Td
+Oh que piensas?	Td
 Lo aceptaremos?	Tu
-Y aprovechando, para ti qué significa la lluvia de ranas?	Td
+Y aprovechando, para ti que significa la lluvia de ranas?	Td
 Pruebas?	Tu
-Qué tal el linchamiento publico?	Td
+Que tal el linchamiento publico?	Td
 Del cerebro está estreñido, sufre el genio de escorbuto, sus neuronas se han vencido?	Tu
-Qué le falta una desembocadura?	Tu
-Qué feliz, que feliz si tuviera yo un desliz?	Tu
+QUe le falta una desembocadura?	Tu
+Que feliz, que feliz si tuviera yo un desliz?	Tu
 Excelente propuesta, la apoyo totalmente, como puedo ayudar a volverlo realidad?	Td
 Amplíe su negocio o crear su propio negocio o pagar su deudas, facturas, casa de alquiler?	Tu
 Pagan cargas a su domestica?	Tu
@@ -2061,7 +2062,7 @@ Te acuerdas, madre, que un cobertor verde cubría su cuerpo?	Tu
 Qué costo tienen aquellos exámenes?	Td
 Y nosotros?	Tu
 Hola; es muy raro volver a ver una vieja peli y preguntarme, cómo pudo gustarme tanto?	Td
-O qué?	Td
+O que?	Td
 soy unidimensional?	Tu
 Usted ha arrancado de sopetón un vehiculo automático?	Tu
 Y cuándo podrás ir a las Europas?	Tu
@@ -2090,4 +2091,4 @@ Si el mundo fuera zurdo, entonces ella seria discapacitada?	Tu
 Y a él quién lo enjuicia por corrupción?	Td
 Mi pregunta es, reconocería la letra, quién rellenó ese documento, lo recuerda?	Tu
 Tenemos que reconocerlo y no podemos engañarnos?	Tu
-Y tú, qué papel adoptas?	Td
+Y tú, que papel adoptas?	Td

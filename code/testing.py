@@ -8,7 +8,7 @@ def load_config(config):
         data = yaml.full_load(fr)
     return data
 
-def rozpoznani(veta,config, num):
+def rozpoznani(veta,config, num=None):
     """Porovna, zda se mezi num prvnimi slovy vety nachazi slovo z configu a urci ton."""
     veta = normalizace(veta)
     td = config["Td"]
@@ -65,7 +65,7 @@ def vyhodnoceni(vety, rozp, anotace):
     # print('Accuracy: ' + str(accuracy) + ' %')
     # confusion_matrix = pd.crosstab(anotace, rozp, rownames=['Actual'], colnames=['Predicted'])
     # print(confusion_matrix)
-    print(str(accuracy) + ' %', end =" " )
+    print(str(accuracy) + ' %', end ="\t")
     return accuracy
 
 def config_test(trainfile,testfile,config,num,threshold,percentage ):
@@ -83,7 +83,7 @@ def test_parametry(trainfile, testfile):
         f.write("\t")
         print("\t", end=" ")
 
-        for j in range(3):
+        for j in range(4):
             print(str(k), end="\t")
             f.write(str(k)+ ", " )
             k += 0.1
@@ -91,12 +91,12 @@ def test_parametry(trainfile, testfile):
         print()
         f.write("\n")
 
-        for i in range(2,5):
+        for i in range(6):
             k =0.6
-            print(str(i), end =" ")
+            print(str(i), end ="\t")
             f.write(str(i)+ ", " + " ")
-            for j in range(3):
-                accuracy = config_test(trainfile, testfile, "config/test.yaml", 2, i, k)
+            for j in range(1,5):
+                accuracy = config_test(trainfile, testfile, "config/test.yaml", 1, i, k)
                 f.write(str(accuracy) + " \%, ")
                 k += 0.1
                 k = round(k, 1)
@@ -105,12 +105,16 @@ def test_parametry(trainfile, testfile):
     return
 
 if __name__ == '__main__':
-    test_parametry('data/CZ_training.txt', 'data/CZ_testing.txt')
+    # test_parametry('data/CZ_training.txt', 'data/CZ_testing.txt')
+    # test_parametry('data/DE_training.txt', 'data/DE_testing.txt')
     # test_parametry('data/EN_training.txt', 'data/EN_testing.txt')
+    test_parametry('data/ES_training.txt', 'data/ES_testing.txt')
+    # test_parametry('data/RU_training.txt', 'data/RU_testing.txt')
 
-    csv = pd.read_csv("data.csv")
-    print(csv.style.to_latex(position_float="centering"))
+    # csv = pd.read_csv("data.csv")
+    # print(csv.style.to_latex(position_float="centering"))
 
+    # print(rozpoznani("Она вообще сказала что-нибудь?", {"Td":["что"]}))
     # rozpoznani_souboru('data/CZ_testing.txt', "config/handmadeCZ.yaml")
     # rozpoznani_souboru('data/DE_testing.txt', "config/handmadeDE.yaml")
     # rozpoznani_souboru('data/EN_testing.txt', "config/handmadeEN.yaml")
