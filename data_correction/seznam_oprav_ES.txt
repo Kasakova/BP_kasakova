@@ -19,21 +19,3 @@ Qué ponen?	Tu -> Td
 Xenófobo por elección?	Td -> Tu
 Y si le ha pasado algo?	Td -> Tu
 Y si vamos al teatro?	Td -> Tu
-
-
-Doónde esta el que clamaba por el tema?	Td
-Oh queé piensas?	Td
-O queé?	Td
-QUe le falta una desembocadura?	Tu
-Que feliz, que feliz si tuviera yo un desliz?	Tu
-Que hay mucha información, nombres, cargos y trama enrevesada?	Tu
-Que opinion me dan ustedes, creen que es promiscua, muy loca, zorra o que?	Td
-Que quieren, que desean?	Td
-Que tal el linchamiento publico?	Td
-Si se contrata el de 20,000 pesos cual es el monto del deducible?	Td
-Si, los sacerdotes son hombres, o que pensaban?	Td
-Ustedes que piensan?	Td
-Vamos,no?	Tu
-Y aprovechando, para ti que significa la lluvia de ranas?	Td
-Y tú, que papel adoptas?	Td
-Yo solo voy a la caballada! y eso es bueno?	Td
