@@ -6,14 +6,13 @@ def normalizace(veta):
     veta = veta.replace(",", "")
     veta = veta.replace(".", "")
     veta = veta.replace("?", "")
-    # veta = veta.replace("-", "")
     veta = veta.replace("\n", "")
     veta = veta.replace("  ", " ")
     return veta
 
 def split_data(file):
     """Rozdeli data do slovniku podle anotace"""
-    dict = {"Td":[],"Tu": []}
+    dic = {"Td":[],"Tu": []}
     with open(file, encoding="utf-8") as f:
         for line in f:
             line = line.strip()
@@ -25,10 +24,10 @@ def split_data(file):
             line = line[0]
             line = normalizace(line)
             if anot == "d":
-                dict["Td"].append(line)
+                dic["Td"].append(line)
             if anot == "u":
-                dict["Tu"].append(line)
-    return dict
+                dic["Tu"].append(line)
+    return dic
 
 def freq_dict(wordlist):
     """Pro list slov vrati frekvencni slovnik vsech slov."""
@@ -50,7 +49,7 @@ def words(list, num=None):
     for line in list:
         line = line.split(" ")
         if num is not None:
-            for i in range(min(num,len(line))):
+            for i in range(min(num, len(line))):
                 words.append(line[i])
         else:
             for word in line:
@@ -66,7 +65,7 @@ def freq_words(file,num=None):
 
 
 def make_config(Td_freq, Tu_freq, threshold,percentage, file):
-    """Z frekvencnich slovniku vytvori configuracni soubory."""
+    """Z frekvencnich slovniku vytvori konfiguracni soubory."""
     config = {"Tu": [], "Td": []}
     for key in Td_freq:
         if Td_freq[key] > threshold:
@@ -85,7 +84,17 @@ def make_config(Td_freq, Tu_freq, threshold,percentage, file):
     dump_config(config, file)
     return
 
-if __name__ == '__main__':
-    Td,Tu= freq_words('data/EN_training.txt',2)
-    make_config(Td,Tu,8,0.8, "config/pokus.yaml")
 
+def new_cfg(file):
+    """Vytvori z trenovacich dat optimalni konfiguracni soubor."""
+    Td, Tu = freq_words(file, 2)
+    language = file[file.find("/") + 1:file.find("/") + 3]
+    make_config(Td, Tu, 2, 0.8, "config/" + language+".yaml")
+
+
+if __name__ == '__main__':
+    new_cfg("data/CZ/train.txt")
+    new_cfg("data/DE/train.txt")
+    new_cfg("data/EN/train.txt")
+    new_cfg("data/ES/train.txt")
+    new_cfg("data/RU/train.txt")

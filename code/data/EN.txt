@@ -1801,7 +1801,7 @@ What's the car's horsepower?	Td
 What's the catch?	Td
 What's the damage?	Td
 What's the date today?	Td
-What's the date?	T
+What's the date?	Td
 What's the exchange rate?	Td
 What's the highest mountain in the world?	Td
 What's the hurry?	Td

@@ -163,7 +163,7 @@ At what time?	Td
 How many stops is it from here?	Td
 How old are you?	Td
 How much older is he?	Td
-What's the date?	T
+What's the date?	Td
 Why did you do that?	Td
 Why me of all people?	Td
 Will you be free tomorrow?	Tu

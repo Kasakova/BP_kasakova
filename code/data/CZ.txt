@@ -577,7 +577,6 @@ Co říkal?	Tu
 Co říká hráči slovo charita?	Td
 Co říkáte rozhodnutí čtyřkoalice, že o vládě jednat nebude?	Td
 Co říkáte?	Td
-Co říkáte?	Tu
 Co říkáš?	Tu
 Co šumí uvnitř mušle?	Td
 Co?	Tu
@@ -1835,7 +1834,6 @@ Něco k pití?	Tu
 Něco se děje?	Tu
 Něco se stalo?	Tu
 O co jde Miloševičovi?	Td
-O co jde Miloševičovi?	Tu
 O co jde ve válce, v níž jedním z hlavních cílů je neutrpět žádné ztráty?	Td
 O co konkrétně?	Td
 O co opírám svá tvrzení?	Td
