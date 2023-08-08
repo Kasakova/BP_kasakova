@@ -1,0 +1,39 @@
+tokenizer:
+    spm: 'modely/T5_32k_CCrus.model'
+
+t5_model:
+    pre_trained: "modely/RU/"
+    save_checkpoint: "RU/e0"
+    save_checkpoint_every: 1
+
+dataset:
+    train_tsv: "RU/train.txt"
+    devel_tsv: "RU/valid.txt"
+    test_tsv: "RU/test.txt"
+
+    loader:
+        input_size: 1024
+        output_size: 1024
+        min_batch_size: 2
+        shuffle_window: 1000
+        devel_samples: 1000
+
+training:
+    shared_trainable: False
+    encoder_trainable: True
+
+    n_epochs: 10
+    initial_epoch: 0
+
+    steps_per_epoch: 1000
+
+    learning_rate: 0.01
+    learning_rate_schedule: True
+
+predict:
+    batch_size: 20
+    max_input_length: 512
+    max_output_length: 768
+
+evaluation:
+    metric: match

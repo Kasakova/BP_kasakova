@@ -1,0 +1,32 @@
+dataset:
+  devel_tsv: CZ/valid.txt
+  loader:
+    devel_samples: 1000
+    input_size: 1024
+    min_batch_size: 2
+    output_size: 1024
+    shuffle_window: 1000
+  test_tsv: CZ/test.txt
+  train_tsv: CZ/train.txt
+evaluation:
+  metric: match
+predict:
+  batch_size: 20
+  max_input_length: 512
+  max_output_length: 768
+t5_model:
+  load_checkpoint: CZ/e0
+  pre_trained: modely/CZ/
+  save_checkpoint: CZ/e0
+  save_checkpoint_every: 1
+tokenizer:
+  spm: modely/T5_32k_CCcs.model
+training:
+  encoder_trainable: true
+  initial_epoch: 10
+  learning_rate: 0.01
+  learning_rate_schedule: true
+  n_epochs: 10
+  shared_trainable: false
+  skip_samples: 1017604
+  steps_per_epoch: 1000

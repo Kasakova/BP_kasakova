@@ -1,0 +1,1817 @@
+Wie ist der Wechselkurs?	Td
+Soll ich Ihnen einen Stuhl holen?	Tu
+Wo kann man hier trainieren?	Td
+Wie viele Mitglieder hat eure Familie?	Td
+Was kotzt dich an?	Td
+Willst du mich auf der Nase herumführen?	Tu
+Unglück oder Staatsaktion?	Tu
+Kann ich das Laufband benutzen?	Tu
+Wie kommt das, dass du so ein Glück hast?	Td
+Wie ist Ihre Meinung zu…?	Td
+Können Sie mir helfen, den Neoprenanzug anzuziehen?	Tu
+Hast du das schon einmal probiert?	Tu
+Doch die Schweizer Diplomatie tingelt unverdrossen durch Europa - als Fährtensucher?	Tu
+Was verbindet Sie mit Alexander Rosenblatt?	Td
+Werden Sie schon bedient?	Tu
+Wie schnell kann der Wagen fahren?	Td
+Lässt es sich arrangieren?	Tu
+Welche Telefonnummer hat die Taxizentrale?	Td
+Hat das seinen Zweck erfüllt?	Tu
+Was steckt in der Würzmischung?	Td
+Magst du morgen vorbeikommen?	Tu
+Woher kennen wir uns?	Td
+Wo hast du es versteckt?	Td
+Wer hat gewonnen?	Td
+Wie viel kostet die Karte?	Td
+Wer war an meinem Computer?	Td
+Würde es Sie stören, wenn ich rauche?	Tu
+Für wie lange?	Td
+Welche Dokumente werde ich brauchen?	Td
+Ist in dem Preis auch der Reiseleiter inbegriffen?	Tu
+Hat der Schupo geschimpft?	Tu
+Gibt es hier ein Schwimmbad oder Freibad?	Tu
+Wer macht bei euch den Haushalt?	Td
+Politiker, Monarchen, Generäle oder die Gruppen, Apparate und Organisationen hinter ihnen?	Tu
+Entschuldigen Sie bitte, wo ist hier der nächste…?	Td
+Hast du was mit ihm?	Tu
+Wo ist das Hotelrestaurant?	Td
+Welcher von ihnen gehört dir?	Td
+Bestehen deswegen die Exekutiven in den kantonalen Ratshäusern aus Demagogen, Populisten oder gar Milliardären?	Tu
+Ist das sicher?	Tu
+Kann ich auch einen Anhänger mieten?	Tu
+Wie kommt die EU darauf, dass dergleichen übernational geregelt gehört?	Td
+Also ein Kajütboot?	Tu
+War es nicht Schreiber der mal tönte, wenn er auspackt, wackelt die Republik?	Tu
+Es ist an der Zeit?	Tu
+Können Sie mir helfen, mein Gepäck einzuladen?	Tu
+Ist da was zwischen euch?	Tu
+Wie tief ist dieses Schwimmbecken?	Td
+Kommen Sie mit?	Tu
+Wann kommst du an?	Td
+Wer ist er?	Td
+Oder war der Motor auch luftgekühlt?	Tu
+Wollen wir warten oder gehen wir woandershin?	Tu
+Darf ich Sie kurz stören?	Tu
+Lässig, unattraktiv, einfach nur rücksichtslos oder vielleicht sogar beunruhigend - so ein loses Mundwerk?	Tu
+Können Sie es mir erklären?	Tu
+Hat deine Gabel ein LOCKOUT?	Tu
+Bist du es?	Tu
+Bei weiterer Überlegung doch lieber durchheizen?	Tu
+Wo kommst du denn her?	Td
+Welche Sicherheitsmaßnahmen gibt es?	Td
+Was ist das Ziel Ihres Besuches?	Td
+Ab wann, weis denn wer, was eventuelle Flugzeugentführer vorhaben?	Td
+Darf ich hier rauchen?	Tu
+Was kann ich aus einer Webmaschine herausholen?	Td
+Wie viel bezahlt man pro Tag?	Td
+Haben Sie einen Schlafplatz?	Tu
+Wer konnte das ahnen?	Td
+Wie Bitte?	Tu
+Ein neuer fall von Gräzismus?	Tu
+Gehst du also nicht hin?	Tu
+Ist Afrika, dieser Hort der Finsternis, nicht versunken in Elend, Not und Bürgerkrieg?	Tu
+Was machen Sie beruflich?	Td
+Russlands Weg zurück ins Zarentum?	Tu
+War dieser Kotau vor einem autoritären Regime nötig?	Tu
+Können Sie es sich anschauen?	Tu
+Klug, nicht wahr?	Tu
+Wie zum Beispiel?	Td
+Verstehst du das?	Tu
+Kannst du auf meine Tasche aufpassen?	Tu
+Die Vorteile der Komfortklasse?	Tu
+Bleibst du über Nacht?	Tu
+Was kommt hierhin?	Td
+Und nun?	Tu
+Warum guckst du so?	Td
+Wie viele Eishockeyschläger braucht er eigentlich in der Saison?	Td
+Wohin fahren Sie im Sommer?	Td
+Sehe ich gut aus?	Tu
+Wievielmal habt ihr euch getroffen?	Td
+Ganz bewusst, um ihn bloß nicht als Folterknecht darzustellen?	Tu
+Ist dein Vater zu Hause?	Tu
+Was ist der Sinn davon?	Td
+Bedurfte es großer Überredungskunst Ihrerseits, um Ute Bock für das Filmprojekt zu gewinnen?	Tu
+Wie lange sind Sie verheiratet?	Td
+Ist es ein Tennisplatz mit Sand- oder Betonboden?	Tu
+Sind Sie mir böse?	Tu
+Könnten Sie mir einen Kugelschreiber leihen?	Tu
+Welche Farbe hat es?	Td
+Kannst du mir den Rücken mit Sonnencreme einkremen?	Tu
+Schaffst du das?	Tu
+Wo lebst du denn?	Td
+Haben Sie auch Kinderski?	Tu
+Weis denn jemand ob die Adapter schon im Set beiliegen?	Tu
+Bist du schon fertig mit der Schule?	Tu
+Wie viel haben sie dafür verlangt?	Td
+Kann Erstligist Old Boys Basel am Samstag im Cup von den Problemen beim FC Basel profitieren?	Tu
+Schlank, athletisch, scheinbar zeitlos, unsagbar jung geblieben und immer noch bestens bei Stimme?	Tu
+Gibt es hier einen Ort zum Ausgehen?	Tu
+Was kommt nachher?	Td
+Haben Sie freie Plätze hier?	Tu
+Ist das nicht rein zufällig…?	Tu
+Wie oft fahren Sie hin?	Td
+Warst du dort überhaupt schon mal?	Tu
+Vielleicht wäre da ein authentischer, nostalgischer Ort in intakter Landschaft genau das Passende?	Tu
+Gehört das jemandem?	Tu
+Spüren Sie in Ihrem Geschäft einen weltweiten Konjunkturrückgang?	Tu
+Darf man hier Muscheln sammeln?	Tu
+Und was weiter?	Td
+Wo soll ich es unterschreiben?	Td
+Stritt sich da tatsächlich Kapitän Ballack mit Manager Bierhoff?	Tu
+Gibt es hier einen Aussichtspunkt auf die Stadt?	Tu
+Hilfst du mir es zu tun?	Tu
+Und was hat man davon?	Td
+Organisieren Sie Radtouren?	Tu
+Wer hat das verursacht?	Td
+Ob sie zur Ikone wird wie Alphatier Joschka Fischer?	Tu
+Welchen Browser sollte ich benutzen?	Td
+Können Sie mir bitte den Weg zeigen?	Tu
+Was soll ich damit machen?	Td
+Was ziehst du an?	Td
+Und ist ein Navigationssystem, das aus Distanz und Fahrzeit einen Tarif errechnet, eine Art Taxameter?	Tu
+Bis wann kann ich meine Buchung kostenlos stornieren?	Td
+Habe ich etwas verpasst?	Tu
+Und würde Papa Bruno auch mal auf Brautschau im TV gehen wollen?	Tu
+Sind Liberale zu wohlerzogen, sich dagegen zu wehren?	Tu
+Kommt es darauf an?	Tu
+Willst du mich zum Besten halten?	Tu
+Wie lange dauert der Flug?	Td
+Wissen Sie, mit wem Sie sprechen?	Tu
+Wie viel kostet eine Rückfahrkarte nach…?	Td
+Sind Sie sicher?	Tu
+Magst du nicht zum Abendessen kommen?	Tu
+Amüsierst du dich?	Tu
+Darf ich dich küssen?	Tu
+Wie war sie?	Td
+Wie lange wird die Kur dauern?	Td
+Ist es dort nicht zu teuer?	Tu
+Servus fax, Hast Du schon mal nach den Lieferzeiten bei Canyon angefragt?	Tu
+Haben Sie vielleicht Starthilfekabel mit?	Tu
+Also?	Tu
+Und die Senioren, lassen die sich lieber ordentlich im Bus durchschütteln?	Tu
+Wo kann ich Fahrkarten bekommen?	Td
+Wann kann ich die Rückgabe erwarten?	Td
+Können wir den Stuhl da nehmen?	Tu
+Ist das Terrain schwer?	Tu
+Machen wir halbe-halbe?	Tu
+Warum sollten wir ein Boot auseinanderreißen, das gut funktioniert?	Td
+Wann werden wir landen?	Td
+Ist MY nur stur, neureich frech und abgehoben?	Tu
+Können Sie mir Kleingeld zum Telefonieren wechseln?	Tu
+Hallo. Kann ich mich zu dir setzen?	Tu
+Wie lange vor dem Abflug soll ich am Flughafen sein?	Td
+Bist du gesund?	Tu
+Beherrschen Sie einige Fremdsprachen?	Tu
+Wer hat die Blumen mitgebracht?	Td
+Wann fängst du an?	Td
+Womit soll ich dann weiterfahren?	Td
+Welchen Computer kann ich benutzen?	Td
+Wäre das dann ein linearer Zusammenhang, oder eher logarithmisch?	Tu
+Wo sind bloß die ganzen Menschen hergekommen?	Td
+Darf ich Ihnen eine Erfrischung anbieten?	Tu
+Wo sind die Papiere?	Td
+Passt es Ihnen?	Tu
+Wann könnte ich die Stelle antreten?	Td
+Habt Thermowäsche auch dabei, wenn ja was?	Tu
+Wie viel soll ich abheben?	Td
+Wann werde ich entlassen?	Td
+Na und?	Tu
+Wer war der Architekt?	Td
+Hörst du, was ich sage?	Tu
+Was hast du vor?	Td
+Muss ich mein Haus voll technisieren?	Tu
+Können Sie uns ein Interview geben?	Tu
+Wann ist der Tennisplatz frei?	Td
+Können Sie es mir auf der Karte zeigen?	Tu
+Bist du schon auf?	Tu
+Warum, glaubst du, mögen die Leute so sinnentleerte Sprüche?	Td
+Also pure Otalgie?	Tu
+Was kann ich dazu sagen?	Td
+Wie kann eine solche Zeitbombe, welche ja aktiv ist, auf freien Fuß kommen?	Td
+Wo kann ich Fahrkarten kaufen?	Td
+Auf wie viele Tage Urlaub habe ich Anspruch?	Td
+Können wir bitte noch ein Besteck bekommen?	Tu
+Kann ich bar zahlen?	Tu
+Gibt es hier in der Nähe eine Apotheke?	Tu
+Wurde da das mythologisch besetzte Tohuwabohu von der Wissenschaft entzaubert?	Tu
+Kennen Sie einen Mann namens Mouratidis?	Tu
+Reisten Sie im Auto nach Paris?	Tu
+Hält der Zug in…?	Tu
+Fenster auf oder zu, Heizung zurückdrehen oder durchheizen, Tee am Herd kochen oder mit dem Wasserkocher?	Tu
+Schonmal fön und rubbeln versucht?	Tu
+Sind dies effektive Zahlen oder einfach zwischendurch mal ein bisschen Zweckoptimismus?	Tu
+In welchem Verwandtschaftsverhältnis stehen Sie?	Td
+Na ja, wäre es nicht super, wenn sich Ihr Tablet oder Smartphone genauso bedienen lässt wie Ihr PC?	Tu
+Wo habt ihr euch kennengelernt?	Td
+Rechnest du damit?	Tu
+Nee oder, hab ich jetzt echt nen Grasfleck am Kleid?	Tu
+Kann ich hier ein Boot für einen Tag mieten?	Tu
+Und wie wäre es mit morgen?	Td
+Können Sie uns zu einer guten Kneipe bringen?	Tu
+Ist dir schon wärmer?	Tu
+Wie legt man hier den Rückwärtsgang ein?	Td
+Wie viel wird es kosten?	Td
+Kannst du mit anpacken?	Tu
+Wie wird der finanzielle Mehraufwand aufgeteilt, der durch Hotel, zusätzliche Miete, Waschsalon oder Pendeln entsteht?	Td
+Gibt es noch freie Plätze?	Tu
+Wo bleibt das Berufsrisiko der Soldaten, wo die Solidarität Österreichs?	Td
+Gibt es das in einer anderen Farbe?	Tu
+Natürlich findet Historiker Jobs, nur braucht man dafür ein Geschichtsstudium?	Tu
+Wie ist mein Kontosaldo?	Td
+Ist Eifersucht eine kulturelle Universalie?	Tu
+Können Sie mir bitte mit dem Koffer nach oben helfen?	Tu
+Wem bringt das Nutzen?	Td
+Wie hoch ist die maximale Versicherungsleistung?	Td
+Kann ich es ohne Eis bekommen?	Tu
+Ab welchem Alter können die Kinder…?	Td
+Was ist das?	Td
+Lief sie möglicherweise danach nur noch Amok, um getötet zu werden?	Tu
+Inwiefern ändert sich deren Arbeitsweise, wenn plötzlich Geheimdienste mitmischen?	Tu
+Sind Sie verheiratet?	Tu
+Also will man sie niederschießen dürfen?	Tu
+Wie viel kostet der Strom für einen Tag?	Td
+Dürfen wir noch hinein?	Tu
+Kannst du das Programm starten?	Tu
+Kommt man mit dem Auto hin?	Tu
+Was würde ein neuer Akku kosten?	Td
+Warum nichts hinzutun, kaum etwas wegnehmen?	Td
+Wie lange wird sich das Wetter noch halten?	Td
+Schuf der Staat systematisch ein Umfeld, um günstige klinische Studien durchzuführen?	Tu
+Bist du damit noch nicht fertig?	Tu
+Können Sie mir helfen?	Tu
+Wie oft siehst du ihn?	Td
+Pferd und kutsche?	Tu
+Wer hat es dir gegeben?	Td
+Ist das alles?	Tu
+Wo wären da beispielsweise Schach oder Schiessen zu situieren?	Td
+Wie viel macht das pro Nacht?	Td
+Liberal, liberal light oder doch lieber liberal mit einem Schuss Protektionismus?	Tu
+Freiheitskrieg gegen Spanier einfach vergessen?	Tu
+Wo gibt es auf dem Schiff Toiletten?	Td
+Von wem hast du das?	Td
+Zwingen diese kleinen klugen Köpfe ihre Eltern, sie beim Pauken anzuspornen?	Tu
+Wo soll ich anhalten?	Td
+Mehr Maschinen, mehr Automatisation, noch mehr Jobs und noch weniger Arbeitsplätze?	Tu
+Lackierst du dir die Nägel?	Tu
+In welcher Applikation kann ich die Datei öffnen?	Td
+Was hättest du denn gern?	Td
+Ist eine solche Baute sinnvoll, ist sie ästhetisch vertretbar?	Tu
+Was ist denn das für eine Art?	Td
+Sächsisch oder Angelsächsisch?	Tu
+Hat es Ihnen geschmeckt?	Tu
+Könnten wir vielleicht versuchen, den Hügel zu besteigen?	Tu
+Du verscheißt mich doch, oder?	Tu
+Wer muss die Teile bei euch eigentlich immer zusammenstoppeln?	Td
+Gibt es in der Nähe einen Aquapark?	Tu
+Was aber, wenn man plötzlich anfängt, seine Eltern zu bemuttern?	Td
+Gibt es in der Nähe einige Radwege?	Tu
+Haben Sie eine gute Fahrt gehabt?	Tu
+Ist er ein Heiratskandidat?	Tu
+Sorgst du dafür, dass es rechtzeitig fertig ist?	Tu
+Alles Kalkül, es soll scheppern, ausbaden darf es wer?	Tu
+Gibt es dort einen Schlafwagen?	Tu
+Was hat dich dazu veranlasst?	Td
+Und wenn ich gekommen wäre, hättest du mich bezahlt?	Tu
+Da stiehlt jemand ihr Design/Logo/Uhr und sie sind gnädig dankbar für schäbige 20 Millionen?	Tu
+Genügt es, nach der Konsumation im Restaurant ein Glas zu schnappen, und den Abdruck zu extrahieren?	Tu
+Salonlöwe, armer Schlucker oder nur ein Irrer?	Tu
+Fit, gesund, schlank und schön - fertig abgespeckt aus dem Supermarkt?	Tu
+Tummeln sich hier nur noch Idioten um ihren asozialen Mist loszuwerden?	Tu
+Tut es weh?	Tu
+Wer hat diese Oper komponiert?	Td
+Kannst du das reparieren?	Tu
+Verstehen die Besucher exklusiver Restaurants mehr vom Essen als der Durchschnittsbürger?	Tu
+Übst du bergab auf einer Wiese?	Tu
+Was ist dein Lieblingsessen?	Td
+Wie viel kostet es pro Stunde?	Td
+Könnten Sie mich anschieben?	Tu
+Na ja, wo sind sie eigentlich?	Td
+Ob man da schon behördlicherseits drauf Augenmerk hatte, also ob oder ob nicht?	Tu
+Lösen Sie die Reiseschecks ein?	Tu
+Warum magst du sie nicht mehr?	Td
+Gibt es in der Bibliothek einen Internetzugang?	Tu
+Gibt es Gruppenermäßigungen?	Tu
+Wahre Demokratie - oder eben doch eine arrogante Diktatur, wie ich es der EU voraussage?	Tu
+Schaffst du es allein?	Tu
+Weshalb benutzen die Seile, wenn es Freeclimbing ist?	Td
+Wer besorgt Eintrittskarten?	Td
+Aber so Reizvoll ein Grabstein auch mal sein mag, bitte rock ihn nicht, ok?	Tu
+Hat sie mit ihm geschlafen?	Tu
+Haben Sie keinen anderen?	Tu
+Womit beschäftigen Sie sich?	Td
+Wissen Sie zufälligerweise…?	Tu
+Wirst du mich heiraten?	Tu
+Wer hat dich dazu gebracht?	Td
+Organisieren Sie Ausflüge?	Tu
+Aber wie soll man das denn genau durchprüfen?	Td
+Kannst du es ein bisschen leiser stellen?	Tu
+Kann man hier eine Luftmatratze leihen?	Tu
+Wen wollen Sie sprechen?	Td
+Doch warum steckt die Tessiner CVP in einer Identitätskrise?	Td
+Was bringt es einem Unternehmen, Outplacement einzusetzen?	Td
+Ist es durch die Versicherung gedeckt?	Tu
+Ist es weit von hier?	Tu
+Und warum machen viele Trainer ihre Goalies zum Spielführer?	Td
+Wie lange hält die Sauerstoffflasche?	Td
+Worüber wunderst du dich?	Td
+Hast du Höhenangst?	Tu
+Was kann da durchreiben?	Td
+Machst du dich über mich lustig?	Tu
+Zahlt man im Voraus oder bei der Abfahrt?	Tu
+Kann ich noch einen bekommen?	Tu
+Warum liest du es eigentlich?	Td
+Ist er spontan bis zur Unbedachtsamkeit?	Tu
+Vermisst du nicht das hier?	Tu
+Vertrauen Sie mir?	Tu
+Sind sie schon gekommen?	Tu
+Wohin so eilig?	Td
+Wie komme ich zum Flughafen?	Td
+Gehen wir zu Fuß?	Tu
+Wird das lange dauern?	Tu
+Sind Sie dafür, die gültigen Regeln bei Organspenden umzukehren?	Tu
+Was war zuerst, das Auto oder die Schneekette?	Td
+Rufst du mich mal an?	Tu
+Wie weit ist es von hier?	Td
+Was hat das damit zu tun?	Td
+Können wir hier unsere Wäsche waschen?	Tu
+Wo ist die nächste Werkstatt, bitte?	Td
+Habe ich es dir nicht gesagt?	Tu
+Denn wer bitte überbringt die frohe Botschaft heutzutage noch in einfachen Worten, ganz ohne grosses Brimborium?	Td
+Müssen wir auch Skihelme tragen?	Tu
+Da stimmt, nicht wahr?	Tu
+Freut ihr euch?	Tu
+Hängt das Bild grade?	Tu
+Wie wäre es, zuerst mal Umweltschonende Autos samt anschließenden Recycling zu produzieren?	Td
+Was machst du morgen Abend?	Td
+Wie oft geht er ins Kino?	Td
+Welche Vorwahl hat…?	Td
+Hast du Kleingeld dabei?	Tu
+Könnte mich jemand vom Flughafen abholen?	Tu
+Können wir frische Bettwäsche bekommen?	Tu
+Oder ganz einfach ein müder Wärter, übermannt vom Sandmännchen?	Tu
+Warum hast du es ihm weggenommen?	Td
+Kannst du mir eine Kleinigkeit zum Essen kaufen?	Tu
+Kommt man hier nach…?	Tu
+Brauche ich eine Angelerlaubnis?	Tu
+Können Sie mir helfen, den Wagen zur Seite zu schieben?	Tu
+Wer hat einen Nutzen davon?	Td
+Hast du die Prüfungen bestanden?	Tu
+Umgekehrt mag mann ja auch keine üppig und ungepflegt wuchernde Körperbehaarung bei ihr, oder?	Tu
+Sieht doch aber aus wie ein wilder Auerochse, oder?	Tu
+Zwei Männer mit Arsenik vergiftet?	Tu
+Auch keine grobe Anpeilung?	Tu
+Möchten Sie, dass ich ihn anrufe?	Tu
+Nimmt er Drogen?	Tu
+Hast du dich schon erholt?	Tu
+Was kann ich für Sie tun?	Td
+Heißt es, dass ich jetzt gehen soll?	Tu
+Wie gross ist der Erdumfang?	Td
+Bekommt man den Vorschuss zurück?	Tu
+Was meinst du?	Td
+Ist der Gebrauch von Smileys in privaten Mails infantil/pubertär/ doof/altmodisch?	Tu
+Wolltest du etwas von mir?	Tu
+Wie lange soll es regnen?	Td
+Worum genau geht es bei dieser Arbeit?	Td
+Überschneiden sich diese Speicher eigentlich irgendwie, oder sind die voneinander unabhängig?	Tu
+Ist dir klar, dass…?	Tu
+Wohin damit?	Td
+Wer/was ist Kanoniker?	Tu
+Was hat das mit ihnen zu tun?	Td
+Also gehen wir, oder?	Tu
+Können Sie mich gegen Kaution freilassen?	Tu
+Muß ich nochmal durchstudieren?	Tu
+Hast du alles überprüft?	Tu
+Können Sie mir mit dem Gepäck nach oben helfen?	Tu
+Machst du das für mich?	Tu
+Kann ich die Heizung abdrehen?	Tu
+Sind Sie dafür?	Tu
+Was erlauben Sie sich?	Td
+Wer sind Sie?	Td
+Sind die Billionen US-amerikanisch oder mathematisch?	Td
+Wo ist da ein Temporalsatz?	Td
+Das war er nicht, oder?	Tu
+Kann man hier nur eine Nacht übernachten?	Tu
+Worauf will er damit hinaus?	Td
+Haben Sie es problemlos gefunden?	Tu
+Bekommt man den Betrag zurück?	Tu
+Nee klar, wer vermutet schon Böses in einem unschuldigen Marmorkuchen?	Td
+Wann kommt die Grenze?	Td
+Ist es denn wirklich wirksam?	Tu
+Kannst du reiten?	Tu
+Tat er das bewusst, übte er sich in Stoizismus?	Tu
+Nutzt sie ihre Rundungen etwa als Geheimwaffe, um ihrem Streifen zum Erfolg zu verhelfen?	Tu
+Was führt Sie hierher?	Td
+Gibt es hier einen Drucker?	Tu
+Hältst du mich für dumm?	Tu
+Und was sagt Edelfräulein Angela zu diesem Lapsus?	Td
+Frau Zypresse - haben sie inzwischen herausbekommen, was ein Browser ist?	Tu
+Oder glaubt er ernstlich, man könne den Status quo dauerhaft aufrechterhalten, ohne Aufbegehren, ohne Aufstand?	Tu
+Du hast das nicht gewusst?	Tu
+Hast du die Mädels gesehen?	Tu
+Kann ich schon gehen?	Tu
+Worüber denkst du nach?	Td
+Und sonst bist du gesund?	Tu
+Haben Sie irgendwelche Vorschläge?	Tu
+Wo kann ich den Verlust meines Gepäcks melden?	Td
+Bekommen die dann auch Domains im lokalen Zeichensatz?	Tu
+Wohin hat er das gegeben?	Td
+Kann ich das Auto in einer anderen Filiale lassen?	Tu
+Wo wohnen Sie?	Td
+Was ist mit dem Fernseher passiert?	Td
+Was kannst du dazu sagen?	Td
+Haben Sie mich verstanden?	Tu
+Bist du damit einverstanden?	Tu
+Wer hat Ihnen so etwas gesagt?	Td
+Gibt es denn auch größere Parkplätze, die man trotz Straßensperrung anfahren kann?	Tu
+Worin liegt der Vorteil?	Td
+Bleibt mir also nur, ihr retrospektiv fürs Mobben zu danken, oder?	Tu
+Aber warum Hunde per se in so rustikaler Sprache ablehnen, Pixel?	Td
+Wohin ist er gegangen?	Td
+Wie kommen wir an den öffentlichen Strand?	Td
+Bist du mit jemandem zusammen?	Tu
+Wohin gehen wir?	Td
+Was machen Sie, damit Ingenieurin sein cool wird?	Td
+Wovon ist die Rede?	Td
+Welche Piste würden Sie für Fortgeschrittene empfehlen?	Td
+Wann, wenn nicht jetzt?	Td
+Muss ich alle Felder ausfüllen?	Tu
+Darf ich mir eins nehmen?	Tu
+Welche Zukunftspläne hast du?	Td
+Hören Sie mich?	Tu
+Oder ist er Absolvent einer Hauswirtschaftsschule?	Tu
+Besteht hier Lawinengefahr?	Tu
+Woher weißt du das?	Td
+Darf ich um Ruhe bitten?	Tu
+Warst du schon mal da?	Tu
+Wie lange können Sie Luft anhalten?	Td
+Was mit Einheiraten?	Td
+Ist es was Ernstes?	Tu
+Wohin führt dieser Weg?	Td
+Wie viel wird das ungefähr kosten?	Td
+Wer führt?	Td
+Bezahlen sie gut?	Tu
+Kann ich vorausgehen und oben warten?	Tu
+Gibt es noch weitere Angriffe?	Tu
+Verstehst du den Sinn dieser Vorschrift?	Tu
+So scherz bei Seite, mal im ernst dann ist HEINO auch rechts?	Tu
+Gehen wir ein Bier trinken?	Tu
+Arbeiten Sie in Schichten?	Tu
+Bleiben sie hier über Nacht?	Tu
+Könnte ich mein Gepäck hier lassen?	Tu
+Können Sie es mir umtauschen?	Tu
+Das ist ja wahnsinnig, was?	Tu
+Wo kann ich ein Auto mieten?	Td
+Ist Er oder Sie sportlich engagiert, ein Arbeitstier, Weinliebhaber, Kulturbanause oder ein Öko?	Tu
+Wo ist der nächste Geldautomat?	Td
+Würden Sie mir einen Dienst erweisen?	Tu
+Ist das auch reduziert?	Tu
+Hast du morgen frei?	Tu
+Suchen Sie eine Dauerstellung?	Tu
+Kann man den Turm besteigen?	Tu
+Kostet es Eintritt?	Tu
+Wievielmal am Tag soll ich das nehmen?	Td
+Kommt man hier durch zum Bahnhof?	Tu
+Schalter, ob Reisebüro, Auskunft, oder Autoverleih die ohnedies nicht besetzt sind?	Tu
+Wo ist die Spucktüte?	Td
+Schockierend es ist sicher, aber hydrostatisch?	Tu
+Hast du ihn wegen der Arbeit gefragt?	Tu
+Und auf was muss man nach wie vor achten, um im Urlaub nicht unnötig Geld zu vertelefonieren?	Td
+Was treiben sie denn da?	Td
+Können Sie laut und deutlich sprechen?	Tu
+Haben wir jemanden vergessen?	Tu
+Kannst du mir das vergeben?	Tu
+Wie viel kostet eine Warteminute?	Td
+Was für ein Mensch ist er?	Td
+Gehört es nicht sowieso zu jeder künstlerischen Profilierung, vieles abzulehnen, wegzulassen?	Tu
+Ist er am Leben?	Tu
+Ist eine andere Versicherung im Preis inbegriffen?	Tu
+Die initiative behebt keine Schwächen? haben die Linken überhaupt ein Argument gegen diese Initiative?	Tu
+Können Sie jemanden anrufen, der mich abschleppt?	Tu
+Wo finde ich…?	Td
+Muskelfaserriss? oder anriss?	Tu
+Worum geht es?	Td
+Welche Farbe möchten Sie?	Td
+Welche Technologie ist besser, LCD oder Plasma?	Td
+Sie wünschen bitte?	Tu
+Baskisch ist nicht indogermanisch?	Tu
+Was ist daran so seltsam?	Td
+Stört es Sie nicht, wenn…?	Tu
+Was hat ihn dazu gebracht, seinen Namen zu ändern?	Td
+Verkaufen Sie Briefmarken?	Tu
+Du siehst Aasen nich gerne?	Tu
+Kann man ihm vertrauen?	Tu
+Warum in aller Welt?	Td
+Kann ich mit dem Auto das Land verlassen?	Tu
+Gebäck in den Tee stippen?	Tu
+Feiern Sie dieses Jahr Fasching und sind als Schotte, Hippie, Stewardess oder Indianer verkleidet?	Tu
+Kann ich es mir ansehen?	Tu
+Ist Antifaltencreme besser als normale Feuchtigkeitscreme?	Tu
+Können Sie herausfinden, wo es ist?	Tu
+Hätte sich China so schnell industrialisieren können ohne deutsche Investitionsgüter?	Tu
+Wohin kommt der Stuhl?	Td
+Ein Konzept, das sich Graz abpausen soll?	Tu
+Ich gehe zum Fußball. Gehst du mit?	Tu
+Wo kann ich dieses Buch besorgen?	Td
+Fiktionalisieren Sie die Dokumentation dadurch?	Tu
+Welche Schuhgröße hast du?	Td
+Wirklich?	Tu
+Wie tief darf man tauchen?	Td
+Wo können wir das Zelt aufschlagen?	Td
+Wo hast du sie zum ersten Mal gesehen?	Td
+Gibt es hier interessante Klippen unter Wasser?	Tu
+Hast du ein Problem damit?	Tu
+Hat es irgendwelche Nebenwirkungen?	Tu
+Wo endet die Privatsphäre, wo beginnt Schnüffelei, nein, wo beginnt Überwachung?	Td
+Ist das Frühstück im Preis inbegriffen?	Tu
+Hat er eine feste Freundin?	Tu
+Können wir einen Kühlschrank mieten?	Tu
+Ist dieser Flug mit Zwischenlandung?	Tu
+Wer von euch kommt?	Td
+Oder war der oben genannte Effekt nur ne Einzelerscheinung?	Tu
+Erkennst du den Unterschied zwischen…?	Tu
+Sie kommt nicht, wollen wir wetten?	Tu
+Können Sie mir eine detaillierte Rechnung geben?	Tu
+Ist die Hin- und Rückfahrkarte günstiger?	Tu
+Hast du etwas gefunden?	Tu
+Wen juckt's?	Td
+Beißt der Hund?	Tu
+Können Sie es mir bitte einpacken?	Tu
+Warum hat er eigentlich angerufen?	Td
+Wovor fürchtest du dich?	Td
+Eher kooperativ oder wetteifernd?	Td
+Wie lange muss ich auf den Anschluss warten?	Td
+Wie oft muss ich zur Kontrolle kommen?	Td
+Eignet sich Dural auch?	Tu
+Benutzen Sie Sparbirnen?	Tu
+Wie lange wird es dauern?	Td
+Kann man hier ein Schneemobil leihen?	Tu
+Sie kennen doch Heinrich von Kleists Essay über das Marionettentheater?	Tu
+Wann komme ich an die Reihe?	Td
+Ist das überhaupt menschenmöglich?	Tu
+Macht der Gelbe Riese, ein Staatsbetrieb, ungehörig Druck auf seine Leute?	Tu
+Können Sie hier kurz warten?	Tu
+Führst du mich an der Nase herum?	Tu
+Schossen beide beschuldigten Brüder?	Tu
+Haben Sie noch weitere Fragen?	Tu
+Ein Kolabaum?	Tu
+Haben Sie auch reduzierte Ware?	Tu
+Aber warum riskieren diese jungen Menschen es, sich ins soziale Abseits zu katapultieren?	Td
+Wechseln Sie tschechische Kronen?	Tu
+Also, für Dich ist es unökonomisch, ein Produkt dort anzubauen, wo es die besten Bedingungen gibt?	Tu
+Um wie viel Uhr können Sie das Frühstück servieren?	Td
+Wie viel Geld hast du?	Td
+Das Tongeschlecht?	Tu
+Haben Sie etwas Billigeres?	Tu
+Mit wem darf ich darüber sprechen?	Td
+Wollen Sie mitfahren?	Tu
+Hast du ein Kondom?	Tu
+Kommt man per Auto hin?	Tu
+Hätten Sie etwas Billigeres?	Tu
+Spielst du Gitarre?	Tu
+Bringst du uns hin?	Tu
+Kann ich den Fernseher einschalten?	Tu
+Um wie viel Uhr beginnt das Spiel?	Td
+Gibt es hier einen näheren Flughafen?	Tu
+Wie lange dauert die Fahrt?	Td
+Wo steckst du denn?	Td
+Ab wann ist man ein Lobbyist, wann ein einfacher Staatsbürger, mit dem Recht, seine Anliegen einzubringen?	Td
+Fräulein Hand, die olle schlunze?	Tu
+Wann werden Sie Zeit haben?	Td
+Mit welchem Einstiegsgehalt kann ich rechnen?	Td
+Wo kann ich mein Gepäck abholen?	Td
+Welche Hose und Schuhüberzieher würdet Ihr empfehlen?	Td
+Wie ist es dir ergangen?	Td
+Fiese Erpressung oder ein neues Gaunerstück?	Tu
+Na, wie siehst du es?	Td
+Nehmen Sie Zucker?	Tu
+Kann man hier eine Fahrradkarte kaufen?	Tu
+Kannst du das tragen?	Tu
+Kennen Sie meine Frau?	Tu
+Muss ich wirklich kommen?	Tu
+Bist du bis hierher zu Fuß gekommen?	Tu
+Sie hatten also noch genügend Benzin, um überhaupt loszufahren?	Tu
+Wie sollten Universitäten mit Studierenden umgehen, die spicken oder plagiieren?	Td
+Warum läuft eigentlich der George W Bush noch frei herum?	Td
+Aber ob nun alle Arbeitslosen über 50 den Hatschi wählen werden?	Tu
+Sie arbeiten gerne im Team, übernehmen Verantwortung, sind hilfsbereit und lieben Herausforderungen?	Tu
+Hat er dir die Frage beantwortet?	Tu
+Wann soll ich es nehmen?	Td
+Weißt du es nicht?	Tu
+Können Sie mir einige Beinübungen zeigen?	Tu
+Liegt es im Bedarf an Unfehlbarkeit, der dem religiösen System innewohnt?	Tu
+Und was, wenn nicht?	Tu
+Wie wird das Wetter?	Td
+Lässt du die Fische zurück?	Tu
+Haben Sie bemerkt, dass…?	Tu
+Das Ende der Blockpolitik?	Tu
+Wann treffen wir uns?	Td
+Wie schaltet man den Tempomat ein?	Td
+Wie konnte ich das wissen?	Td
+Wer also hat soviel Pinke, Pinke?	Td
+Wohin führt uns diese Kombination von Spielsucht und Börsengeschäft?	Td
+Wer ersetzt ihn?	Td
+Wem gehört das?	Td
+Wo gehst du zur Schule?	Td
+Um wie viel Uhr fängst du an zu arbeiten?	Td
+Darf ich euch etwas zum Trinken anbieten?	Tu
+Wie viel Zeit haben wir?	Td
+Kannst du es von dem Regal runternehmen?	Tu
+Was ist der Sinn des Lebens?	Td
+Irgendwoher muß ja der Fettbauch kommen, oder?	Tu
+Kannst du auf dieses Lehrbuch verzichten?	Tu
+Fährt dieser Bus nach…?	Tu
+Kennen Sie sich hier aus?	Tu
+Wie kann es ihnen nur Spaß machen?	Td
+Wie lange dauert eine Rundfahrt?	Td
+Erinnert es dich an etwas?	Tu
+Wie ist es verlaufen?	Td
+K wie Kind, wohlgeraten?	Tu
+Bisher gab es doch glaublich kein solches in Gmunden, oder?	Tu
+Was ist der beste Köder für Wels?	Td
+Talglicht neben Lagerfeuer?	Tu
+Wie kann man wohl bei Taschenlampen empfehlen die mit Batterie funktionieren?	Td
+Wie viel hast du ausgegeben?	Td
+Wie lange wollen Sie mich hier halten?	Td
+Kann ich Ihren Fitnessraum benutzen?	Tu
+Wann passt es Ihnen?	Td
+Wohin würden Sie diese Pflanze zuordnen?	Td
+Welches Bier haben Sie denn?	Td
+Wann erfahre ich die Testergebnisse?	Td
+Bist du im Urlaub oder dienstlich hier?	Tu
+Haben Sie noch eine andere E-Mail-Adresse?	Tu
+Wo tut es Ihnen weh?	Td
+Ist dort der Zimmerservice?	Tu
+Wessen wollen Sie mich beschuldigen?	Td
+Soll ich dich in die Stadt fahren?	Tu
+Wie hängt das zusammen?	Td
+Gibt es hier Probleme mit Hooligans?	Tu
+Wie viel Verunglimpfung, Denunziation und Betrug geschieht aus Idealismus?	Td
+Darf ich schon gehen?	Tu
+Wann besucht ihr uns?	Td
+Wie denkst du darüber?	Td
+Darf ich auch mit?	Tu
+Wie ist der Stand des Spiels?	Td
+Ob Papa Roger ihnen da vielleicht sogar einen Sandkuchen baut?	Tu
+Gibt es während der Rundfahrt einen Vortrag?	Tu
+Warum konnte er es mir nicht direkt sagen?	Td
+Wer kennt ihn nicht vom Bildschirm, den smarten Talkmaster?	Td
+Was wolltest du damit beweisen?	Td
+Wie viel misst es?	Td
+Was soll diese Frage?	Td
+Die schwarze Leinwald als Denkmal, aus Pietät vor den Opfern?	Tu
+Wie viele Leute werden dort sein?	Td
+Was aber machen Langzeitkranke, die Krankengeld beziehen?	Td
+Zupfst du dir die Augenbrauen?	Tu
+Zumal er, wie Messner mittlerweile, fünf Museen sein Eigen nennt?	Tu
+Hast du von ihnen gehört?	Tu
+Hat daran überhaupt jemand Interesse?	Tu
+Ist Herr Ullrich eine Spielernatur?	Tu
+Gibt es hier in der Nähe eine Tankstelle?	Tu
+Ist die wichtige linke Herzkammer, die den Körperkreislauf mit Blut versorgt, vergrössert?	Tu
+Wie heißt diese Straße?	Td
+Kann ich die Fahrkarte im Zug kaufen?	Tu
+Wo kommst du her?	Td
+Wie siehst du denn aus?	Td
+Wie kann ich auf meine Mailbox zugreifen?	Td
+Hat sie ein optisches Zoom?	Tu
+Und was ist mit ihm?	Td
+Wird eine Stornogebühr berechnet?	Tu
+Kann ich Sie sprechen?	Tu
+Was war die spektakulärste Überziehung, die Sie je erlebt haben?	Td
+Wird es wehtun?	Tu
+Welche Größe ist das?	Td
+Worüber lachst du?	Td
+Wo ist hier die Umkleidekabine, bitte?	Td
+Ist das dein Ernst?	Tu
+Fährst du mit uns?	Tu
+Was können Homöopathie und Ganzheitsmedizin?	Td
+Kennt ihr euch?	Tu
+Und wie viel zahlt ein Junior bei Y B als Jahresbeitrag?	Td
+Dürfen wir uns zu Ihnen setzen?	Tu
+Trinkst du Leitungswasser?	Tu
+Wie ist die Adresse hier?	Td
+Hat der Wagen eine Klimaanlage?	Tu
+Können Sie es wiederholen?	Tu
+Was tust du damit?	Td
+Wollt ihr, dass ich das mache?	Tu
+Passt das Kleid, sitzt der Hut, wo sind eigentlich die guten Manschettenknöpfe?	Tu
+Ist es warm draußen?	Tu
+Wo soll ich umsteigen?	Td
+Warum gerade ich?	Td
+Also: wer weiß wie die Jungs ihr Geld wiederkriegen?	Td
+Hamburg: Den Weg in die Disco freischießen?	Tu
+Ist es schon so spät?	Tu
+Wo kann man das kaufen?	Td
+Wann kommen wir zurück?	Td
+Wie arbeitet ein Druckkochtopf?	Td
+Was können Sie mir empfehlen?	Td
+Was willst du dafür?	Td
+Meldet sich jemand freiwillig?	Tu
+Möchten Sie etwas trinken?	Tu
+Wie lange dauert die Bearbeitung der Reklamation?	Td
+Können Sie ihm bitte meine E-Mail weiterschicken?	Tu
+Oder hat Johannisbrot zuviel Zucker?	Tu
+Was sollten wir unbedingt sehen?	Td
+Bis wann muss ich das Auto zurückgeben?	Td
+Wie ist das Spiel ausgegangen?	Td
+Wieso solltest du hingehen?	Td
+Was köchelt noch in Eurer Giftküche Ihr Traumtänzer?	Td
+Kannst du blindschreiben?	Tu
+Wie viel kostet eine ermäßigte Fahrkarte?	Td
+Schliefen Sie gut?	Tu
+Tragen Sie eine Brille?	Tu
+Wie haben sie das angegangen?	Td
+Wirst du eine Rede halten?	Tu
+Wollen wir tanzen?	Tu
+Können Sie mir dieses Parfüm zeigen?	Tu
+Trifft sie, bös gesagt, ins Schwarze unserer aller rassistischen Abgründe?	Tu
+Kennst du mich auf einmal nicht mehr?	Tu
+Wann ist die Welt entstanden?	Td
+Hast du einige ältere Ausgaben?	Tu
+Sprechen Sie Englisch?	Tu
+Ohne Titel Zitat von Bongo Gefängnis oder Irrenanstalt?	Tu
+Möchtest du ein Stück Kuchen?	Tu
+Was fällt dir denn ein?	Td
+Sind das normale AAs oder irgendwelche speziellen?	Tu
+Wie lange hält der Zug hier?	Td
+Kann ich mir Ihre Pumpe leihen?	Tu
+Wie schnell darf man hier fahren?	Td
+Wirst du zu Weihnachten zu Hause sein?	Tu
+Wann soll ich aussteigen?	Td
+Darf man hier fotografieren?	Tu
+Was will er denn überhaupt von dir?	Td
+Der Wievielte ist heute?	Tu
+Wie viel kostet ein Zweibettzimmer pro Nacht?	Td
+Welche Beweise gibt es gegen mich?	Td
+Haben Sie Bier vom Fass?	Tu
+Wie viel kann man dadurch verdienen?	Td
+Wird es sich langfristig bewähren?	Tu
+Ist dieser Tisch frei?	Tu
+Warum werden illegal kopierte Datenträger als Raubkopie bezeichnet?	Td
+Kannst du ihn kurz aufhalten?	Tu
+Und was ist mit den anderen Leuten?	Td
+Wo ist der beste Angelplatz?	Td
+Was quält dich?	Td
+Ist das für mich?	Tu
+Bis wann werdet ihr es brauchen?	Td
+Woher hast du das?	Td
+Schönen Faschingsdienstag noch liebe Ameise, gehst Du heute als Ameise?	Tu
+Benutzt jemand diesen Computer?	Tu
+Welche Qualifikation ist erforderlich?	Td
+Hast du eine Idee?	Tu
+Wo kann ich Ersatz für verlorenes Gepäck beanspruchen?	Td
+Wie breit ist es?	Td
+Was gab es da nicht alles an Liebeskummer und ödem Warten, an Abenteuerlust und Nonkonformismus?	Td
+Wer weiß, was uns das nächste Jahr mitbringt?	Td
+Könnten Sie mir die Kanten schleifen?	Tu
+Wo finde ich den Wagenheber?	Td
+Und was nun?	Td
+Wie sollen wir dir dann glauben?	Td
+Hast du den Pulli anprobiert?	Tu
+Wann können Sie zum Einstellungsgespräch kommen?	Td
+Können Sie mich in die Stadt fahren?	Tu
+Wer ist daran schuld?	Td
+Wie viel kostet die Erlaubnis für eine Woche?	Td
+Oder war es dezimierend?	Tu
+Und von Niger aus die Sabotage des neuen Systems in Libyen organisieren?	Tu
+Wie hoch wäre die Kaution?	Td
+Woher kommen Sie?	Td
+Kann man hier ein Boot mieten?	Tu
+Wie groß sind Sie?	Td
+Wo ist die nächste Haltestelle?	Td
+Würde die SVP sich fortan querlegen, wo sie nur kann, und damit die Politik blockieren?	Tu
+Sind Sie verwandt?	Tu
+Für wann verabreden wir uns?	Td
+Soll ich dich irgendwohin fahren?	Tu
+Kocht es schon?	Tu
+Können Sie das näher bestimmen?	Tu
+Von welcher Suppe sprechen Sie, Killerbiene?	Td
+Was würden Sie mir raten?	Td
+Können Sie den Kofferraum öffnen?	Tu
+Darf ich Sie darauf aufmerksam machen, dass…?	Tu
+Können Sie mir aus dem Wasser helfen?	Tu
+Wie soll ein Akkreditiv aussehen?	Td
+Wie ist Ihr Name, bitte?	Td
+Glaubt man ihr eigentlich, die laufen als Einäugige grüne Wesen herum?	Tu
+Siehst du das auch so?	Tu
+Wo bekomme ich die Mehrwertsteuer rückerstattet?	Td
+Für wie viel Geld?	Td
+Und wenn ihr Euch so aufregt, wieso schaut ihr euch Popstars an oder lest Artikel darüber?	Td
+Sie, der Beförderer positiven Sinns?	Tu
+Haben Sie Verwandte im Ausland?	Tu
+Was bleibt mir übrig?	Td
+Flippern - Sport oder doch nur reine Geldverschwendung?	Tu
+Nehmen wir einen Wodka?	Tu
+Sollten vor Gott denn nicht alle gleich sein - egal ob Hetero - Lesbisch - Homosexuell oder Bisexuell?	Tu
+Gibt es hier einen Pool mit Gegenstromanlage?	Tu
+Können Sie mir dafür eine Tasche geben?	Tu
+Wer bitte ist hier schlafmützig?	Td
+Wann überschreiten wir die Grenze?	Td
+Was will sie von dir?	Td
+Schafft es jeder Künstler, sich wieder zu entknoten, oder passieren auch Unfälle?	Tu
+Können Sie es mir bitte aufschreiben?	Tu
+Kann sein Körperchen, das nun noch dünner wirkt als beim Giro, diese Strapazen verarbeiten?	Tu
+Wie geht es deiner Alten?	Td
+Darf man hier trampen?	Tu
+Wie lange arbeiten Sie dort?	Td
+Wird man Ausflüge mit einem Tauchschiff unternehmen?	Tu
+Wer ist das Mädel?	Td
+Wie kann ich Ihnen noch helfen?	Td
+Hat er dir was angetan?	Tu
+Hatte er Geschlechtsverkehr mit ihr?	Tu
+Wie verstehen Sie das?	Td
+Wie wäre es mit einem Konzert?	Td
+Wo hast du die aufgegabelt?	Td
+Wie kommen wir zum Stadion?	Td
+Verschwindet Irland, das weniger als ein Prozent der EU-Bürger darstellt, vom Radarschirm der Respektabilität?	Tu
+Espresso, Filterkaffee oder doch lieber löslicher Kaffee?	Td
+Was erzählst du denn?	Td
+Ist er verrückt?	Tu
+Schreibst du dich mit jemandem?	Tu
+Wie groß ist der Tank?	Td
+Gibt es in der Nähe einen Aussichtspunkt?	Tu
+Sie wollen auch im Obergeschoss an allen Wänden flexibel möblieren?	Tu
+Kannst du das Fenster öffnen?	Tu
+Hältst du ihn für deinen Freund?	Tu
+Willst du mich ärgern?	Tu
+Wie alt bist du?	Td
+Gibt es hier einen Wäschetrockner?	Tu
+Was willst du denn damit?	Td
+Wer hat es dir befohlen?	Td
+Liebst du ihn noch?	Tu
+Ihr wisst das nicht?	Tu
+Können Sie mir bitte ein paar Euro leihen?	Tu
+Können Sie mir Bescheid sagen, wenn wir da sind?	Tu
+Wie viel hast du dafür ausgegeben?	Td
+Darf ich dich zum Mittagessen einladen?	Tu
+Wer hatte Vorfahrt?	Td
+Oder stehen uns die Pillendreher, generell im Wege?	Tu
+Warum hält Europa an dieser aussichtslosen Politik fest?	Td
+Wo soll ich euch rauslassen?	Td
+Was macht das zusammen?	Td
+Sind Sie Evolutionist?	Tu
+Gibt es hier eine Privatunterkunft?	Tu
+Woran denkst du?	Td
+Was kann man sich noch wünschen?	Td
+Können Sie uns ein bisschen in der Stadt spazieren fahren?	Tu
+Wann endet es?	Td
+Haben Sie Beschwerden?	Tu
+Gibt es dort einen behindertengerechten Zugang?	Tu
+Temporäre Nothilfe oder Sozialrente?	Tu
+Habe ich mich klar ausgedrückt?	Tu
+Ist das der Zug nach…?	Tu
+Was macht das für einen Sinn?	Td
+Hättest du eine Minute für…?	Tu
+So ein Scheibenkleister, was nun?	Tu
+Kann ich etwas gegen Schmerzen bekommen?	Tu
+Vielleicht wird der 10 Monate alte Pimpf später auch mal Bauingenieur?	Tu
+Was wird es ändern?	Td
+Ausgerechnet sie, deren Verbände jahrein, jahraus vom System profitieren?	Tu
+Wie lange gilt die Garantie?	Td
+Ist er jetzt badisch, italienisch, französisch oder gar ein bisschen spanisch?	Tu
+Wo liegt die Grenze zwischen Babyspeck, aus dem die Kinder herauswachsen, und Übergewicht?	Td
+Und seine Mutter duldet es?	Tu
+Und was genau braucht man eigentlich, um Spezialist für Harfe, Fagott oder Posaune zu werden?	Td
+Du bleibst hier nicht lange, nicht wahr?	Tu
+Wozu dann noch vielleicht vorweg Ängste schüren, wenn das Horoskop etwas Negatives aufzeigt?	Td
+Darf ich dein Auto nehmen?	Tu
+Oder, wie es die Berliner Autorin Ada Blitzkrieg mal ausdrückte?	Td
+Wie kommen wir zu der tschechischen Botschaft?	Td
+Du bist nicht hingegangen, nicht wahr?	Tu
+Würden Sie so nett sein und…?	Tu
+Darf ich es mit an Bord nehmen?	Tu
+Aber ist das nicht pietätlos gegenüber den Millionen Griechen ohne Job, ohne Krankenversicherung, ohne Perspektive?	Tu
+Könnten Sie sie mir einstellen?	Tu
+Darf die politisch korrekte Domina schwarze Kunden auspeitschen?	Tu
+Können Sie mir ein Taxi bestellen?	Tu
+Gibt es etwas Neues?	Tu
+Hm, denke ich, aber Gefrorenes kann ja nicht schimmeln, oder?	Tu
+Da fragen Sie noch?	Tu
+Braucht sie nicht radikal andere Strukturen, um ihre Botschaft zu tradieren?	Tu
+Ist das nicht egal?	Tu
+Wie kann ich den Makromodus einstellen?	Td
+Bis wie viel Uhr müssen wir das Zimmer verlassen?	Td
+Kann man hier Fahrräder leihen?	Tu
+Könnte man es irgendwie machen?	Tu
+Wen suchen Sie?	Td
+Gibt es in unserem Zimmer eine Dusche?	Tu
+Welche Konsequenzen wird er ziehen, falls der Versuch, Iran mit Sanktionen vom Bau einer Atombombe abzuhalten, scheitert?	Td
+Wie kommen wir zu dem Skilift?	Td
+Wievieltes Bier trinkst du schon?	Td
+Warum wurde meine Reklamation zurückgewiesen?	Td
+Wieso sind in en Moscheen der Türkei hier die türkischen Nationalflaggen?	Td
+Kann ich noch eine bekommen?	Tu
+Liebe, Wacholderschnaps und Anerkennung?	Tu
+Kann ich mir diesen Markierer leihen?	Tu
+Wo denkst du hin?	Td
+Wie gehe ich es an, wird beim ersten Hammerschlag gleich zuviel abbröckeln?	Td
+Darf ich Sie kurz unterbrechen?	Tu
+Friert es hier nachts?	Tu
+Müssen die jetzt jedem Rotzlöffel die ABC Benimmregeln beibringen?	Tu
+Wie lang ist der Film?	Td
+Was, wenn ihr etwas passiert ist?	Tu
+Kannst du A von B nicht unterscheiden?	Tu
+Darf man hier oben ohne sonnen?	Tu
+Was soll ich tun?	Td
+Wie viele Male war Madonna auf Platz eins der deutschen Charts, wie oft die schwedische Popgruppe Abba?	Td
+Nach der wievielten Generation wäre es hygienischer, sich eine neue anzuschaffen?	Tu
+Wo hat er das her?	Td
+Könnten wir frische Handtücher bekommen, bitte?	Tu
+Woher die brachiale Aggression Meiers gegen den feinfühligen Autoren?	Td
+Darf ich mitfahren?	Tu
+Kann ich bitte Ihren Führerschein sehen?	Tu
+Wie viel zahlt man für einen Jet-Ski?	Td
+Karlsruhe macht Ferien - aber warum Malle, Kreta oder die große Kreuzfahrt?	Tu
+Habt ihr noch irgendwelche kniffe auf Lager?	Tu
+Wo gibt es auf dem Schiff eine Wechselstube?	Td
+Bist du schon einmal im Theater gewesen?	Tu
+Mit wem hast du letztens telefoniert?	Td
+Habt ihr genug gehabt?	Tu
+Wie viel nehmen Sie pro Kilometer?	Td
+Ob solcher Kleinmut, der in grossen Kleingeist mündet, so etwas wie Blindheit in unser aller Wohlstand symbolisiert?	Tu
+Noch nicht ganz wach, mein Alterchen?	Tu
+Wo hört der Schutz auf, wo beginnt die Protektion?	Td
+Können wir noch ein paar Decken bekommen?	Tu
+Wie ist die Chance, dass er gefunden wird?	Td
+Ist denn das die Möglichkeit?	Tu
+War es schwierig, Ihrer Familie zu erklären, dass sie fortziehen, um Model zu werden?	Tu
+Wie fühlst du dich?	Td
+Können Sie mich kurz entschuldigen?	Tu
+Wie viel Stück?	Td
+Kannst du sie auswechseln?	Tu
+Regnet es noch?	Tu
+Was genau meinst du?	Td
+Wie spricht man dieses Wort aus?	Td
+Wie war dein erster Eindruck…?	Td
+Ein neuer Moneymaker?	Tu
+Und wie kann die Kirche erklären, man dürfe Homosexuelle nicht diskriminieren, und ihnen zugleich verordnen, keusch zu leben?	Td
+Wie lange bleibst du?	Td
+Du arbeitest für ihn, richtig?	Tu
+Machst du es jedes Mal so?	Tu
+Darf ich mich vorstellen?	Tu
+Ein orientalisches Rauchzimmer, hier?	Tu
+Woraus besteht Königswasser?	Td
+Hast du eine Ahnung, wie sie hieß?	Tu
+Wie viele PS hat das Auto?	Td
+Gibt es hier irgendwo einen Fahrkartenautomaten?	Tu
+Wer ist dafür zuständig?	Td
+Was machst du heute Abend?	Td
+Wird die Sandler Hinterglasmalerei bald zum immateriellen, nationalen Kulturerbe erklärt?	Tu
+Kann ich eine Nachricht für ihn hinterlassen?	Tu
+Was schlagen Sie vor?	Td
+Und du, was ist mit dir?	Td
+Sorry, aber nennt sich das nicht Androgyn?	Tu
+Hast du das verstanden?	Tu
+Könnten Sie uns Karten für morgen Abend besorgen?	Tu
+Verleihen Sie Boote?	Tu
+Darf ich bitten?	Tu
+Ist er ledig oder verheiratet?	Tu
+Wie ist das möglich?	Td
+Willst du auf dem Pferd reiten?	Tu
+Mit wem möchten Sie reden?	Td
+Wie viele Jahre sind das jetzt?	Td
+Oder reicht auch ein Wimpel im Auto oder ein Leibchen im Kleiderschrank?	Tu
+Wie lange wohnst du hier?	Td
+Willst du mich veralbern?	Tu
+Was ist die nächste Haltestelle?	Td
+Was würde passieren, wenn ich es ihm sagen würde?	Td
+Sie wollen uns schon verlassen?	Tu
+Kennen Sie ein Wort mit Purpur, Reif, Trauer oder Silber am Anfang?	Tu
+Wissen Sie etwas von…?	Tu
+Gibt es einen Tierzuschlag?	Tu
+Gibt es einen Schutzgeist?	Tu
+Womit fangen wir an?	Td
+Was werde ich alles brauchen?	Td
+Wo ist der Check-in-Schalter?	Td
+WAS würden sie tun? zufrieden daheim fernsehen, und den Reichen beim Rauben zusehen?	Td
+In welchem Jahr?	Td
+Rauchen Sie?	Tu
+Wann wird man im offenen Wasser tauchen?	Td
+Aber welche ist die Richtige?	Td
+Vögeln, Ficken, Bumsen - woher kommt das eigentlich?	Td
+Leben Ihre Eltern noch?	Tu
+Führte der Panslawismus in den 1990er Jahren auch zum Krieg in Ex-Jugoslawien?	Tu
+Warum so vornehm sein: und nicht dazwischenrufen?	Td
+Kann Ergotherapie sie in ihrer Selbständigkeit zu Hause unterstützen?	Tu
+Kannst du ein Geheimnis für dich behalten?	Tu
+Kann ich Unterkunft für zwei Nächte bekommen?	Tu
+Kommt man auch mit dem Auto hin?	Tu
+Was für ein Material ist das?	Td
+Ein Goldstück, zehn, tausend, eine Million oder vielleicht dein Leben?	Tu
+Kann man mehr als zwei Augen zukneifen, um diese Tatsachen zu ignorieren?	Tu
+Mit wem spreche ich?	Td
+Kennst du dich ein bisschen mit Motoren aus?	Tu
+Mit wem gehst du?	Td
+Hast du Tickets?	Tu
+Haben sie etwas miteinander?	Tu
+Asiatischer Bambusbär mit fünf Buchstaben?	Tu
+Wie komme ich zu der nächsten Haltestelle Richtung Stadtzentrum?	Td
+Hast du noch den Garantieschein?	Tu
+Darf man hier rauchen?	Tu
+Geschafft?	Tu
+Was machen wir damit?	Td
+Wann kann ich sie erreichen?	Td
+Wo habe ich den Fehler gemacht?	Td
+Wie lange dauert die Schifffahrt?	Td
+Muss ich fortfahren?	Tu
+Welche Größe haben Sie?	Td
+Und wie am Ende Jackett, Hemd, Einstecktuch und Krawatte optimal kombinieren?	Td
+Was ist im Preis inbegriffen?	Td
+Gibt es eine direkte Verbindung nach…?	Tu
+Mit wem war sie dort?	Td
+Gibt es hier eine Klimaanlage?	Tu
+Welche sind die besten Bauchübungen?	Td
+Reparieren Sie Digitalkameras?	Tu
+Was ist deine Lieblingsfarbe?	Td
+Kennst du die ewig lange Treppe in der Nähe vom Sendeturm?	Tu
+Hast du je darüber nachgedacht, dich niederzulassen?	Tu
+Gilt dein Angebot immer noch?	Tu
+Kann ich es gebrauchen?	Tu
+Führst du mich auf der Nase herum?	Tu
+Und was bedeutet das, um auf unsere einleitenden Gedanken zurückzukommen, für die Automobilindustrie?	Td
+Hab ihr noch Vorschläge, durch welche Events die World Tour komplettiert werden könnte?	Tu
+Denkt man darüber nach, zivile Langstreckenflüge mit Luftbetankung durchzuführen?	Tu
+Wer hat so viel Pinkepinke?	Td
+Seid ihr gut angekommen?	Tu
+Wie legen Sie Trauerarbeit an, was empfinden Sie bei Begräbnissen?	Td
+Vater Albaner, Mutter Albanerin, und das soll ein Remix sein?	Tu
+Als Bauchtänzerin, in Ordnung, hm, ja also und jetzt?	Tu
+Wo sind wir? Wie heißt die Haltestelle?	Td
+Darf ich das Fenster aufmachen?	Tu
+Können Sie es für mich herausfinden?	Tu
+Haben Sie eine Uhr?	Tu
+Die Angst vor dem Atomtod, in Japan, auch bei uns?	Tu
+Wollen wir noch ein trinken gehen?	Tu
+Nur so aus Neugier: wie heißt denn Maschinenbauingenieur auf Altdeutsch, oder zumindest auf Hochdeutsch?	Td
+Kennen wir uns?	Tu
+Wie feiern wir den Höhepunkt, den fetten Blütenboden?	Td
+Was ist los?	Td
+Woher wissen Sie das?	Td
+Kann ich hier meinen Tennisschläger bespannen lassen?	Tu
+Wollt ihr im Kamin heizen?	Tu
+Ist das weit von hier?	Tu
+Wie viel kostet das?	Td
+Hast du überhaupt eine Ahnung…?	Tu
+Könnten Sie mir bitte Ihr Skiwachs leihen?	Tu
+Ist hier frei?	Tu
+Wer betreut eure Kinder?	Td
+Wie schnell fahren wir?	Td
+Was benötigt man für Akut, Gravis und Zirkumflex?	Td
+Wo ist die nächstgelegene Unterkunft?	Td
+Wer spielt die Hauptrolle?	Td
+Können Sie mich zur Polizei bringen?	Tu
+Darf ich das Sakko ablegen?	Tu
+Könnten wir uns treffen?	Tu
+Was ist ein Drudenfuß?	Td
+Wieso stehen Sie zur Ausrottung von Bären, Wölfen, Luchsen oder Indianern?	Td
+Könnte ich mitspielen?	Tu
+Was, denkst du, motiviert Leute dazu, für dein Magazin ihren Penis oder ihre Vagina zu fotografieren?	Td
+Wann ist das passiert?	Td
+Kommt unser Zug pünktlich?	Tu
+Oder nur ein langer Marsch in die Versklavung durch das Kapital?	Tu
+Wie entwickelt sich das?	Td
+Wie ist es Ihnen passiert?	Td
+Er hat uns erzählt, wie?	Tu
+Kannst du es mir verzeihen?	Tu
+Was wird von mir erwartet?	Td
+Kannst du dir eine Krawatte binden?	Tu
+Reicht es Ihnen?	Tu
+Können Sie es mir per E-Mail schicken?	Tu
+Hast du das Auto gewaschen?	Tu
+Halt. Wer da?	Td
+Warum wurde eigentlich die digitale Puppenstube trotz der eher schlichten Grafik zu einem so grossen Verkaufserfolg?	Td
+Möchten Sie noch?	Tu
+Zum Kontrollieren, ob meine Messer noch komplett im Messerblock sind?	Tu
+Hast du einen Ort zum Bleiben?	Tu
+Wie soll ich es verstehen?	Td
+Willst du Kaffee oder Tee?	Tu
+Was wünschen Sie?	Td
+Magst du klassische Musik?	Tu
+Darf ich mit?	Tu
+Kann ich das Flugticket für den nächsten Flug benutzen?	Tu
+Was bedeutet es, wenn Sie ein Stück koproduzieren?	Td
+Können wir hier ein Zelt aufschlagen?	Tu
+Hast du in deinem Zimmer Staub gewischt?	Tu
+Hast du es?	Tu
+Wo ist der Paketschalter?	Td
+Schossen sie gleichzeitig?	Tu
+Wie ist das passiert?	Td
+Wohin fahrt ihr in den Urlaub?	Td
+Herr Vogt, gibt da die SVP den Zauberlehrling, dem die Kontrolle entgleitet?	Tu
+Ist für diese Strecke ein Mountainbike besser?	Tu
+Wie erkennt man Falschgeld?	Td
+Wollen wir wetten?	Tu
+Ab ob Oma es wohl schätzen würde, wenn Opa auf einmal ihr wieder den Hengst machen würde?	Tu
+Sind Sie geschäftlich oder privat hier?	Tu
+Ein rechtes Parteibuch ohne Ahnung ist ja wohl mindestens so verabscheuungswürdig, oder nicht?	Tu
+Nehmen Sie irgendwelche Medikamente?	Tu
+Doch ist die Komödie, in der der nordkoreanische Diktator brutal umgebracht wird, überhaupt sehenswert?	Tu
+Weshalb sind denn die Römer, Phönizier, Spartaner alle trotz hochgerüsteten Heeren untergegangen?	Td
+Ab wie vielen Jahren?	Td
+Hat dir der Film gefallen?	Tu
+Kann mir jemand zeigen, was genau meine Arbeit ist?	Tu
+Sind hier auch Pisten für Anfänger?	Tu
+Gibt sich eine Putzfrau nicht auch mühe bei Ihrem Job?	Tu
+Oder, wie Frau Oheim es ausdrückt?	Td
+Hast du Träume?	Tu
+Wovor hast du Angst?	Td
+Würdest du es glauben?	Tu
+Wer hätte es von ihr gedacht?	Td
+Wer spielt heute Abend?	Td
+Hat er sie geheiratet?	Tu
+Oder gibts ne leinwand?	Tu
+Wann hast du sie zum letzten Mal gesehen?	Td
+Wenn ein Gezeitenkraftwerk Hochtechnologie ist, was ist dann erst ein Atomkraftwerk?	Td
+Wann wurde die Kirche gebaut?	Td
+Wie soll ich diese Anspielung von ihm verstehen?	Td
+Können Sie mir bitte helfen, die Tür zu öffnen?	Tu
+Hab' ich Sie geweckt?	Tu
+Können wir es verschieben?	Tu
+Wie oft werden Sie mit dem Vorurteil, Sie hätten Ihre Muskeln Steroiden zu verdanken, konfrontiert?	Td
+Lust auf eine Velotour, gut organisiert, aber ohne allzu viel Gepäck, Gruppenzwang und Begleitfahrzeug?	Tu
+Du hast es ihm gesagt, nicht wahr?	Tu
+Lässt es sich verkürzen?	Tu
+An wen soll ich mich wenden?	Td
+Wie geht es Ihrer Familie?	Td
+Immer gleich losschimpfen, oder wie?	Td
+Schläfst du?	Tu
+Da hat wohl jemand ein bisschen Paranoia von wegen Russenmafia, nicht, Herr Müller?	Tu
+Wievielter ist er eingekommen?	Td
+Der Kultfilm als Musical, Rocky und Apollo singend und tanzend?	Tu
+Wer ist für die Post verantwortlich?	Td
+Hast du dazu etwas zu sagen?	Tu
+Was ist schlecht daran?	Td
+Würdest du mir bitte helfen?	Tu
+Wo ist das nächste Krankenhaus?	Td
+Wie hält man das durch, all die Jahre im Gegenstrom?	Td
+Können Sie uns unser Zimmer zeigen?	Tu
+Kann ich meine Waschtasche hier lassen?	Tu
+Was sind Ihre Hobbys?	Td
+Piraten steuern backbord - richtiger Kurs?	Tu
+Wen interessiert es?	Td
+Könnten wir uns das Haus ansehen?	Tu
+Haben sie beim Zocken um Milliarden mehr Skrupel als Männer?	Tu
+Was fressen Katzen?	Td
+Woraus ist das hergestellt?	Td
+Können Sie meinen Akku wieder aufladen?	Tu
+Was verdienst du pro Jahr?	Td
+Wird das Teil gebürstet, gestrahlt, poliert, mattiert?	Tu
+Wäre es nicht besser zu warten?	Tu
+Hast du es ihm schon erklärt?	Tu
+Hast du gut geschlafen?	Tu
+Hast du die Karten gekauft?	Tu
+Gibt es ein Rezept, um kluge Tipps von Allgemeinplätzen zu unterscheiden?	Tu
+Warst du schon einkaufen?	Tu
+Warum mögen manche Kinder nur Schnitzel, andere wiederum ausschließlich Palatschinken und Schokolade?	Td
+Kannst du einen Handstand machen?	Tu
+Warum hast du das getan?	Td
+Siehst du es auch?	Tu
+Würde es Sie stören, wenn ich hier rauche?	Tu
+Wo sitzen wir?	Td
+Darf man hier ins Wasser springen?	Tu
+Haben Sie vielleicht einen Benzinkanister mit?	Tu
+Worauf willst du damit hinaus?	Td
+Ein Reifezeugnis für die Demokratie oder ein Beweis für ihre Unbeständigkeit?	Tu
+Zu welchem Schalter soll ich gehen?	Td
+Habt ihr darüber schon gesprochen?	Tu
+Werden sie lange bleiben?	Tu
+Wo ist der nächste Skilift hier?	Td
+Geht es um mich?	Tu
+Nimmst du Schlafmittel?	Tu
+Muss man hier fürs Parken zahlen?	Tu
+Wo ist die nächste Telefonzelle?	Td
+Instrumentale Rockmusik ohne falschen Pathos?	Tu
+Menschen von fernher?	Tu
+Können Sie mir helfen, den Sitz herunterzuklappen?	Tu
+Das sagt dir nichts?	Tu
+Oder bestimmte Positionen in einer Firma, ein Vorbestrafter?	Tu
+Ist der Platz frei?	Tu
+Ist es eine Konkubine, ein Modell?	Tu
+Kann ich die getrost fortschmeißen?	Tu
+Sie müssen Arbeiten, zum Friseur, ins Krankenhaus, haben einfach mal keine Lust ausgiebig Gassi zu gehen?	Tu
+Bestehen Sie darauf?	Tu
+Wie lange muss ich noch warten?	Td
+Willst du mich anmachen?	Tu
+Wann fährt die nächste Fähre?	Td
+Ist für mich etwas übrig geblieben?	Tu
+Was bedeutet es?	Td
+Kann sich Europa Faulenzerei leisten, wenn Asien es zu überflügeln droht?	Tu
+Hat die SVP je verlauten lassen, wieviel Zuwanderung es in ihrer Ansicht nach erträgt?	Tu
+Was bedeutet Läsion in diesem Zusammenhang?	Td
+Können Sie bitte die Rechnung überprüfen?	Tu
+Können Sie mich zu einer Tankstelle bringen?	Tu
+Es geht mir gut. Und Ihnen?	Tu
+Wann fliegst du denn?	Td
+Hast du ein wenig Zeit?	Tu
+Wo ist der nächste Bahnhof?	Td
+Wer ist an der Reihe?	Td
+Kann man hier ein Fahrrad mieten?	Tu
+Welche Auswirkungen wird das auf die Kinder haben?	Td
+Was habt ihr denn hier angestellt?	Td
+Haben Sie sich nie überlegt umzuziehen, um Steuern zu sparen?	Tu
+Angst, als das männliche Pendant einer alten Jungfer zu enden?	Tu
+Haben Sie einen Wunsch?	Tu
+Wie erklären Sie sich den Schwenker der CVP?	Td
+Gibt man sich hier, an diesem Ort der Privilegien, zweifelnd, weil Posen und Possen sich schlecht machen zurzeit?	Tu
+Gibt es hier in der Nähe ein Warenhaus?	Tu
+Sprechen Sie mit mir?	Tu
+Welches Bier gibt es denn?	Td
+Wie hat es Ihnen gefallen?	Td
+Wo genau liegt der Unterschied zwischen Shorts, Boxershorts und Badehosen?	Td
+Kann er lesen?	Tu
+Sie wollen trotzdem weiter kugelstoßen?	Tu
+Was verlangst du?	Td
+Oder ist jeder Schornsteinfeger, Richter, Anwalt gleich ein Satanist?	Tu
+Warum hüpfen Kinder gerne, schlagen Purzelbäume und kreischen auf der Achterbahn vor Vergnügen?	Td
+Versprochen?	Tu
+Ist es ernst?	Tu
+Ist es wirklich schon so spät?	Tu
+Gibt es überhaupt irgendeine Möglichkeit, wie…?	Tu
+Denn, wer isst heute noch regelmäßig Griebenschmalz?	Td
+Können wir aufs Oberdeck gehen?	Tu
+Wo ist der Sicherungskasten?	Td
+Wären Sie so nett und könnten Sie das Fenster öffnen?	Tu
+Machen Sie mit?	Tu
+So viel?	Tu
+Wie viele Haltestellen sind es noch?	Td
+Ist das nicht zu viel?	Tu
+Und was bringt es?	Td
+Wo ist die Gepäckaufbewahrung?	Td
+Warum ist die Makrobiotik in Deutschland nicht populärer, obwohl die biologische Ernährung boomt?	Td
+Passt es Ihnen morgen um drei?	Tu
+Können wir eine kurze Pause machen?	Tu
+Es ist kalt, nicht wahr?	Tu
+Wo unterziehe ich mich dieser Untersuchung?	Td
+Wievielmal muss ich das noch sagen?	Td
+Osterhase oder gar ein Schneehase?	Tu
+Was zum Geier ist der ÖKOLOGISCHEN UMBAU DER GESELLSCHAFT? werden wir zu Mutanten?	Td
+Soll ich es mitnehmen?	Tu
+Notfalls würde ich auf Kabel downgraden, hat jemand Erfahrung damit?	Tu
+Soll ich den Computer ausmachen?	Tu
+Performances wiederaufführen, und erst noch von anderen?	Tu
+Wer ist darauf gekommen?	Td
+Wie sind die Arbeitsbedingungen?	Td
+Wäre er mit gut 500 Euro grade noch selbstlos, mit 800 Euro aber schon ein skrupelloser Raffke?	Tu
+Was für Beschwerden haben Sie?	Td
+Zahlen Sie bar oder mit Scheck?	Tu
+Was ist der Unterschied zwischen…?	Td
+Wie viel verdienst du im Monat?	Td
+Wird es eine große Hochzeit sein?	Tu
+Wieso müssen sich die SBB im Zug jetzt auch noch als Kuppler betätigen?	Td
+Wie haben sie es erfahren?	Td
+Gibt es noch so etwas wie Putativ Nothilfe?	Tu
+Einverstanden?	Tu
+Muss man eine Erlaubnis haben?	Tu
+Allein: ist solche Aussicht nicht illusionär?	Tu
+Wann soll ich da sein?	Td
+Was führst du im Schilde?	Td
+Hallo, eventuell haben Sie die Feststelltaste aktiviert?	Tu
+Wie sagt man es auf Deutsch?	Td
+Akzeptieren Sie diese Schecks?	Tu
+Wie viel Geld soll ich umtauschen?	Td
+Wann haben Sie Besuchszeit?	Td
+Kommen Sie von weit her?	Tu
+Wer hätte gedacht, dass sogar egomane Rapper ein Poesiealbum führen?	Td
+Kann man in dem See baden?	Tu
+Was beinhaltet die Besichtigung?	Td
+Er war unter den Letzten, die?	Tu
+Können wir eine Probefahrt machen, um zu sehen, ob es in Ordnung ist?	Tu
+Hast du dein Bett gemacht?	Tu
+Warum zum Geier beschmutzen sie unser Land dann immer wieder als Bananenrepublik?	Td
+Für wen hältst du mich?	Td
+Kann ich früher kommen?	Tu
+Hast du genug Geld, um es kaufen zu können?	Tu
+Wo ist hier eine Drogerie?	Td
+Wie sind ihre Überlebenschancen?	Td
+Warum ist das pöbelhaft?	Td
+Wie groß ist es?	Td
+Können Sie uns das Abendessen aufs Zimmer bringen?	Tu
+Verstehst du keinen Spaß?	Tu
+Wie anstrengend ist die Wanderung?	Td
+Gibt es hier eine Tauchschule?	Tu
+Gibst du mir deine Nummer?	Tu
+Wer hat dir das erzählt?	Td
+Gibt es Eurerseits Empfehlungen für einen Fahrradträger an PKW OHNE ANHÄNGERKUPPLUNG?	Tu
+Was suchen Sie?	Td
+Können Sie mich um sieben Uhr wecken, bitte?	Tu
+Ob er künftig das Tor des FC Basel auch zum halben Salär hütet?	Tu
+Was würden Sie empfehlen?	Td
+Baut sich ein Hochspringer mit linkem Sprungbein, sein Gaspedal am Auto denn auch auf links um?	Tu
+Was wollen Sie trinken?	Td
+Sind die Taxis teuer hier?	Tu
+Wo finde ich einen Lappen und einen Eimer?	Td
+Warum drehen sich die Uhrzeiger rechts herum?	Td
+Wäre SS vorne + hinten so unratsam?	Tu
+Können Sie uns unsere Kajüte zeigen?	Tu
+Hättest du Lust zu kommen?	Tu
+Wie kann man echtes Leder von Kunstleder unterscheiden?	Td
+Kann man hier gefahrlos tauchen?	Tu
+Wann sind Sie geboren?	Td
+Wer ist da?	Td
+Was sind sie nur für ein Primitivling?	Td
+Mit wem möchten Sie sprechen?	Td
+Wie macht man hier einen Apostroph?	Td
+Wann werden wir da sein?	Td
+Habt ihr euch schon geküsst?	Tu
+Ist das Bockspringen?	Tu
+Dann ist Ihr Vorschlag, auf Strafverfolgung bei Greisen zu verzichten, Ausdruck Ihrer Hochachtung vor dem Rechtsstaat?	Tu
+Ist das deine Frau?	Tu
+Wo werden wir schlafen?	Td
+Können Sie die Sicherung wieder einschalten?	Tu
+Wo anders, wenn nicht hier?	Td
+Können Sie es irgendwie näher beschreiben?	Tu
+Warum solche Eile?	Td
+Um wie viel Uhr sind Sie da?	Td
+Was meinen Sie dazu?	Td
+Können Sie mir bitte zeigen, wie es funktioniert?	Tu
+Wer ist das?	Td
+Für wen hältst du dich?	Td
+Können wir unser Essen in den Kühlschrank tun?	Tu
+Können Sie mir bitte helfen?	Tu
+Oh heiliger Bimbam, bleibt uns nichts mehr erspart?	Tu
+Können Sie dafür sorgen, dass wir es bekommen?	Tu
+Bist du schon damit fertig?	Tu
+Können Sie mir das Telefonbuch leihen?	Tu
+Moment mal, wer ist das?	Td
+Warum vertrauen sie uns nicht?	Td
+Warum fängt er jetzt davon an?	Td
+Wie würdest du es beschreiben?	Td
+Wann fängst du an zu arbeiten?	Td
+Du hast es ihm verkauft, ne?	Tu
+Sitzen Sie bequem?	Tu
+Wer sind die Leute?	Td
+Erinnerst du dich?	Tu
+Sind Batterien dabei?	Tu
+Wo soll ich die Fahrkarte entwerten?	Td
+Wieso wird also ein Buch über hochdeutsche Ausdrücke junger Leute aus Deutschland hier angepriesen?	Td
+Kommt es mir nur so vor, oder ist es hier kalt?	Tu
+Was ist das Vermessenheit, Naivität, Dummheit, Selbstüberschätzung?	Td
+Werden Sie morgen Zeit haben?	Tu
+Gibt es hier einen Nichtraucherraum?	Tu
+Soll man Öl vergessen, oder stecken in dem Rohstoff noch ungeahnte Chancen und Entwicklungsmöglichkeiten?	Td
+Soll ich ihm etwas ausrichten?	Tu
+Wie begründet die OECD die Extrawurst für die USA?	Td
+Woher zieht es so?	Td
+Wo kann man hier parken?	Td
+Warum hast du das gemacht?	Td
+Hat sich da jemand n spaß gemacht, un dir die immer verstellt?	Tu
+Wie lange betrügst du sie schon?	Td
+Wie viel können wir daran verdienen?	Td
+Überredet das euch jetzt nach AC zu kommen?	Tu
+Wie viele Kilometer sind im Preis mit inbegriffen?	Td
+Wären Sie interessiert?	Tu
+Muss man schon kochen können, um Ihre Rezepte am heimischen Herd hinzukriegen?	Tu
+Wie lange wollen Sie mich hier festhalten?	Td
+Was kostet das?	Td
+Was für ein Tag ist morgen?	Td
+Warten Sie auf mich?	Tu
+Ist euch mal aufgefallen, wie viel Iraker etc. bei jedem Mordanschlag hopsgehen?	Tu
+Droht dem Mountainbiker das selbe Schicksal wie dem Haselhuhn in Baden-Württemberg?	Tu
+Wie ist das Wetter bei euch?	Td
+Ach ja, unterlass doch bitte diese Hetze, ja?	Tu
+Verleihen Sie Tauchgeräte?	Tu
+Komme ich ungelegen?	Tu
+Morgen in einer Woche?	Tu
+Bin ich ein böser Relativist, wenn ich so etwas schreibe?	Tu
+Wie viel wiegt das?	Td
+Was ist das überhaupt für Gewinde? zoll oder metrisch?	Td
+Mit wem lebt er dort?	Td
+Habe ich dich jemals belogen?	Tu
+Bist du vom Mond gefallen?	Tu
+Ist er noch am Leben?	Tu
+Wer hat dir das Autofahren beigebracht?	Td
+Hat er die Sprechstundenhilfe, also die mit dem Attest, tatsächlich geheiratet?	Tu
+Oder nur die kreative Vorwegnahme guter Vorsätze?	Tu
+Was planst du für morgen?	Td
+Kannst du für mich einspringen?	Tu
+Sehen wir uns jemals wieder?	Tu
+Wo soll ich es bezahlen?	Td
+Ein Steirer hat mir diese Karre noch abgekauft, vielleicht fährt sie nun in Slowenien?	Tu
+Ist der Skipass für alle diese Pisten gültig?	Tu
+Wie soll man sonst, wie allseits gefordert, den Kanton vorwärtsbringen?	Td
+Was läuft?	Td
+Wievielmal bist du mit dem Flugzeug geflogen?	Td
+Wer meldet sich?	Td
+Was guckst du?	Td
+Im Ernst?	Tu
+Hast du dir die Zähne geputzt?	Tu
+Bekommt man hier die Überstunden bezahlt?	Tu
+Sind Sie Herr…?	Tu
+Wie kann ich den Text markieren?	Td
+Hier stellt sich die Frage: War es ein Unfall?	Tu
+Könnten nach dem DB auch die SBB künftig auf osteuropäische Anbieter setzen?	Tu
+Und das sagt wer?	Td
+Ist das Auge Gottes, das alles sieht, ein Kontrollorgan?	Tu
+Nehmen Sie mich mit?	Tu
+Magst du zum Eishockey gehen?	Tu
+Wem liegt daran?	Td
+Kann ich den Blitz ausprobieren?	Tu
+Wohin möchten Sie gehen?	Td
+Warum musste er es ihm ausgerechnet jetzt sagen?	Td
+Bringen Sie mich hin?	Tu
+Wo kann ich selbst nachhaltige Techniken gebrauchen, um deren Fortschritt zu befördern, beginnend bei der Energie spar Lampe?	Td
+Was tun wir mit den Resten?	Td
+Was ist der höchste Berg der Welt?	Td
+Hast du dich auf der Party gut amüsiert?	Tu
+Was soll jetzt dieser polemische Heiterkeitsausbruch?	Td
+Im wievielten Monat ist sie schwanger?	Td
+Wohin fährt dieser Bus?	Td
+Wie viel kann es kosten?	Td
+Wie möchten Sie bezahlen? Zusammen oder getrennt?	Td
+Warum nicht?	Td
+Ist es nicht zu schwer für dich?	Tu
+Wirkt Milch unter dem Strich basisch oder sauer, bzw. entzieht es dem Körper Mineralstoffe?	Tu
+Haben Sie einen Termin?	Tu
+Wo gibt es hier Müllcontainer?	Td
+Kann ich es anprobieren?	Tu
+Was versuchst du da?	Td
+Kannst du mir beim Bankdrücken helfen?	Tu
+Lebt jeder der zum nächsten Kaufladen einen Kilometer laufen muss menschenunwürdig?	Tu
+Kann ich es leihen?	Tu
+Wie soll es seriöse Investoren geben die zusagen, das absehbar dritte Desaster zu finanzieren?	Td
+Und dann müssen sie dabeibleiben, um ihr Geld zu schützen, nicht?	Tu
+Bomben auf den Iran, abgefeuert aus deutschen U-Booten mit israelischer Flagge?	Tu
+Kannst du mit einem Schrotgewehr umgehen?	Tu
+Was gefällt dir daran nicht?	Td
+Radial und Lateral?	Tu
+Noch jemand gebefreudig?	Tu
+Ist hier in der Nähe ein Krankenhaus?	Tu
+Können Sie mir auf der Karte zeigen, wo wir jetzt sind?	Tu
+Können Sie es den anderen ausrichten?	Tu
+Seid ihr eingeladen?	Tu
+Warum tauchen wir alles freiwillig in Sepia?	Td
+Gibt es hier eine öffentliche Toilette?	Tu
+Was kosten die Tickets?	Td
+Wo ist hier die Kasse?	Td
+Wann wollen Sie es zurückhaben?	Td
+Können Sie mir eine Spritze geben?	Tu
+Hat die irische Airline wegen Reichtums geschlossen oder gar Betriebsferien?	Tu
+Warum nutzen die Pappnasen dann nicht diese starke Meeresströmung?	Td
+Können Sie es für mich nachprüfen?	Tu
+Wen interessiert das?	Td
+Ob sie kugelfest ist?	Tu
+Verstehen Sie mich?	Tu
+Ist die Studie also ein Symptom der schrillen englischen Debatte zwischen Progressiven und Traditionalisten?	Tu
+Kannst du Klavier spielen?	Tu
+Kann man hier irgendwo angeln?	Tu
+Warum nicht abtrennen, aufspalten, Geschäftsfelder verkaufen, funktional trennen?	Td
+Holen Sie mich ab?	Tu
+Und wie war das weiter?	Td
+Haben wir euch tatsächlich abgehängt, unterdrückt, an die Lehrer verpetzt?	Tu
+Kannst du deinen Arm bewegen?	Tu
+Was wünscht du dir?	Td
+Wer kann das getan haben?	Td
+Hast du den Witz verstanden?	Tu
+Haben Sie ein freies Zimmer?	Tu
+Und wie geht es weiter?	Td
+Machst du Witze?	Tu
+Wo soll ich es hinlegen?	Td
+Also ja?	Tu
+Soda als Fleckentferner?	Tu
+Hat sie überhaupt etwas gesagt?	Tu
+Wann hast du ihn das letzte Mal gesehen?	Td
+Wo können wir eine Stadtrundfahrt buchen?	Td
+Dummejungenstreich oder schwere Straftat?	Tu
+Können Sie mir sagen…?	Tu
+Wann kann ich kommen?	Td
+Können wir uns vom Weg entfernen?	Tu
+Kann ich dieses Handtuch benutzen?	Tu
+Stimmt es, dass Buben öfter von Hyperaktivität betroffen sind als Mädchen?	Tu
+Riechst du das?	Tu
+Kann ich mit der Karte bezahlen?	Tu
+Können wir uns hier kurz aufhalten und umsehen?	Tu
+Wo verbringen Sie den Urlaub?	Td
+Ist es schon in Betrieb?	Tu
+Push to talk - in Deutschland gerade eingeführt - Sie kennen es schon lange aus den USA?	Tu
+Wer ist gefahren?	Td
+Warum wurde von Seehofer der schwammige Begriff teilweise nicht genauer spezifiziert?	Td
+Kann man hier irgendwo Tennis spielen?	Tu
+Wäre das möglich?	Tu
+Wie kam Roland Ss an den Generalschlüssel?	Td
+Welche Muskel trainiert diese Übung?	Td
+Kannst du mir vorsagen?	Tu
+Darf ich Ihnen noch einschenken?	Tu
+Wie steht es mit uns?	Td
+Ist der Smart Sam immer indonesisch?	Tu
+Glaubst du an Gott?	Tu
+So etwas nennst du ein gutes Abendessen?	Tu
+Was meinst du mit schwimmen. geradeaus oder in Kurven wegrutschen / schmieren? bei welchem Untergrund?	Td
+Wie ist es passiert?	Td
+Willst du rutschen gehen?	Tu
+Kann jemand für mich ein Benutzerkonto eröffnen?	Tu
+Wie viele Haltestellen sind es von hier?	Td
+Ist die Haftpflichtversicherung im Preis inbegriffen?	Tu
+Wie bezahlen Sie Regisseure/Dramaturgen/Dirigenten/Stab und Technik?	Td
+Was hast du denn auf dem Herzen?	Td
+Habt ihr etwas zu essen?	Tu
+Können wir uns morgen um fünf Uhr nachmittags treffen?	Tu
+Was empfindet ihr füreinander?	Td
+Nehmen Sie Bier, Wein oder etwas Scharfes?	Tu
+Hast du das angemeldet?	Tu
+Welche Sprache wünschen Sie sich?	Td
+Hätten Sie einen Moment Zeit für uns?	Tu
+Was hat er?	Td
+Oder vielleicht Metal lurge?	Tu
+Wohin gehen wir morgen Abend?	Td
+Ist es dir nicht zu kalt?	Tu
+Wie nennst du das?	Td
+Sagt er die Wahrheit?	Tu
+In welche Klasse gehst du?	Td
+Beißen sie an?	Tu
+Um wie viel Uhr fahren wir ab?	Td
+Ist es gelungen?	Tu
+Was meinen Sie damit?	Td
+Können Sie mir bitte die Handschellen abnehmen?	Tu
+Kannst du es dir vorstellen?	Tu
+Wo sind unsere Sitzplätze?	Td
+Geile Action, erstklassiger Schnitt, super Locations - was will man mehr?	Tu
+Ob daraus die deutsche Zervelatwurst wurde?	Tu
+Wird das reichen?	Tu
+Wann kommen wir nach…?	Td
+Welcher andere Ort wäre also geeigneter, um den Bodensee zu erkunden?	Td
+Wollt ihr fernsehen?	Tu
+Wie lange fährt man in die Stadt?	Td
+Wo soll ich das ausladen?	Td
+Haben Sie schon gewählt?	Tu
+Können Sie bitte die tschechische Botschaft darüber informieren, was passiert ist?	Tu
+Heute Abend wieder mal ankern inne Spelunke?	Tu
+Obwohl, hatte die Mama als Kind nicht auch diesen, zwar nicht ganz so krassen, Eierkopf?	Tu
+Wo können wir einige Informationen über die Stadt bekommen?	Td
+Ist das zulässige Gepäckgewicht pro Person begrenzt?	Tu
+Haben Sie Fitnessgeräte hier?	Tu
+Wie wirkt es auf dich?	Td
+Kann man auf dem Schiff etwas zum Essen und Trinken bekommen?	Tu
+Welche örtlichen Sehenswürdigkeiten können Sie uns zur Besichtigung empfehlen?	Td
+Ob ich den Präser je brauchen werden?	Tu
+Zum Thema arbeiten nur doofe bei der Bahn, gegenfrage gibt hier auch doofe im Chat?	Tu
+Während der Dienststunden?	Tu
+Gehen wir heute Abend aus?	Tu
+Kannst du mir Geld vorstrecken?	Tu
+Stört es Sie, wenn ich das Fenster aufmache?	Tu
+Hast du jetzt frei?	Tu
+Gibt es hier einen Sportplatz?	Tu
+Ist diese Differenz unüberbrückbar, weil Basel viermal mehr Umsatz macht?	Tu
+Was lässt sich da machen?	Td
+Soll ich das Licht anmachen?	Tu
+Welchen möchtest du?	Td
+Was sind Sie von Beruf?	Td
+Wie viele Liter passen in die Flasche rein?	Td
+Was ist der Wirkstoff dieses Medikaments?	Td
+Wie sollte ich es wissen?	Td
+Was studierst du denn?	Td
+Spielen wir ein Doppel?	Tu
+Wie lautet das Passwort?	Td
+Affenmensch in Polen gefilmt?	Tu
+Du willst mich wohl verarschen?	Tu
+Was verdienst du im Monat?	Td
+Du warst dort nicht, oder?	Tu
+Können Sie mich zur nächsten Tankstelle bringen?	Tu
+Gibt es hier jemanden, der mir mit der Reparatur helfen kann?	Tu
+Wie viel beträgt die Stornogebühr?	Td
+Auch zweimal am Tag Sitzbad und sonst was, ja?	Tu
+Bin ich jetzt so eine Art Strohwitwe?	Tu
+Obwohl, warum nicht?	Td
+Wenn ja, wie kommt der Geist Jesu in die Textilie?	Td
+Hast du dich mit Sonnencreme eingekremt?	Tu
+Was war die Hausaufgabe?	Td
+Kann ich unbezahlten Urlaub nehmen?	Tu
+Was soll ich tun, wenn ich Probleme habe?	Td
+Kannst du den Tisch decken?	Tu
+Muss ich einen Fahrradhelm tragen?	Tu
+Schaffen wir es?	Tu
+Sind Ihre Dokumente in Ordnung?	Tu
+Sie suchen die passende Geschenkverpackung für USB Sticks, Schmuck, Werbeartikel, Kugelschreiber und Visitenkarten?	Tu
+War das wirklich nötig?	Tu
+So, nun höre ich aber auf mit dem schulmeistern?	Tu
+Was kochst du?	Td
+Beschert uns die Biometrie das Ende der Anonymität?	Tu
+Bringen Sie mich zum Bahnhof?	Tu
+Was redest du denn da?	Td
+Kann ich mitgehen?	Tu
+Was können Sie uns empfehlen?	Td
+Du hast was getan?	Tu
+Kann man irgendwo in der Nähe Lebensmittel kaufen?	Tu
+Was hast du damit erreicht?	Td
+Woher kommst du?	Td
+Hat dieses Hotel einen eigenen Strand?	Tu
+Kann man hier campen?	Tu
+Hast du Lust, Billard zu spielen?	Tu
+Wo ist der Speisewagen?	Td
+Darf man hier mit Harpune fischen?	Tu
+Kann ich es durchstreichen?	Tu
+Sind Sie das erste Mal hier?	Tu
+Kann ich dich zu einem Drink einladen?	Tu
+Wie kommt ein Enthusiast heute zu Filmmaterial?	Td
+Haben Sie einen Tisch frei?	Tu
+Können Sie uns die Karten besorgen?	Tu
+Können Sie bitte Ihren Sitz zurückklappen?	Tu
+Glauben Sie mir?	Tu
+Haben wir eine Wahl?	Tu
+Kannst du jemanden fragen?	Tu
+Wie viele Angeln sind gleichzeitig erlaubt?	Td
+Hast du dir den Artikel angesehen?	Tu
+Sind die deutschen Professoren in spe am Ende schlicht besser qualifiziert als ihre Schweizer Pendants?	Tu
+Wie viel?	Td
+Wie sieht es mit uns aus?	Td
+Wie heißen Sie?	Td
+Was werden die Leute dazu sagen?	Td
+Haben Sie getrunken?	Tu
+Auf der Homepage des Ressorts heißt es dazu erläuternd?	Tu
+Also der deutsche Politiker als Erfüllungsgehilfe der Enteignung deutschen Volksvermögens?	Tu
+Kannst du mir ein Glas holen?	Tu
+Wer ist diese Frau?	Td
+Erkennst du ihn?	Tu
+Ist es eilig?	Tu
+Hast du die Tür zugeschlossen?	Tu
+Wird das Überbewertet?	Tu
+Können Sie mir mit dem Fisch ein Foto machen?	Tu
+Kann ich Ihre Platzkarte sehen?	Tu
+Nicht wahr?	Tu
+Zu blöd, um einen Inbusschlüssel rechts/linksrum zu drehen oder was?	Tu
+Kann ich hier irgendwo einen anderen Wagen mieten?	Tu
+Kannst du ein bisschen rücken?	Tu
+Wer hat dir das gesagt?	Td
+Wie ist die Nummer des Abschleppdienstes?	Td
+Picknicken, Angeln, Segeln oder Campen und dabei die Energie der Sonne nutzen?	Tu
+Da fragst du noch?	Tu
+Hast du überhaupt eine Vorstellung davon, wie…?	Tu
+Können Sie mir einen Gefallen tun?	Tu
+Wie geht's deiner Frau?	Td
+Welche Leistungen umfasst die Versicherung?	Td
+Hast du keinen Hunger?	Tu
+Gibt es in der Nähe einen Park?	Tu
+Wie wäre es mit Alter, Behinderung, Augenfarbe, Linkshändigkeit?	Td
+Gibt es hier ein Telefon?	Tu
+Was ist die Hauptstadt Islands?	Td
+Soll ich fahren?	Tu
+Wo sind hier die Toiletten?	Td
+Wie lange dauert der Kurs?	Td
+Warum fließt das warme Wasser nicht?	Td
+Kann man sich auf ihn verlassen?	Tu
+Ist Teherans Hilfe für die Hisbollah im Libanon ein Parallelfall?	Tu
+Wo arbeiten Sie?	Td
+Hast du noch einen anderen?	Tu
+Interessieren Sie sich für…?	Tu
+Können Sie es mir bitte noch einmal schicken?	Tu
+Ist unsere Luftwaffe alarmbereit?	Tu
+Wie überqueren wir den Fluss?	Td
+Was würde die Fahrt zum Flughafen kosten?	Td
+Sind Sie schon mal hier gewesen?	Tu
+Wann wird es zu Ende sein?	Td
+Ist es schon fünf?	Tu
+Bis wann soll es gemacht werden?	Td
+Wann schließen Sie?	Td
+Wie kommt es zu dieser Namenlosigkeit?	Td
+Glauben Sie an Gott?	Tu
+Wie heißt die nächste Haltestelle?	Td
+Gibt es Flecken im Teppich, Macken im Parkett oder tropfende Wasserhähne?	Tu
+Welcher ist der größte?	Td
+Darf ich vorne sitzen?	Tu
+Darf ich den Mantel ausziehen?	Tu
+Was hat dich aufgehalten?	Td
+Wie lange wird die Überweisung dauern?	Td
+Welcher Bus fährt nach…?	Td
+Kann ich etwas gegen Luftkrankheit bekommen?	Tu
+Wer hat dabei profitiert?	Td
+Was ist dir passiert?	Td
+Wer kann am höchsten springen?	Td
+Kann man das Wasser trinken?	Tu
+Reprivatisieren wir Freiflächen?	Tu
+Ist was los?	Td
+Hören Sie zu Hause auch Opernmusik, oder gibt es nach Feierabend gar kein Kontrastprogramm?	Td
+Ist das ein Umsteigefahrschein?	Tu
+Ist dieser Platz frei?	Tu
+Brauche ich eine Arbeitserlaubnis?	Tu
+Müssen wir vor der Abreise das Zimmer aufräumen?	Tu
+Zahle ich jetzt oder bei der Abreise?	Tu
+Tut Ihnen etwas weh?	Tu
+Muss man auch für einen Anhänger bezahlen?	Tu
+Was hast du anderes erwartet?	Td
+Was tun, wenn Apple Mail keine Postfächer mehr anzeigt?	Td
+Wie viel passt hinein?	Td
+Wie bist du dazu gekommen?	Td
+Wie ist deine Adresse?	Td
+Was wurmt dich?	Td
+Kannst du das?	Tu
+Möchtest du etwas essen?	Tu
+Woran liegt es?	Td
+Wie ist die Vorhersage für heute?	Td
+Für wen arbeitest du?	Td
+Habe ich etwas Ungehöriges gesagt?	Tu
+Darf ich Ihnen meine Frau vorstellen?	Tu
+Trinken Sie Bier?	Tu
+Oder auf slowakisch?	Tu
+Warum ist Frau Merkel bislang im Wahlkampf so passiv?	Td
+Zum Mitreden, zum Anregen, zum miteinander darüber danach bei einem Glas Portwein diskutieren?	Tu
+In welchem Monat bist du denn?	Td
+Hast du meine Nachricht bekommen?	Tu
+Darf man es überhaupt?	Tu
+Wie viel Geld ist dir geblieben?	Td
+Wie viel macht das?	Td
+Was habe ich falsch gemacht?	Td
+Was soll an diesem Spot edel sein, von höhem Niveau?	Td
+Mit Pommes frites?	Tu
+Sollen auch Spitzensportler, die dopen, über die Sperre für Wettkämpfe hinaus eingesperrt werden?	Tu
+Wohin fährt dieser Zug?	Td
+Überschüssige Pfunde abzubauen kann gesundheitliche Vorteile bieten, doch welche Diät bringt den größten Erfolg?	Td
+Können Sie mir bitte fünfzig Euro wechseln?	Tu
+Können Sie mir das mehr nahebringen?	Tu
+War die Armee verhasst, weil das Offizierskorps aus Schiiten besteht?	Tu
+Was kostet eine Fahrt?	Td
+Wie lange dauert die Besichtigung?	Td
+Können Sie mir bitte sagen, wann ich aussteigen soll?	Tu
+Kannst du es dir überhaupt vorstellen?	Tu
+Wo ist der nächste Briefkasten?	Td
+Wo kann ich hier angeln?	Td
+Gibt es irgendwelche Vorschläge?	Tu
+Haben Sie freie Zimmer in der Zeit von…?	Tu
+Gehen wir zu mir?	Tu
+Lassen Sie die ehemals guten Marken jetzt auch dort produzieren, ohne Qualitätskontrollen?	Tu
+Hast du nichts zu tun?	Tu
+Wann fliegt das nächste Flugzeug nach…?	Td
+Ist das nicht zu stark?	Tu
+Warum sollte ich das machen?	Td
+Ist das ein neuer Gewerbezweig?	Tu
+Wer wird durch die globale Erwärmung leiden müssen?	Td
+Fährst du zur Arbeit mit dem Auto?	Tu
+Soll ich den Fernseher ausschalten?	Tu
+Können Sie kurz warten?	Tu
+Wann fährt der Zug?	Td
+Gibt es in der Nähe ein Restaurant mit Stil?	Tu
+Wie lange braucht man zu Fuß?	Td
+Können Sie uns vorstellen?	Tu
+Ob das Bier, das dann kilometerlang durch die Leitung plätschert, genauso gut schmeckt?	Tu
+In welche Richtung ist er gegangen?	Td
+Kann ich hier ein Fitnessgetränk kaufen?	Tu
+Wie steht's?	Td
+Sperrsitz oder Loge?	Tu
+Darf man das?	Tu
+Hält dieser Bus in…?	Tu
+Wie groß bist du?	Td
+Wie lange bleibt ihr hier?	Td
+Wollen Sie ihm eine Nachricht hinterlassen?	Tu
+Warst du schon mal dort?	Tu
+Wie lange kennt ihr euch schon?	Td
+Wie viele Teile hat es?	Td
+Hat sie mit ihm schon geschlafen?	Tu
+Magst du ein bisschen spazieren gehen?	Tu
+Wer spielt denn?	Td
+Komme ich zu spät?	Tu
+Habe ich bei einem funk Tacho, also drahtlos, die gleichen Probleme?	Tu
+Wo finde ich Sonnencreme?	Td
+Können wir auf dich zählen?	Tu
+Darf ich Ihren Pass sehen?	Tu
+Wer war das?	Td
+Haben Sie es verstanden?	Tu
+Bist du schon wach?	Tu
+Bleibt etwas übrig für mich?	Tu
+Auf welcher Seite stehst du?	Td
+Wie komme ich zu…?	Td
+Können wir an einigen örtlichen Sehenswürdigkeiten vorbeifahren?	Tu
+Sagt es dir was?	Tu
+Wo sind Sie jetzt?	Td
+Wie hat dir der Film gefallen?	Td
+Ja was sehen denn meine Äugelchen?	Td
+Wie geht's?	Td
+Gab es was zum Fortschleppen?	Tu
+Wo treffen wir uns?	Td
+Wie viel kostet die Fahrkarte für einen Erwachsenen?	Td
+Sind Sie hier zum ersten Mal?	Tu
+Welchen nimmst du?	Td
+Kann ich ein neues Formular bekommen?	Tu
+Von wem wissen Sie es?	Td
+Wo haben Sie studiert?	Td
+Hast du die letzte Folge gesehen?	Tu
+Kann man hier mit einem Wohnwagen campen?	Tu
+Ist es Ihnen nicht heiß?	Tu
+Können Sie uns durch die Stadt führen?	Tu
+Bezieht sich die Garantie auch auf…?	Tu
+Warum eigentlich nicht gleich Promille Big Brother im Trockendock?	Td
+Wie lange dauert die Fahrt zum Flughafen mit einem Taxi?	Td
+Für wann soll ich die Karten kaufen?	Td
+Haben sie Zimmer zu vermieten?	Tu
+Wieviele arbeiten im Importgeschäft?	Td
+Was brauchen Sie?	Td
+Hast du das Fenster zugemacht?	Tu
+Hast du den Verstand verloren?	Tu
+So weit?	Tu
+Haben Sie Käse?	Tu
+Was für eine Frage ist das?	Td
+Und was hast du erwartet?	Td
+Ist es etwas Ernstes?	Tu
+Können Sie mir einen Stift leihen?	Tu
+Was bedeutet Ihnen der Goldene Violinschlüssel?	Td
+Wer hat das Tor geschossen?	Td
+Wer hat es dir beigebracht?	Td
+Wie viel frisst dein Wagen?	Td
+Wie lange fahren wir noch?	Td
+Ist das nach deinem Geschmack?	Tu
+Wie lautet das Gesetz?	Td
+Kann ich dich nach Hause bringen?	Tu
+Wer ist dran?	Td
+Wie lange kann das Suchen dauern?	Td
+Haben Sie etwas Ähnliches?	Tu
+Also weniger Polemik, weniger Zuspitzung auch seitens der FPÖ?	Tu
+Wo finde ich einen Wischlappen?	Td
+Bis wann arbeitest du?	Td
+Kannst du das für mich bezahlen?	Tu
